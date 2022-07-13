@@ -1,0 +1,487 @@
+1; Bahan Dan Alat Abu batu ;5;220500
+2; Bahan Dan AlatAir ;3;10
+3; Bahan Dan Alat Alat Pompa ( alcone ) 5,5 PK ;10;7750000
+4; Bahan Dan Alat Aluminium foil ;9;15800
+5; Bahan Dan Alat Aluminium strip ;9;8900
+6; Bahan Dan Alat Amplas besi/kayu ;41;4500
+7; Bahan Dan Alat Asbes Bumbungan  ;9;36000
+8; Bahan Dan Alat Asbes gelombang besar (1 m x 2 m) ;41;126000
+9; Bahan Dan Alat Asbes gelombang kecil (1 m x 1,2 m) ;41;119700
+10; Bahan Dan Alat Aspal curah ;1;13000
+11; Bahan Dan Alat Aspal Pen. 60/70 (kemasan drum) ;1;14200
+12; Bahan Dan Alat Atap galvalum & laminasi ;9;107500
+13; Bahan Dan Alat Atap galvalum tebal 0,3 ;9;54000
+14; Bahan Dan Alat Atap kerpus onduline ;61;100800
+15; Bahan Dan Alat Atap kerpus metalroof  ;41;37800
+16; Bahan Dan Alat Atap metalroof nonpasir ;41;75600
+17; Bahan Dan Alat Atap metalroof pasir ;41;119700
+18; Bahan Dan Alat Atap onduline ;41;189000
+19; Bahan Dan Alat Automatic water level ;18;1984500
+20; Bahan Dan Alat Avour stanlis ;10;75600
+21; Bahan Dan Alat Baja konstruksi ;1;17100
+22; Bahan Dan Alat Bambu apus 4 meter ;11;12600
+23; Bahan Dan Alat Bambu ori 4 meter ;11;22100
+24; Bahan Dan Alat Bataco ;10;3800
+25; Bahan Dan Alat Batu andesit ;9;220500
+26; Bahan Dan Alat Batu bata merah ;10;900
+27; Bahan Dan Alat Batu blondos ;5;157500
+28; Bahan Dan Alat Batu candi ;9;113400
+29; Bahan Dan Alat Batu Kali ;5;308700
+30; Bahan Dan Alat Batu Kambang/apung ;1;13900
+31; Bahan Dan Alat Batu lempeng  ;9;81900
+32; Bahan Dan Alat Batu muka ;10;2500
+33; Bahan Dan Alat Batu palimanan ;9;144900
+34; Bahan Dan Alat Batu paras ;9;126000
+35; Bahan Dan Alat Batu pecah 1/2/1 cm (mesin/cruser) ;5;327600
+36; Bahan Dan Alat Batu pecah 1/2 cm (mesin/cruser) ;5;324500
+37; Bahan Dan Alat Batu pecah 2/3 cm/split (mesin/cruser) ;5;321300
+38; Bahan Dan Alat Batu Pecah 2/3 cm ;5;318200
+39; Bahan Dan Alat Batu pecah 3/5 cm (mesin/cruser) ;5;318200
+40; Bahan Dan Alat Batu Pecah 3/5 cm ;5;317600
+41; Bahan Dan Alat Batu Pecah 5/7 cm ;5;316300
+42; Bahan Dan Alat Batu Pecah 10/15 cm ;5;315000
+43; Bahan Dan Alat Batu Pecah 15/20 cm ;5;311900
+44; Bahan Dan Alat Baut baja ;1;31500
+45; Bahan Dan Alat Benang kenur ;50;3100
+46; Bahan Dan Alat Besi Beton ;1;13900
+47; Bahan Dan Alat Besi hollow 1,8/3,8 cm t:0,3 ;6;5700
+48; Bahan Dan Alat Besi hollow 3,8/3,8 cm t:0,3 ;6;9500
+49; Bahan Dan Alat Besi profil siku ;1;22100
+50; Bahan Dan Alat Besi teralis strip plat ;1;19600
+51; Bahan Dan Alat Buisbeton 1/2 d. 20 cm pj. 1  m ;10;31500
+52; Bahan Dan Alat Buisbeton  1/2 d. 30 cm pj. 1  m ;10;41000
+53; Bahan Dan Alat Buisbeton  d. 20 cm pj. 1  m ;10;41000
+54; Bahan Dan Alat Buisbeton d. 30 cm pj. 1  m ;10;59900
+55; Bahan Dan Alat Buisbeton d. 40 cm pj. 1  m ;10;63000
+56; Bahan Dan Alat Buisbeton d. 50 cm pj. 1  m ;10;88200
+57; Bahan Dan Alat Buisbeton d. 60 cm pj. 1  m ;10;100800
+58; Bahan Dan Alat Buisbeton d. 80 cm pj. 0,5  m ;10;107100
+59; Bahan Dan Alat Buisbeton d. 100 cm pj. 0,5  m ;10;157500
+60; Bahan Dan Alat Calseboard 1 x 1 meter persegi tebal 3 mm ;41;21500
+61; Bahan Dan Alat Cangkul ;10;193750
+62; Bahan Dan Alat Cat besi ;1;63000
+63; Bahan Dan Alat Cat kayu (dalam/luar) ;1;63000
+64; Bahan Dan Alat Cat meni besi ;1;31500
+65; Bahan Dan Alat Cat meni kayu ;1;31500
+66; Bahan Dan Alat Cat tembok (dalam) ;1;28400
+67; Bahan Dan Alat Cat tembok (luar) ;1;157500
+68; Bahan Dan Alat Check valve  diameter 1.5 inci ;10;1575000
+69; Bahan Dan Alat Cikrak bambu ;10;31000
+70; Bahan Dan Alat Closet duduk ex. INA/American Standard ;10;1701000
+71; Bahan Dan Alat Closet duduk ex. Toto ;10;2300000
+72; Bahan Dan Alat Closet duduk monoblock ;10;1260000
+73; Bahan Dan Alat Closet jongkok  ;10;126000
+74; Bahan Dan Alat Closet jongkok ex.  INA/American Standard ;10;189000
+75; Bahan Dan Alat Daun pintu alminium coklat ;10;1500000
+76; Bahan Dan Alat Daun pintu alminium putih ;10;1300000
+77; Bahan Dan Alat Dempul/plamur/wood filler ;1;20200
+78; Bahan Dan Alat Down light 4 inci ;10;37800
+79; Bahan Dan Alat Dunak bambu ;10;19500
+80; Bahan Dan Alat Ember plastik ;10;11000
+81; Bahan Dan Alat Emergency light ;10;500000
+82; Bahan Dan Alat Engsel jendela biasa ;10;7600
+83; Bahan Dan Alat Engsel jendela sedang ;10;9500
+84; Bahan Dan Alat Engsel jendela super ;10;15800
+85; Bahan Dan Alat Engsel pintu biasa ;10;8200
+86; Bahan Dan Alat Engsel pintu sedang ;10;13000
+87; Bahan Dan Alat Engsel pintu super ;10;16700
+88; Bahan Dan Alat  Eternit asbes 1 x 1 meter persegi  ;41;12600
+89; Bahan Dan Alat  Fiber glass (bak air) 0,50 m3 ;10;378000
+90; Bahan Dan Alat  Fiber glass (bak air) 1,00 m3 ;10;1008000
+91; Bahan Dan Alat  Fitting Porselin ;10;9500
+92; Bahan Dan Alat  Flang Steel  diameter 2 inci ;10;75600
+93; Bahan Dan Alat  Floor drain ;10;75600
+94; Bahan Dan Alat Folding Gate tebal 0,04 mm ;9;693000
+95; Bahan Dan Alat Folding Gate tebal 0,06 mm ;9;819000
+96; Bahan Dan Alat Folding Gate tebal 0,08 mm ;9;945000
+97; Bahan Dan Alat Folding Gate tebal 1,20 mm ;9;1260000
+98; Bahan Dan Alat  Gancu ;10;116500
+99; Bahan Dan Alat Garuk Sampah ;10;93000
+100; Bahan Dan Alat Genteng Ex. Mojolaban / Mantili ;10;2300
+101; Bahan Dan Alat Genteng ex. Mojolaban/Mantili ;10;7600
+102; Bahan Dan Alat Genteng keramik setara M-Class ;10;12000
+103; Bahan Dan Alat Genteng kerpus Ex. Mojolaban ;10;7600
+104; Bahan Dan Alat Genteng kerpus glasur Jatiwangi ;10;12000
+105; Bahan Dan Alat Genteng kerpus glasur Kebumen ;10;11400
+106; Bahan Dan Alat Genteng kerpus Jatiwangi ;10;10100
+107; Bahan Dan Alat Genteng kerpus keramik ;10;18900
+108; Bahan Dan Alat Genteng kerpus keramik setara M-Class ;10;18900
+109; Bahan Dan Alat Genting Beton ;10;5100
+110; Bahan Dan Alat Genting Glasur Jatiwangi ;10;6000
+111; Bahan Dan Alat Genting Glasur Kebumen ;10;8200
+112; Bahan Dan Alat Genting Keramik ;10;12600
+113; Bahan Dan Alat Genting Krepus Kebumen ;10;10100
+114; Bahan Dan Alat Genting Krepus Polintong ;10;10000
+115; Bahan Dan Alat Genting kerpus beton ;10;7600
+116; Bahan Dan Alat Genting Magas Kebumen ;10;3500
+117; Bahan Dan Alat Genting Morando Jatiwangi  ;10;5000
+118; Bahan Dan Alat Genting Morando Kebumen  ;10;5100
+119; Bahan Dan Alat Genting Polintong Lokal ;10;1500
+120; Bahan Dan Alat Granit tile 40 x 40 cm warna muda ;9;280000
+121; Bahan Dan Alat Granit tile 40 x 40 cm warna tua ;9;300000
+122; Bahan Dan Alat Granit tile 60 x 60 cm warna muda ;9;135500
+123; Bahan Dan Alat Granit tile 60 x 60 cm warna tua ;9;335200
+124; Bahan Dan Alat Granit tile 80 x 80 cm warna muda ;9;252000
+125; Bahan Dan Alat Granit tile 80 x 80 cm warna tua ;9;409500
+126; Bahan Dan Alat Granit tile 100 x 100 cm warna muda ;9;504000
+127; Bahan Dan Alat Granit tile 100 x 100 cm warna tua ;9;630000
+128; Bahan Dan Alat Granit 100 x 100 (batu Granit) ;9;1008000
+129; Bahan Dan Alat Kabel listrik 1,50 mm ;6;5700
+130; Bahan Dan Alat Kabel listrik 2,50 mm ;6;7000
+131; Bahan Dan Alat Kabel power ;18;2079000
+132; Bahan Dan Alat Kaca bening 3 mm ;9;88200
+133; Bahan Dan Alat Kaca bening 5 mm ;9;94500
+134; Bahan Dan Alat Kaca bening 6 mm ;9;100800
+135; Bahan Dan Alat Kaca bening 8 mm ;9;113400
+136; Bahan Dan Alat Kaca es 5 mm ;9;107100
+137; Bahan Dan Alat Kaca naco daun bening ;9;120000
+138; Bahan Dan Alat Kaca rayben 5 mm ;9;100800
+139; Bahan Dan Alat Kaca tempered 12 mm + komplit ;18;8190000
+140; Bahan Dan Alat Kaca framelist 8 mm ;18;630000
+141; Bahan Dan Alat Kanstein beton ;10;36600
+142; Bahan Dan Alat Kapur Pasang ;5;283500
+143; Bahan Dan Alat Karpet biasa ;9;63000
+144; Bahan Dan Alat Karpet tebal ;9;107100
+145; Bahan Dan Alat Kawat bendrat ;1;27800
+146; Bahan Dan Alat Kawat bronjong ;1;13900
+147; Bahan Dan Alat Kawat D 4 mm ;1;20800
+148; Bahan Dan Alat Kawat duri (30 meter ) ;50;567000
+149; Bahan Dan Alat Kawat harmonika ;9;31000
+150; Bahan Dan Alat Kawat las listrik (lastok) ;1;27800
+151; Bahan Dan Alat Kawat saringan pasir ;9;19750
+152; Kawur/ kapur Pasang ;5;283500
+153; Bahan Dan Alat Kayu bakar ;1;1400
+154; Bahan Dan Alat Kayu bangkiray balok ;5;13860000
+155; Bahan Dan Alat Kayu bangkiray papan ;5;15750000
+156; Bahan Dan Alat Kayu begesting/sengon ;5;1638000
+157; Bahan Dan Alat Kayu begesting steiger/dolken 4  m ;10;11400
+158; Bahan Dan Alat Kayu dudukan Fitting ;10;5100
+159; Bahan Dan Alat Kayu jati hutan untuk rangka atap  ;5;20000000
+160; Bahan Dan Alat Kayu jati hutan untuk kusen ;5;22500000
+161; Bahan Dan Alat Kayu jati lokal untuk kusen ;5;14500000
+162; Bahan Dan Alat Kayu jati lokal untuk rangka atap ;5;17500000
+163; Bahan Dan Alat Kayu jati untuk konstruksi jembatan ;5;30000000
+164; Bahan Dan Alat Kayu jati untuk perquet ;9;400000
+165; Bahan Dan Alat Kayu kamper balok ;5;11970000
+166; Bahan Dan Alat Kayu kamper papan ;5;13230000
+167; Bahan Dan Alat Kayu kruing balok ;5;7560000
+168; Bahan Dan Alat Kayu kruing papan ;5;8190000
+169; Bahan Dan Alat Kayu list profil ;6;9500
+170; Bahan Dan Alat Kayu meranti 5/7 ;5;6615000
+171; Bahan Dan Alat Kayu meranti papan 30 cm  ;5;7245000
+172; Bahan Dan Alat Kayu meranti reng 2/3 ;5;4032000
+173; Bahan Dan Alat Kayu sengon papan  ;5;2520000
+174; Bahan Dan Alat Kayu perancah ;5;1575000
+175; Bahan Dan Alat Kayu sengon kaso 5/7 ;5;2205000
+176; Bahan Dan Alat Kayu sirap  ;48;157500
+177; Bahan Dan Alat Keramik 20 x 20 ;9;63000
+178; Bahan Dan Alat Keramik 20 x 25 dinding ;9;56100
+179; Bahan Dan Alat Keramik 30 x 30 eksterior texture ;9;75600
+180; Bahan Dan Alat Keramik 30 x 30 polos ;9;53600
+181; Bahan Dan Alat Keramik 30 x 30 warna motif  ;9;63000
+182; Bahan Dan Alat Keramik 30 x 60 dinding ;9;110300
+183; Bahan Dan Alat Keramik 40 x 40 ( Platinum ) ;9;74300
+184; Bahan Dan Alat Keramik 40 x 40 eksterior texture ;9;95100
+185; Bahan Dan Alat Keramik 40 x 40 polos ;9;69300
+186; Bahan Dan Alat Keramik 40 x 40 warna motif  ;9;80400
+187; Bahan Dan Alat Kerikil Sungai di quary ;5;28400
+188; Bahan Dan Alat Knie Galvanis  diameter 2 inci - 90º dan 45º ;10;37800
+189; Bahan Dan Alat Kran Air  diameter 1 inci ( biasa ) ;10;20800
+190; Bahan Dan Alat Kran Air  diameter 1 inci ( sedang ) ;10;34700
+191; Bahan Dan Alat Kran Air  diameter 1 inci  ( super ) ;10;69300
+192; Bahan Dan Alat Kran Air  diameter 3/4 inci ( biasa ) ;10;25200
+193; Bahan Dan Alat Kran Air  diameter 3/4 inci ( sedang ) ;10;32200
+194; Bahan Dan Alat Kran Air  diameter 3/4 inci  ( super ) ;10;78800
+195; Bahan Dan Alat Kran Air  diameter 1/2 inci ( biasa ) ;10;22100
+196; Bahan Dan Alat Kran Air  diameter 1/2 inci ( sedang ) ;10;37800
+197; Bahan Dan Alat Kran Air  diameter 1/2 inci ( super ) ;10;56700
+198; Bahan Dan Alat Kran tipe handle  diameter 3/4 inci ;10;50400
+199; Bahan Dan Alat Kusen Almunium coklat 4 inci ;6;119700
+200; Bahan Dan Alat Kusen aluminium coklat 3 inci ;6;88200
+201; Bahan Dan Alat Kusen aluminium motif kayu 4 inci ;6;176400
+202; Bahan Dan Alat Kusen Almunium putih 4 inci ;6;126000
+203; Bahan Dan Alat Kusen aluminium silver 4 inci ;6;100800
+204; Bahan Dan Alat Kusen aluminium silver 3 inci ;6;81900
+205; Bahan Dan Alat Kuwas 4 inci ;10;17100
+206; Bahan Dan Alat Lampu SL 18 watt ;10;44100
+207; Bahan Dan Alat Lampu SL 20 watt ;10;47300
+208; Bahan Dan Alat Lampu  TL 20 watt komplit ;10;63000
+209; Bahan Dan Alat Lem kayu ;1;15800
+210; Bahan Dan Alat Lem kayu putih ex. Fox ;1;15200
+211; Bahan Dan Alat Lem kuning ex. Aica Aibon ;1;69300
+212; Bahan Dan Alat Lem wallpaper ;1;69300
+213; Bahan Dan Alat Linggis ;10;108500
+214; Bahan Dan Alat List Profil Gypsum ;9;15200
+215; Bahan Dan Alat Marmer ex. import  ;9;3150000
+216; Bahan Dan Alat Marmer ex. import Italy  ;9;1575000
+217; Bahan Dan Alat Marmer Prasasti ;10;315000
+218; Bahan Dan Alat Marmer Tulung Agung 30 x 30 cm  ;9;88200
+219; Bahan Dan Alat Marmer Tulung Agung 40 x 40 cm ;9;107100
+220; Bahan Dan Alat Marmer Tulung Agung 60 x 60 cm ;9;126000
+221; Bahan Dan Alat Marmer Tulung Agung 80 x 80 cm ;9;252000
+222; Bahan Dan Alat Marmer Tulung Agung 100 x 100 cm ;9;315000
+223; Bahan Dan Alat Multiplex 4 mm  ;41;76900
+224; Bahan Dan Alat Multiplex 6 mm  ;41;113400
+225; Bahan Dan Alat Multiplex 8 mm  ;41;138600
+226; Bahan Dan Alat Multiplex 9 mm  ;41;157500
+227; Bahan Dan Alat Multiplek 12 mm ;41;189000
+228; Bahan Dan Alat Marmer Nomen Klatur ;10;65000
+229; Bahan Dan Alat P.C. ( 1 Zak = @ 40 kg ) ;1;1700
+230; Bahan Dan Alat Pagar BRC ( ting. 0,9 m x pj. 2,4 m x d. 6 mm ) ;41;220500
+231; Bahan Dan Alat Paku Eternit ;1;27800
+232; Bahan Dan Alat Paku Pacing/skrup asbes/baut trip ;1;27800
+233; Bahan Dan Alat Paku Pacing/skrup asbes/baut trip ;10;800
+234; Bahan Dan Alat Paku reng ;1;17100
+235; Bahan Dan Alat Paku sekrup ;1;28400
+236; Bahan Dan Alat Paku sekrup ;10;200
+237; Bahan Dan Alat Paku sekrup fisher/dynebolt/ramset ;10;6300
+238; Bahan Dan Alat Paku sekrup onduline ;10;1100
+239; Bahan Dan Alat Paku Triplek 2 cm ;1;27500
+240; Bahan Dan Alat Paku Usuk / Reng ;1;17100
+241; Bahan Dan Alat Panel Control lengkap ;18;5670000
+242; Bahan Dan Alat Papan Nama Proyek ;10;380000
+243; Bahan Dan Alat Parang ;10;65000
+244; Bahan Dan Alat Pasang rangka atap baja ringan ;9;252000
+245; Bahan Dan Alat Pasir Beton  ;5;352800
+246; Bahan Dan Alat Pasir Pasang  ;5;315000
+247; Bahan Dan Alat Pasir sirtu lokal ;5;189000
+248; Bahan Dan Alat Pasir sirtu woro ;5;277200
+249; Bahan Dan Alat Pasir Tras ;5;157500
+250; Bahan Dan Alat Pasir Urug ;5;176400
+251; Bahan Dan Alat Paving 6 cm K.175 (abu-abu) ;9;87000
+252; Bahan Dan Alat Paving 6 cm K.175 (warna) ;9;93300
+253; Bahan Dan Alat Paving 6 cm K.250 (abu-abu) ;9;96800
+254; Bahan Dan Alat Paving 6 cm K.250 (warna)  ;9;103400
+255; Bahan Dan Alat Paving 8 cm K.175 (abu-abu) ;9;103400
+256; Bahan Dan Alat Paving 8 cm K.175 (warna) ;9;109700
+257; Bahan Dan Alat Paving 8 cm K.250 (abu-abu) ;9;122300
+258; Bahan Dan Alat Paving 8 cm K.250 (warna)  ;9;126000
+259; Bahan Dan Alat Paving 8 cm K.300 (abu-abu) ;9;138600
+260; Bahan Dan Alat Paving 8 cm K.300 (warna) ;9;144900
+261; Bahan Dan Alat Paving tebal 6 cm (kotak) ;9;86700
+262; Bahan Dan Alat Paving tebal 6 cm (segi enam) ;9;86700
+263; Bahan Dan Alat Paving tebal 6 cm K. 225 ;9;90100
+264; Bahan Dan Alat Paving tebal 8 cm K. 225 ;9;112200
+265; Bahan Dan Alat PC Putih (40 kg) ;1;2900
+266; Bahan Dan Alat PC Warna (40 kg) ;1;15500
+267; Bahan Dan Alat Peilschall t : 0,5 m (aluminium) ;10;125000
+268; Bahan Dan Alat Pintu PVC biasa ;10;283500
+269; Bahan Dan Alat Pipa Air Besi  diameter 1/2 inci-6 meter  ;11;56700
+270; Bahan Dan Alat Pipa Air Besi  diameter 3/4 inci-6 meter  ;11;75600
+271; Bahan Dan Alat Pipa Air Besi  diameter 1 inci-6 meter  ;11;81900
+272; Bahan Dan Alat Pipa Air Besi  diameter 1 1/4 inci-6 meter  ;11;107100
+273; Bahan Dan Alat Pipa Air Besi  diameter 1 1/2 inci-6 meter  ;11;151200
+274; Bahan Dan Alat Pipa Air Besi  diameter 2 inci-6 meter  ;11;182700
+275; Bahan Dan Alat Pipa Air Besi  diameter 2 1/2 inci-6 meter  ;11;327600
+276; Bahan Dan Alat Pipa Air Gl Med.A  diameter 1/2 inci-6 meter  ;11;144900
+277; Bahan Dan Alat Pipa Air Gl Med.A  diameter 3/4 inci-6 meter ;11;170100
+278; Bahan Dan Alat Pipa Air Gl Med.A  diameter 1 inci-6 meter  ;11;264600
+279; Bahan Dan Alat Pipa Air Gl Med.A  diameter 1 1/4 inci-6 meter  ;11;340200
+280; Bahan Dan Alat Pipa Air Gl Med.A  diameter 1 1/2 inci-6 meter  ;11;560700
+281; Bahan Dan Alat Pipa Air Gl Med.A  diameter 2 inci-6 meter  ;11;674100
+282; Bahan Dan Alat Pipa Air Gl Med.A  diameter 2 1/2 inci-6 meter  ;11;793800
+283; Bahan Dan Alat Pipa galvanis  diameter 1,5 inci / 6 m. t= 2,5 mm ;11;560700
+284; Bahan Dan Alat Pipa galvanis  diameter 2  inci / 6 m. t= 2,5 mm ;11;674100
+285; Bahan Dan Alat Pipa galvanis  diameter 3  inci / 6 m. t= 2,5 mm ;11;844200
+286; Bahan Dan Alat Pipa PVC 1/2  inci - 4 meter persegi AW ;10;25200
+287; Bahan Dan Alat Pipa PVC 3/4  inci - 4 meter persegi AW ;10;31500
+288; Bahan Dan Alat Pipa PVC 1  inci - 4 meter persegi AW ;10;37800
+289; Bahan Dan Alat Pipa PVC 1,5  inci - 4 meter persegi AW ;10;81900
+290; Bahan Dan Alat Pipa PVC 2  inci - 4 meter persegi AW ;10;144900
+291; Bahan Dan Alat Pipa PVC 2,5  inci - 4 meter persegi AW ;10;170100
+292; Bahan Dan Alat Pipa PVC 3  inci - 4 meter persegi AW ;10;195300
+293; Bahan Dan Alat Pipa PVC 4  inci - 4 meter persegi AW ;10;352800
+294; Bahan Dan Alat Pipa PVC 6  inci - 4 meter persegi AW ;10;560700
+295; Bahan Dan Alat Pipa PVC 8  inci - 4 meter persegi AW ;10;869400
+296; Bahan Dan Alat Pipa PVC S. 12.50  diameter 1 1/2 inci - 6 m ;10;157500
+297; Bahan Dan Alat Pipa PVC S. 12.50  diameter 2 inci - 6 m ;10;176400
+298; Bahan Dan Alat Pipa PVC  S. 16  diameter 2 inci - 6 m ;10;144900
+299; Bahan Dan Alat Pipa PVC S. 16  diameter 4 inci - 6 m ;10;441000
+300; Bahan Dan Alat Plamir ;1;22100
+301; Bahan Dan Alat Plint granit 10 x 20 cm ;10;15800
+302; Bahan Dan Alat Plint granit 10 x 30 cm  ;10;25200
+303; Bahan Dan Alat Plint granit 10 x 40 cm ;10;31500
+304; Bahan Dan Alat Plint granit 10 x 60 cm ;10;37800
+305; Bahan Dan Alat Plint keramik   7 x 20 ;10;3800
+306; Bahan Dan Alat Plint keramik 10 x 20 ;10;5700
+307; Bahan Dan Alat Plint keramik 10 x 30 cm ;10;6300
+308; Bahan Dan Alat Plint keramik 10 x 40 cm ;10;7000
+309; Bahan Dan Alat Plint keramik 10 x 60 cm ;10;8200
+310; Bahan Dan Alat Plint teraso ;10;7600
+311; Bahan Dan Alat Plint ubin PC warna 15 x 20 cm ;10;4800
+312; Bahan Dan Alat Politur ;1;88200
+313; Bahan Dan Alat Politur jadi ;1;100800
+314; Bahan Dan Alat Pompa Air (listrik)  450 watt ex. Dab ;10;693000
+315; Bahan Dan Alat Pompa Submersible 2 pk, Q = 2 lt, H = 70 m ;18;18900000
+316; Bahan Dan Alat Pompa Submersible 3 pk, Q = 2 lt, H = 70 m ;18;31500000
+317; Bahan Dan Alat Porselin 10 x 10  ;13;34100
+318; Bahan Dan Alat Porselin 11 x 11  ;13;34100
+319; Bahan Dan Alat Portland Cement (PC) 40 kg ;1;1700
+320; Bahan Dan Alat Profil aluminium ;6;8900
+321; Bahan Dan Alat Ram  ;6;138600
+322; Bahan Dan Alat Ramset ;10;1800
+323; RBahan Dan Alat esidu/ter ;3;5100
+324; Bahan Dan Alat Roaster batu alam ;10;44800
+325; Bahan Dan Alat Roaster Beton ;10;17100
+326; Bahan Dan Alat Roaster Kayu Jati ;10;47900
+327; Bahan Dan Alat Roaster tanah/genting ;10;10800
+328; Bahan Dan Alat Rolling Door Aluminium ;9;535500
+329; Bahan Dan Alat Semen Merah ;5;346500
+330; Bahan Dan Alat Seng Glmbg.BJLS-0,3 ( 0,9 m x 1,8 m) ;41;94500
+331; Bahan Dan Alat Seng Glmbg.BJLS-0,3 ( 0,9 m x 2,1 m ) ;41;100800
+332; Bahan Dan Alat Seng Plat BJLS-0,3 ( 0.9 m x 1,8 m ) ;41;82600
+333; Bahan Dan Alat Seng Talang Bjls 30 lebar 0,60 ;9;37800
+334; Bahan Dan Alat Seng Talang Bjls 30 lebar 0,90 ;9;63000
+335; Bahan Dan Alat Sepatu Kerja/ boot ;10;132500
+336; Bahan Dan Alat Shower ;42;630000
+337; Bahan Dan Alat Slot Biasa ;10;88200
+338; Bahan Dan Alat Slot Kunci Pipih ( biasa ) ;10;144900
+339; Bahan Dan Alat Slot Kunci Pipih ( sedang ) ;10;252000
+340; Bahan Dan Alat Slot Kunci Pipih ( super ) ;10;258300
+341; Bahan Dan Alat Stabilizer 5000 watt ;18;3969000
+342; Bahan Dan Alat Stop Kontak ;10;19600
+343; Bahan Dan Alat Stop Kran Kuningan 3/4 inci ;10;34700
+344; Bahan Dan Alat Stop Kran tipe handle  diameter  1.5 inci ;10;94500
+345; Bahan Dan Alat Stop Kran tipe handle  diameter 2 inci ;10;157500
+346; Bahan Dan Alat Strorox-100 ;1;56700
+347; Bahan Dan Alat Tanah bentonit ;1;7000
+348; Bahan Dan Alat Tanah liat ;5;44100
+349; Bahan Dan Alat Tanah cadas ;5;50400
+350; Bahan Dan Alat Tanah urug pilihan ;5;53600
+351; Bahan Dan Alat Tandon air 1000 liter (fiber) ;10;1890000
+352; Bahan Dan Alat Tang Klem Segel ;10;3500000
+353; Bahan Dan Alat Tegel abu-abu 20 x 20 cm ;9;25200
+354; Bahan Dan Alat Tegel abu-abu 30 x 30 cm ;9;32800
+355; Bahan Dan Alat Tegel wafel abu-abu ;9;30300
+356; Bahan Dan Alat Tegel wafel warna ;9;36600
+357; Bahan Dan Alat Tepung gypsum ;1;4500
+358; Bahan Dan Alat Triplek Tebal 2,7 mm (1,2x2,4) Kruing ;41;69300
+359; Bahan Dan Alat Triplek Tebal 2,7 mm (1,2x2,4) Sengon ;41;63000
+360; Bahan Dan Alat Triplek Tebal 4 mm (1,2x2,4) Kruing ;41;85100
+361; Bahan Dan Alat Triplek Tebal 4 mm (1,2x2,4) Sengon ;41;75600
+362; Bahan Dan Alat Urinoir ;10;2205000
+363; Bahan Dan Alat Vernis ;3;189000
+364; Bahan Dan Alat Wallpaper lebar 50 cm ;6;44100
+365; Bahan Dan Alat Wasbak (bak cuci) stainless ;10;504000
+366; Bahan Dan Alat Wastafel komplit ;10;756000
+367; Bahan Dan Alat Woodplank ( 4 M ) ;9;81900
+368; Bahan Dan Alat Besi Hollow galvanis 1,8/3,8 cm t:0,3 ;6;7600
+369; Bahan Dan Alat Besi Hollow galvanis 3,8/3,8 cm t:0,3 ;6;12600
+370; Bahan Dan Alat Besi Wire Mesh M 5 (4,5 mm) uk. 2,1 x 5,4 ;41;300100
+371; Bahan Dan Alat Besi Wire Mesh M 6 (5,2 mm) uk. 2,1 x 5,4 ;41;416000
+372; Bahan Dan Alat Besi Wire Mesh M 6 (5,5 mm) uk. 2,1 x 5,4 ;41;446700
+373; Bahan Dan Alat Besi Wire Mesh M 6 (5,6 mm) uk. 2,1 x 5,4 ;41;480700
+374; Bahan Dan Alat Besi Wire Mesh M 7 (6,5 mm) uk. 2,1 x 5,4 ;41;624000
+375; Bahan Dan Alat Besi Wire Mesh M 8 (7,2 mm) uk. 2,1 x 5,4 ;41;787700
+376; Bahan Dan Alat Besi Wire Mesh M 8 (7,5 mm) uk. 2,1 x 5,4 ;41;830300
+377; Bahan Dan Alat Besi Wire Mesh M 8 (7,6 mm) uk. 2,1 x 5,4 ;41;876300
+378; Bahan Dan Alat Besi Wire Mesh M 10 (9,5 mm) uk. 2,1 x 5,4 ;41;1365600
+379; Bahan Dan Alat Besi Wire Mesh M 12 (11,5 mm) uk. 2,1 x 5,4 ;41;2125900
+380; Bahan Dan Alat Atap polycarbonat ;9;67200
+381; Bahan Dan Alat  Keramik Interlok ;9;285000
+382; Bahan Dan Alat Keramik Kayu ;9;365300
+383; Bahan Dan Alat Keramik 10 x 40 cm stepnose  ;9;8900
+384; Bahan Dan Alat MCB ;10;68100
+385; Bahan Dan Alat MCB BOX ;10;22100
+386; Bahan Dan Alat Paving 8 cm ;9;97100
+387; Bahan Dan Alat Paving Difabel ;9;56200
+388; Bahan Dan Alat Paving Grass Block ;9;133900
+389; Bahan Dan Alat Pintu KM/WC PVC sedang ;10;693000
+390; Bahan Dan Alat Plint keramik   8 x 20 ;10;3800
+391; Bahan Dan Alat Roster keramik uk. 30x30 ;10;45400
+392; Bahan Dan Alat Tandon air 1000 liter (stainless) ;10;4725000
+393; Bahan Dan Alat Kaca cermin 5 mm ;9;310000
+394; BAHAN BOX CULVERT TYPE BINA MARGA BEBAN Gandar 21 Ton BC 400x400x1000 ;18;913500
+395; BAHAN BOX CULVERT TYPE BINA MARGA BEBAN Gandar 21 Ton BC 500x500x1000 ;18;1197000
+396; BAHAN BOX CULVERT TYPE BINA MARGA BEBAN Gandar 21 Ton BC 600x600x1000 ;18;1512000
+397; BAHAN BOX CULVERT TYPE BINA MARGA BEBAN Gandar 21 Ton BC 800x800x1000 ;18;2847600
+398; BAHAN BOX CULVERT TYPE BINA MARGA BEBAN Gandar 21 Ton BC 1000x1000x1000 ;18;3540600
+399; BAHAN BOX CULVERT TYPE BINA MARGA BEBAN Gandar 21 Ton BC 1200x1200x1000 ;18;6174000
+400; BAHAN BOX CULVERT TYPE BINA MARGA BEBAN Gandar 21 Ton BC 1400x1400x1000 ;18;4662000
+401; BAHAN BOX CULVERT TYPE BINA MARGA BEBAN Gandar 21 Ton BC 1500x1500x1000 ;18;7345800
+402; BAHAN BOX CULVERT TYPE BINA MARGA BEBAN Gandar 21 Ton BC 1600x1600x1000 ;18;8127000
+403; BAHAN BOX CULVERT TYPE BINA MARGA BEBAN Gandar 21 Ton BC 1800x1800x1000 ;18;9135000
+404; BAHAN BOX CULVERT TYPE BINA MARGA BEBAN Gandar 21 Ton BC 2000x2000x1000 ;18;10155600
+405;Bahan Pintu Pengairan Plat daun pintu t: 8 mm;9;2205000
+406;Bahan Pintu Pengairan Drat ulir   diameter 1 1/2 inci;6;1890000
+407;Bahan Pintu Pengairan Drat ulir  diameter 2 inci;6;2520000
+408;Bahan Pintu Pengairan Siku L 70.70.3;11;441000
+409;Bahan Pintu Pengairan Anting baja;10;315000
+410;Bahan Pintu Pengairan Anting baja;10;126000
+411;Bahan Pintu Pengairan Stang pintu;10;1260000
+412;Bahan Pintu Pengairan Stang pemutar;10;945000
+413;Bahan Pintu Pengairan Baut anting;10;8900
+414;Bahan Pintu Pengairan Baut anting  diameter 3/4 inci;10;252000
+415;Bahan Pintu Pengairan Baut penguat anting;10;126000
+416;Bahan Pintu Pengairan Peluncur stanlis (2,20 x 0,04 x 5 mm );10;1260000
+417;Bahan Pintu Pengairan Siku L ( 9 x 9 x 7 mm );6;189000
+418;Bahan Pintu Pengairan Baja kerangka pintu ( 12 x 5 x 6 mm);11;693000
+419;Bahan Pintu Pengairan Baja C 12 ( 12,8 , 5,2 , 5 mm);11;756000
+420;Bahan Pintu Pengairan Plat block frame 120 x 240;41;1449000
+421;Bahan Pintu Pengairan Siku pengait landasan ( 70 x 70 x 6 mm);10;441000
+422;Bahan Pintu Pengairan Besi angkur  diameter12;10;122300
+423;Bahan Pintu Pengairan Baut bingkai  diameter12;10;3800
+424;Bahan Pintu Pengairan Mur baut  diameter 12;10;3800
+425;Bahan Pintu Pengairan Mur kuningan  diameter 3  inci;10;315000
+426;Bahan Pintu Pengairan Mur kuningan  diameter 2 inci;10;252000
+427;Bahan Pintu Pengairan Baut pengait landasan  diameter 16;10;6300
+428;Bahan Pintu Pengairan Pengait box;10;6300
+429;Bahan Pintu Pengairan Baja Cu ( 70 x 200 x 70 );11;1827000
+430;Bahan Pintu Pengairan Plat blok 120 x 240;41;1701000
+431;Bahan Pintu Pengairan Baut pesagen;10;6300
+432;Bahan Pintu Pengairan Dudukan kuningan;10;2520000
+433;Bahan Pintu Pengairan Dudukan kuningan;10;630000
+434;Bahan Pintu Pengairan Gigi kuningan;10;1701000
+435;Bahan Pintu Pengairan Gigi stang;10;693000
+436;Bahan Pintu Pengairan Dudukan stang pemutar;10;945000
+437;Bahan Pintu Pengairan As pemutar;6;262100
+438;Bahan Pintu Pengairan Blok penyangga as;10;945000
+439;Bahan Pintu Pengairan Mur kuningan  diameter 3  inci;10;315000
+440;Bahan Pintu Pengairan Mur kuningan  diameter 2 inci;10;252000
+441;Bahan Pintu Pengairan Gigi nanas;10;945000
+442;Bahan Pintu Pengairan Tutup pengaman gigi;10;630000
+443;Bahan Pintu Pengairan Druk laker;10;315000
+444;Bahan Pintu Pengairan Plat box 15 x 20 cm;10;590700
+445;Bahan Pintu Pengairan Greese pelumas;46;126000
+446;Bahan Pintu Pengairan Gembok kunci pengaman;10;94500
+447;Bahan Pintu Pengairan Plat daun pintu t: 10 mm;9;2709000
+448;Bahan Pintu Pengairan Stang pintu engkel;10;945000
+449;Bahan Pintu Pengairan Stang pintu doubel;10;1260000
+450;Bahan Pintu Pengairan Gir piringan  diameter 35;10;1890000
+451;Bahan Pintu Pengairan Gir piringan  diameter 40;10;2520000
+452;Bahan Pintu Pengairan Gir piringan  diameter 50;10;3150000
+453;Bahan Pintu Pengairan Drat ulir 1 1/2 inci;6;1890000
+454;Bahan Pintu Pengairan Drat ulir 2 inci ;6;2520000
+455;Bahan Pintu Pengairan Drat ulir 3 inci;6;3150000
+456;Bahan Pintu Pengairan Wortel mur  diameter 1 1/2 inci;10;1260000
+457;Bahan Pintu Pengairan Wortel mur  diameter 2 inci;10;1890000
+458;Bahan Pintu Pengairan Wortel mur  diameter 3 inci;10;3150000
+459;Bahan Pintu Pengairan Wortel mur  diameter 4 inci;10;4410000
+460;Bahan Pintu Pengairan Gigi nanas kecil;10;1260000
+461;Bahan Pintu Pengairan Gigi nanas besar;10;2520000
+462;Bahan Pintu Pengairan As pemutar gigi  diameter 2 inci;6;1890000
+463;Bahan Pintu Pengairan Drat ulir  diameter 4 inci;6;5670000
+464;Bahan Pintu Pengairan Plat penutup gir;10;1260000
+465;Bahan Pintu Pengairan Dudukan as pemutar gigi;10;630000
+466;Bahan Pintu Pengairan Kerangka pintu siku 60 x 60 x 6;18;441000
+467;Bahan Pintu Pengairan Kerangka pintu siku 80 x 80 x 8;18;1197000
+468;Bahan Pintu Pengairan Kerangka pintu siku 90 x 90 x 9;18;1323000
+469;Bahan Pintu Pengairan Bahan Pintu Pengairan Kerangka pintu siku 70 x 70 x 10;18;693000
+470;Bahan Pintu Pengairan Kerangka atas canal U 10 x 10;18;1260000
+471;Bahan Pintu Pengairan Kerangka bawah duobel siku;18;630000
+472;"Daftar Harga Pintu Sorong Baja B = 0,50 ; H1 = 0,50 ; H2 = 3,00";10;8190000
+473;"Daftar Harga Pintu Sorong Baja B = 0,60 ; H1 = 0,60 ; H2 = 3,50";10;8820000
+474;"Daftar Harga Pintu Sorong Baja B = 0,70 ; H1 = 0,70 ; H2 = 4,00";10;10710000
+475;"Daftar Harga Pintu Sorong Baja B = 0,80 ; H1 = 0,80 ; H2 = 4,50";10;11340000
+476;"Daftar Harga Pintu Sorong Baja B = 0,90 ; H1 = 0,90 ; H2 = 5,00";10;13230000
+477;"Daftar Haraga Pintu Tarik B = 0,30 ; H1 = 0,30 ; H2 = 1,25";10;1575000
+478;"Daftar Haraga Pintu Tarik B = 0,35 ; H1 = 0,35 ; H2 = 1,30";10;1890000
+479;"Daftar Haraga Pintu Tarik B = 0,40 ; H1 = 0,40 ; H2 = 1,35";10;2205000
+480;"Daftar Harga Pintu Drat Dobel Daun Besi B = 1,50 ; H1 = 1,50 ; H2 = 3,50";10;63000000
+481;"Daftar Harga Pintu Drat Dobel Daun Besi B = 1,75 ; H1 = 1,50 ; H2 = 4,00";10;69300000
+482;"Daftar Harga Pintu Drat Dobel Daun Besi B = 2,00 ; H1 = 2,00 ; H2 = 5,00";10;88200000
+483;"Daftar Harga Pintu Drat Dobel Daun Besi B = 2,00 ; H1 = 1,50 ; H2 = 6,00";10;94500000
+484;"Daftar Harga Pintu Daun Kayu Drat Dobel B = 1,00 ; H1 = 1,00 ; H2 = 3,00";10;75600000
+485;"Daftar Harga Pintu Daun Kayu Drat Dobel B = 1,50 ; H1 = 1,50 ; H2 = 3,50";10;81900000
+486;"Daftar Harga Pintu Daun Kayu Drat Dobel B = 2,00 ; H1 = 1,50 ; H2 = 4,00";10;88200000
+487;"Daftar Harga Pintu Daun Kayu Drat Dobel B = 2,00 ; H1 = 2,00 ; H2 = 5,00";10;100800000

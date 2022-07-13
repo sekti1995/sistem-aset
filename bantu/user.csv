@@ -1,0 +1,585 @@
+f6be1c76-3097-11e7-9301-6cae8b5fc378;SDN 3 Tohkuning;sdn3tohkuning
+f6be1978-3097-11e7-9301-6cae8b5fc378;SDN 2 Tohkuning;sdn2tohkuning
+f6be167e-3097-11e7-9301-6cae8b5fc378;SDN 1 Tohkuning;sdn1tohkuning
+f6be1383-3097-11e7-9301-6cae8b5fc378;SDN 3 Karang;sdn3karang
+f6be108c-3097-11e7-9301-6cae8b5fc378;SDN 2 Karang;sdn2karang
+f6be0d9a-3097-11e7-9301-6cae8b5fc378;SDN 1 Karang;sdn1karang
+f6be0a9c-3097-11e7-9301-6cae8b5fc378;SDN 2 Salam;sdn2salam
+f6be079a-3097-11e7-9301-6cae8b5fc378;SDN 1 Salam;sdn1salam
+f6be0448-3097-11e7-9301-6cae8b5fc378;SDN 3 Bangsri;sdn3bangsri
+f6be0115-3097-11e7-9301-6cae8b5fc378;SDN 2 Bangsri;sdn2bangsri
+f6bdfe1b-3097-11e7-9301-6cae8b5fc378;SDN 1 Bangsri;sdn1bangsri
+f6bdfb1c-3097-11e7-9301-6cae8b5fc378;SDN 3 Dayu;sdn3dayu
+f6bdf81e-3097-11e7-9301-6cae8b5fc378;SDN 1 Dayu;sdn1dayu
+f6bdf50b-3097-11e7-9301-6cae8b5fc378;SDN 2 Karangpandan;sdn2karangpandan
+f6bdf0ee-3097-11e7-9301-6cae8b5fc378;SDN 1 Karangpandan;sdn1karangpandan
+f6bde5b1-3097-11e7-9301-6cae8b5fc378;SDN Cadangan;sdncadangan
+f6bddc37-3097-11e7-9301-6cae8b5fc378;SDN 2 Mojoroto;sdn2mojoroto
+f6bdd2b8-3097-11e7-9301-6cae8b5fc378;SDN 1 Mojoroto;sdn1mojoroto
+f6bdc941-3097-11e7-9301-6cae8b5fc378;SDN 2 Buntar;sdn2buntar
+f6bdbfcd-3097-11e7-9301-6cae8b5fc378;SDN 1 Buntar;sdn1buntar
+f6bdb64f-3097-11e7-9301-6cae8b5fc378;SDN 2 Gebyok;sdn2gebyok
+f6bdaca8-3097-11e7-9301-6cae8b5fc378;SDN 1 Gebyok;sdn1gebyok
+f6bda1c4-3097-11e7-9301-6cae8b5fc378;SDN 4 Sewurejo;sdn4sewurejo
+f6bd9604-3097-11e7-9301-6cae8b5fc378;SDN 3 Sewurejo;sdn3sewurejo
+f6bd8a51-3097-11e7-9301-6cae8b5fc378;SDN 2 Sewurejo;sdn2sewurejo
+f6bd7e9e-3097-11e7-9301-6cae8b5fc378;SDN 1 Sewurejo;sdn1sewurejo
+f6bd72df-3097-11e7-9301-6cae8b5fc378;SDN 2 Kedungjeruk;sdn2kedungjeruk
+f6bd6713-3097-11e7-9301-6cae8b5fc378;SDN 1 Kedungjeruk;sdn1kedungjeruk
+f6bd5ad9-3097-11e7-9301-6cae8b5fc378;SDN 3 Gentungan;sdn3gentungan
+f6bd5047-3097-11e7-9301-6cae8b5fc378;SDN 2 Gentungan;sdn2gentungan
+f6bd4794-3097-11e7-9301-6cae8b5fc378;SDN 1 Gentungan;sdn1gentungan
+f6bd3e05-3097-11e7-9301-6cae8b5fc378;SDN 3 Kaliboto;sdn3kaliboto
+f6bd349c-3097-11e7-9301-6cae8b5fc378;SDN 2 Kaliboto;sdn2kaliboto
+f6bd2b1f-3097-11e7-9301-6cae8b5fc378;SDN 1 Kaliboto;sdn1kaliboto
+f6bd2191-3097-11e7-9301-6cae8b5fc378;SDN 3 Pendem;sdn3pendem
+f6bd17c4-3097-11e7-9301-6cae8b5fc378;SDN 2 Pendem;sdn2pendem
+f6bd0ba0-3097-11e7-9301-6cae8b5fc378;SDN 1 Pendem;sdn1pendem
+f6bd000d-3097-11e7-9301-6cae8b5fc378;SDN 3 Ngadirejo;sdn3ngadirejo
+f6bcf47e-3097-11e7-9301-6cae8b5fc378;SDN 2 Ngadirejo;sdn2ngadirejo
+f6bce8e0-3097-11e7-9301-6cae8b5fc378;SDN 1 Ngadirejo;sdn1ngadirejo
+f6bcdccb-3097-11e7-9301-6cae8b5fc378;SDN 3 Pojok;sdn3pojok
+f6bcd158-3097-11e7-9301-6cae8b5fc378;SDN 2 Pojok;sdn2pojok
+f6bcc5c9-3097-11e7-9301-6cae8b5fc378;SDN 1 Pojok;sdn1pojok
+f6bcb991-3097-11e7-9301-6cae8b5fc378;SDN 3 Pereng;sdn3pereng
+f6bcacd9-3097-11e7-9301-6cae8b5fc378;SDN 2 Pereng;sdn2pereng
+f6bca136-3097-11e7-9301-6cae8b5fc378;SDN 1 Pereng;sdn1pereng
+f6bc959a-3097-11e7-9301-6cae8b5fc378;SDN 3 Munggur;sdn3munggur
+f6bc89d1-3097-11e7-9301-6cae8b5fc378;SDN 2 Munggur;sdn2munggur
+f6bc7d51-3097-11e7-9301-6cae8b5fc378;SDN 1 Munggur;sdn1munggur
+f6bc7474-3097-11e7-9301-6cae8b5fc378;SDN 4 Mojogedang;sdn4mojogedang
+f6bc69f9-3097-11e7-9301-6cae8b5fc378;SDN 2 Mojogedang;sdn2mojogedang
+cfa5550d-5543-11e6-a2df-000476f4fa98;Puskesmas Karanganyar;puskesmaskaranganyar
+cfa5561b-5543-11e6-a2df-000476f4fa98;Puskesmas Tasikmadu;puskesmastasikmadu
+cfa5572a-5543-11e6-a2df-000476f4fa98;Puskesmas Jaten I;puskesmasjateni
+cfa55839-5543-11e6-a2df-000476f4fa98;Puskesmas Jaten II;puskesmasjatenii
+cfa55948-5543-11e6-a2df-000476f4fa98;Puskesmas Kebakkramat I;puskesmaskebakkramati
+cfa55a59-5543-11e6-a2df-000476f4fa98;Puskesmas Kebakkramat II;puskesmaskebakkramatii
+cfa55b68-5543-11e6-a2df-000476f4fa98;Puskesmas Mojogedang I;puskesmasmojogedangi
+cfa55c74-5543-11e6-a2df-000476f4fa98;Puskesmas Mojogedang II;puskesmasmojogedangii
+cfa55d83-5543-11e6-a2df-000476f4fa98;Puskesmas Karangpandan;puskesmaskarangpandan
+cfa55e90-5543-11e6-a2df-000476f4fa98;Puskesmas Matesih;puskesmasmatesih
+cfa55f9f-5543-11e6-a2df-000476f4fa98;Puskesmas Tawangmangu;puskesmastawangmangu
+cfa560b0-5543-11e6-a2df-000476f4fa98;Puskesmas Ngargoyoso;puskesmasngargoyoso
+cfa561bf-5543-11e6-a2df-000476f4fa98;Puskesmas Jenawi;puskesmasjenawi
+cfa562cd-5543-11e6-a2df-000476f4fa98;Puskesmas Kerjo;puskesmaskerjo
+cfa563dd-5543-11e6-a2df-000476f4fa98;Puskesmas Colomadu I;puskesmascolomadui
+cfa564ec-5543-11e6-a2df-000476f4fa98;Puskesmas Colomadu II;puskesmascolomaduii
+cfa565fa-5543-11e6-a2df-000476f4fa98;Puskesmas Gondangrejo;puskesmasgondangrejo
+cfa5670b-5543-11e6-a2df-000476f4fa98;Puskesmas Jumapolo;puskesmasjumapolo
+cfa5681b-5543-11e6-a2df-000476f4fa98;Puskesmas Jatipuro;puskesmasjatipuro
+cfa5692a-5543-11e6-a2df-000476f4fa98;Puskesmas Jatiyoso;puskesmasjatiyoso
+cfa56a39-5543-11e6-a2df-000476f4fa98;Puskesmas Jumantono;puskesmasjumantono
+a696502a-3091-11e7-9301-6cae8b5fc378;SDN 3 Karanganyar;sdn3karanganyar
+a6965780-3091-11e7-9301-6cae8b5fc378;SDN 4 Karanganyar;sdn4karanganyar
+a6965ea4-3091-11e7-9301-6cae8b5fc378;SDN 1 Tegalgede;sdn1tegalgede
+a69665b1-3091-11e7-9301-6cae8b5fc378;SDN 2 Tegalgede;sdn2tegalgede
+a6966cb2-3091-11e7-9301-6cae8b5fc378;SDN 4 Tegalgede;sdn4tegalgede
+a69673ca-3091-11e7-9301-6cae8b5fc378;SDN 1 Popongan;sdn1popongan
+a6967ad8-3091-11e7-9301-6cae8b5fc378;SDN 2 Popongan;sdn2popongan
+a69681e6-3091-11e7-9301-6cae8b5fc378;SDN 3 Popongan;sdn3popongan
+a69687db-3091-11e7-9301-6cae8b5fc378;SDN 4 Popongan;sdn4popongan
+a6968ed9-3091-11e7-9301-6cae8b5fc378;SDN 1 Bejen;sdn1bejen
+a6969696-3091-11e7-9301-6cae8b5fc378;SDN 2 Bejen;sdn2bejen
+a6969dbd-3091-11e7-9301-6cae8b5fc378;SDN 3 Bejen;sdn3bejen
+a696a4bc-3091-11e7-9301-6cae8b5fc378;SDN 4 Bejen;sdn4bejen
+a696acb3-3091-11e7-9301-6cae8b5fc378;SDN 1 Cangakan;sdn1cangakan
+a696b2e2-3091-11e7-9301-6cae8b5fc378;SDN 2 Cangakan;sdn2cangakan
+a696b8ee-3091-11e7-9301-6cae8b5fc378;SDN 1 Lalung;sdn1lalung
+a696be87-3091-11e7-9301-6cae8b5fc378;SDN 2 Lalung;sdn2lalung
+a696c4b6-3091-11e7-9301-6cae8b5fc378;SDN 3 Lalung;sdn3lalung
+a696cad8-3091-11e7-9301-6cae8b5fc378;SDN 1 Gedong;sdn1gedong
+a696d11a-3091-11e7-9301-6cae8b5fc378;SDN 2 Gedong;sdn2gedong
+a696d6b4-3091-11e7-9301-6cae8b5fc378;SDN 3 Gedong;sdn3gedong
+a696dc5b-3091-11e7-9301-6cae8b5fc378;SDN 1 Delingan;sdn1delingan
+a696e1f7-3091-11e7-9301-6cae8b5fc378;SDN 2 Delingan;sdn2delingan
+a696e7a1-3091-11e7-9301-6cae8b5fc378;SDN 3 Delingan;sdn3delingan
+a696ecb4-3091-11e7-9301-6cae8b5fc378;SDN 1 Gayamdompo;sdn1gayamdompo
+a696f1b7-3091-11e7-9301-6cae8b5fc378;SDN 2 Gayamdompo;sdn2gayamdompo
+a696f6ae-3091-11e7-9301-6cae8b5fc378;SDN 1 Jantiharjo;sdn1jantiharjo
+a696fc17-3091-11e7-9301-6cae8b5fc378;SDN 2 Jantiharjo;sdn2jantiharjo
+a69700fd-3091-11e7-9301-6cae8b5fc378;SDN 1 Jungke;sdn1jungke
+a69705d9-3091-11e7-9301-6cae8b5fc378;SDN 2 Jungke;sdn2jungke
+a6970ab5-3091-11e7-9301-6cae8b5fc378;SDN 1 Bolong;sdn1bolong
+a6970f91-3091-11e7-9301-6cae8b5fc378;SDN 2 Bolong;sdn2bolong
+a69714ab-3091-11e7-9301-6cae8b5fc378;SDLB Cangakan Karanganyar;sdlbcangakankaranganyar
+a69719b7-3091-11e7-9301-6cae8b5fc378;SDN Cadangaan;sdncadangaan
+a6971ecb-3091-11e7-9301-6cae8b5fc378;TK Pembina Karanganyar;tkpembinakaranganyar
+feedf25d-3091-11e7-9301-6cae8b5fc378;SDN 1 Ngijo;sdn1ngijo
+feee0982-3091-11e7-9301-6cae8b5fc378;SDN 2 Ngijo;sdn2ngijo
+feee1267-3091-11e7-9301-6cae8b5fc378;SDN 1 Papahan;sdn1papahan
+feee1dcd-3091-11e7-9301-6cae8b5fc378;SDN 2 Papahan;sdn2papahan
+feee2991-3091-11e7-9301-6cae8b5fc378;SDN 3 Papahan;sdn3papahan
+feee34b7-3091-11e7-9301-6cae8b5fc378;SDN 1 Buran;sdn1buran
+feee3fd1-3091-11e7-9301-6cae8b5fc378;SDN 3 Buran;sdn3buran
+feee4aef-3091-11e7-9301-6cae8b5fc378;SDN 1 Gaum;sdn1gaum
+feee561e-3091-11e7-9301-6cae8b5fc378;SDN 2 Gaum;sdn2gaum
+feee5f7b-3091-11e7-9301-6cae8b5fc378;SDN 1 Suruh;sdn1suruh
+feee68a3-3091-11e7-9301-6cae8b5fc378;SDN 3 Suruh;sdn3suruh
+feee71cb-3091-11e7-9301-6cae8b5fc378;SDN 1 Pandeyan;sdn1pandeyan
+feee7afb-3091-11e7-9301-6cae8b5fc378;SDN 2 Pandeyan;sdn2pandeyan
+feee84d3-3091-11e7-9301-6cae8b5fc378;SDN 3 Pandeyan;sdn3pandeyan
+feee8d9d-3091-11e7-9301-6cae8b5fc378;SDN 1 Wonolopo;sdn1wonolopo
+feee9965-3091-11e7-9301-6cae8b5fc378;SDN 2 Wonolopo;sdn2wonolopo
+feeea4dd-3091-11e7-9301-6cae8b5fc378;SDN 3 Wonolopo;sdn3wonolopo
+feeeb041-3091-11e7-9301-6cae8b5fc378;SDN 1 Kaling;sdn1kaling
+feeebb9d-3091-11e7-9301-6cae8b5fc378;SDN 2 Kaling;sdn2kaling
+feeec713-3091-11e7-9301-6cae8b5fc378;SDN 3 Kaling;sdn3kaling
+feeed27f-3091-11e7-9301-6cae8b5fc378;SDN 1 Kalijirak;sdn1kalijirak
+feeeddf4-3091-11e7-9301-6cae8b5fc378;SDN 2 Kalijirak;sdn2kalijirak
+feeeea7b-3091-11e7-9301-6cae8b5fc378;SDN 3 Kalijirak;sdn3kalijirak
+feeef3d9-3091-11e7-9301-6cae8b5fc378;SDN 1 Karangmojo;sdn1karangmojo
+feeeff1f-3091-11e7-9301-6cae8b5fc378;SDN 2 Karangmojo;sdn2karangmojo
+feef0a5d-3091-11e7-9301-6cae8b5fc378;SDN 3 Karangmojo;sdn3karangmojo
+feef1590-3091-11e7-9301-6cae8b5fc378;SDN Cadangan;sdncadangan
+feef1f1d-3091-11e7-9301-6cae8b5fc378;TK Negeri Pembina Tasikmadu;tknegeripembinatasikmadu
+48c93cef-3092-11e7-9301-6cae8b5fc378;SDN 1 Suruhkalang;sdn1suruhkalang
+48c94e44-3092-11e7-9301-6cae8b5fc378;SDN 2 Suruhkalang;sdn2suruhkalang
+48c9573d-3092-11e7-9301-6cae8b5fc378;SDN 3 Suruhkalang;sdn3suruhkalang
+48c95f97-3092-11e7-9301-6cae8b5fc378;SDN 1 Jati;sdn1jati
+48c96c24-3092-11e7-9301-6cae8b5fc378;SDN 2 Jati;sdn2jati
+48c978ca-3092-11e7-9301-6cae8b5fc378;SDN 3 Jati;sdn3jati
+48c983ef-3092-11e7-9301-6cae8b5fc378;SDN 1 Jaten;sdn1jaten
+48c98fb4-3092-11e7-9301-6cae8b5fc378;SDN 2 Jaten;sdn2jaten
+48c99bc4-3092-11e7-9301-6cae8b5fc378;SDN 3 Jaten;sdn3jaten
+48c9a6cd-3092-11e7-9301-6cae8b5fc378;SDN 4 Jaten;sdn4jaten
+48c9b1d4-3092-11e7-9301-6cae8b5fc378;SDN 5 Jaten;sdn5jaten
+48c9bd75-3092-11e7-9301-6cae8b5fc378;SDN 1 Dagen;sdn1dagen
+48c9c881-3092-11e7-9301-6cae8b5fc378;SDN 2 Dagen;sdn2dagen
+48c9d388-3092-11e7-9301-6cae8b5fc378;SDN 1 Jetis;sdn1jetis
+48c9ddbd-3092-11e7-9301-6cae8b5fc378;SDN 2 Jetis;sdn2jetis
+48c9e6d8-3092-11e7-9301-6cae8b5fc378;SDN 3 Jetis;sdn3jetis
+48c9efd7-3092-11e7-9301-6cae8b5fc378;SDN 1 Brujul;sdn1brujul
+48c9f987-3092-11e7-9301-6cae8b5fc378;SDN 2 Brujul;sdn2brujul
+48ca01e9-3092-11e7-9301-6cae8b5fc378;SDN 3 Brujul;sdn3brujul
+48ca0cbe-3092-11e7-9301-6cae8b5fc378;SDN 1 Ngringo;sdn1ngringo
+48ca1821-3092-11e7-9301-6cae8b5fc378;SDN 2 Ngringo;sdn2ngringo
+48ca2354-3092-11e7-9301-6cae8b5fc378;SDN 3 Ngringo;sdn3ngringo
+48ca2e89-3092-11e7-9301-6cae8b5fc378;SDN 4 Ngringo;sdn4ngringo
+48ca39c0-3092-11e7-9301-6cae8b5fc378;SDN 5 Ngringo;sdn5ngringo
+48ca4578-3092-11e7-9301-6cae8b5fc378;SDN 6 Ngringo;sdn6ngringo
+48ca50b6-3092-11e7-9301-6cae8b5fc378;SDN 7 Ngringo;sdn7ngringo
+48ca5bf4-3092-11e7-9301-6cae8b5fc378;SDN 9 Ngringo;sdn9ngringo
+48ca673a-3092-11e7-9301-6cae8b5fc378;SDN 11 Ngringo;sdn11ngringo
+48ca7170-3092-11e7-9301-6cae8b5fc378;SDN 1 Sroyo;sdn1sroyo
+48ca7a84-3092-11e7-9301-6cae8b5fc378;SDN 2 Sroyo;sdn2sroyo
+48ca838b-3092-11e7-9301-6cae8b5fc378;SDN 3 Sroyo;sdn3sroyo
+48ca8c93-3092-11e7-9301-6cae8b5fc378;SDN Cadangan;sdncadangan
+48ca9654-3092-11e7-9301-6cae8b5fc378;TK Negeri Pembina Jaten;tknegeripembinajaten
+c3f03c3e-3092-11e7-9301-6cae8b5fc378;SDN 1 Kemiri;sdn1kemiri
+c3f05107-3092-11e7-9301-6cae8b5fc378;SDN 2 Kemiri;sdn2kemiri
+c3f05a0a-3092-11e7-9301-6cae8b5fc378;SDN 3 Kemiri;sdn3kemiri
+c3f0631e-3092-11e7-9301-6cae8b5fc378;SDN 4 Kemiri;sdn4kemiri
+c3f06e8a-3092-11e7-9301-6cae8b5fc378;SDN 1 Kebak;sdn1kebak
+c3f07a7b-3092-11e7-9301-6cae8b5fc378;SDN 2 Kebak;sdn2kebak
+c3f0884f-3092-11e7-9301-6cae8b5fc378;SDN 3 Kebak;sdn3kebak
+c3f095de-3092-11e7-9301-6cae8b5fc378;SDN 1 Nangsri;sdn1nangsri
+c3f0a185-3092-11e7-9301-6cae8b5fc378;SDN 3 Nangsri;sdn3nangsri
+c3f0ae93-3092-11e7-9301-6cae8b5fc378;SDN 1 Macanan;sdn1macanan
+c3f0ba4e-3092-11e7-9301-6cae8b5fc378;SDN 2 Macanan;sdn2macanan
+c3f0c58d-3092-11e7-9301-6cae8b5fc378;SDN 3 Macanan;sdn3macanan
+c3f0d0c9-3092-11e7-9301-6cae8b5fc378;SDN 1 Pulosari;sdn1pulosari
+c3f0da11-3092-11e7-9301-6cae8b5fc378;SDN 2 Pulosari;sdn2pulosari
+c3f0e55d-3092-11e7-9301-6cae8b5fc378;SDN 1 Malanggaten;sdn1malanggaten
+c3f0f0a7-3092-11e7-9301-6cae8b5fc378;SDN 2 Malanggaten;sdn2malanggaten
+c3f0fbed-3092-11e7-9301-6cae8b5fc378;SDN 3 Malanggaten;sdn3malanggaten
+c3f10710-3092-11e7-9301-6cae8b5fc378;SDN 1 Waru;sdn1waru
+c3f1124a-3092-11e7-9301-6cae8b5fc378;SDN 2 Waru;sdn2waru
+c3f11d93-3092-11e7-9301-6cae8b5fc378;SDN 3 Waru;sdn3waru
+c3f1288b-3092-11e7-9301-6cae8b5fc378;SDN 1 Kaliwuluh;sdn1kaliwuluh
+c3f12f98-3092-11e7-9301-6cae8b5fc378;SDN 2 Kaliwuluh;sdn2kaliwuluh
+c3f13573-3092-11e7-9301-6cae8b5fc378;SDN 3 Kaliwuluh;sdn3kaliwuluh
+c3f13c77-3092-11e7-9301-6cae8b5fc378;SDN 4 Kaliwuluh;sdn4kaliwuluh
+c3f143d2-3092-11e7-9301-6cae8b5fc378;SDN 1 Banjarharjo;sdn1banjarharjo
+c3f14ae6-3092-11e7-9301-6cae8b5fc378;SDN 2 Banjarharjo;sdn2banjarharjo
+c3f150c7-3092-11e7-9301-6cae8b5fc378;SDN 3 Banjarharjo;sdn3banjarharjo
+c3f1572f-3092-11e7-9301-6cae8b5fc378;SDN 1 Alastuwo;sdn1alastuwo
+c3f15d44-3092-11e7-9301-6cae8b5fc378;SDN 2 Alastuwo;sdn2alastuwo
+c3f16310-3092-11e7-9301-6cae8b5fc378;SDN 3 Alastuwo;sdn3alastuwo
+c3f168d9-3092-11e7-9301-6cae8b5fc378;SDN 4 Alastuwo;sdn4alastuwo
+c3f16eae-3092-11e7-9301-6cae8b5fc378;SDN Cadangan;sdncadangan
+f6bc57bb-3097-11e7-9301-6cae8b5fc378;SDN 1 Mojogedang;sdn1mojogedang
+f6be1f7a-3097-11e7-9301-6cae8b5fc378;SDN 1 Gondangmanis;sdn1gondangmanis
+f6be22c1-3097-11e7-9301-6cae8b5fc378;SDN 2 Gondangmanis;sdn2gondangmanis
+f6be25ca-3097-11e7-9301-6cae8b5fc378;SDN 1 Ngemplak;sdn1ngemplak
+f6be2948-3097-11e7-9301-6cae8b5fc378;SDN 2 Ngemplak;sdn2ngemplak
+f6be2c71-3097-11e7-9301-6cae8b5fc378;SDN 3 Ngemplak;sdn3ngemplak
+f6be2f70-3097-11e7-9301-6cae8b5fc378;SDN 1 Harjosari;sdn1harjosari
+f6be3320-3097-11e7-9301-6cae8b5fc378;SDN 2 Harjosari;sdn2harjosari
+f6be361c-3097-11e7-9301-6cae8b5fc378;SDN 1 Gerdu;sdn1gerdu
+f6be39b5-3097-11e7-9301-6cae8b5fc378;SDN 2 Gerdu;sdn2gerdu
+f6be3ce7-3097-11e7-9301-6cae8b5fc378;SDN 1 Doplang;sdn1doplang
+f6be408a-3097-11e7-9301-6cae8b5fc378;SDN 2 Doplang;sdn2doplang
+f6be441b-3097-11e7-9301-6cae8b5fc378;SDN Cadangan;sdncadangan
+f6be4874-3097-11e7-9301-6cae8b5fc378;SDN 1 Matesih;sdn1matesih
+f6be4b7e-3097-11e7-9301-6cae8b5fc378;SDN 2 Matesih;sdn2matesih
+f6be4e7b-3097-11e7-9301-6cae8b5fc378;SDN 3 Matesih;sdn3matesih
+f6be51b4-3097-11e7-9301-6cae8b5fc378;SDN 4 Matesih;sdn4matesih
+f6be54b2-3097-11e7-9301-6cae8b5fc378;SDN 5 Matesih;sdn5matesih
+f6be57b3-3097-11e7-9301-6cae8b5fc378;SDN 1 Dawung;sdn1dawung
+f6be5ae6-3097-11e7-9301-6cae8b5fc378;SDN 2 Dawung;sdn2dawung
+f6be5de4-3097-11e7-9301-6cae8b5fc378;SDN 3 Dawung;sdn3dawung
+f6be6124-3097-11e7-9301-6cae8b5fc378;SDN 1 Koripan;sdn1koripan
+f6be641a-3097-11e7-9301-6cae8b5fc378;SDN 2 Koripan;sdn2koripan
+f6be670a-3097-11e7-9301-6cae8b5fc378;SDN 3 Koripan;sdn3koripan
+f6be6a03-3097-11e7-9301-6cae8b5fc378;SDN 1 Girilayu;sdn1girilayu
+f6be6cfd-3097-11e7-9301-6cae8b5fc378;SDN 3 Girilayu;sdn3girilayu
+f6be6ff3-3097-11e7-9301-6cae8b5fc378;SDN 1 Pablengan;sdn1pablengan
+f6be7316-3097-11e7-9301-6cae8b5fc378;SDN 2 Pablengan;sdn2pablengan
+f6be7609-3097-11e7-9301-6cae8b5fc378;SDN 3 Pablengan;sdn3pablengan
+f6be78fa-3097-11e7-9301-6cae8b5fc378;SDN 1 Plosorejo;sdn1plosorejo
+f6be7bec-3097-11e7-9301-6cae8b5fc378;SDN 2 Plosorejo;sdn2plosorejo
+f6be7f13-3097-11e7-9301-6cae8b5fc378;SDN 3 Plosorejo;sdn3plosorejo
+f6be820e-3097-11e7-9301-6cae8b5fc378;SDN 1 Ngadiluwih;sdn1ngadiluwih
+f6be855e-3097-11e7-9301-6cae8b5fc378;SDN 2 Ngadiluwih;sdn2ngadiluwih
+f6be885e-3097-11e7-9301-6cae8b5fc378;SDN 3 Ngadiluwih;sdn3ngadiluwih
+f6be8bd6-3097-11e7-9301-6cae8b5fc378;SDN 1 Gantiwarno;sdn1gantiwarno
+f6be8f28-3097-11e7-9301-6cae8b5fc378;SDN 3 Gantiwarno;sdn3gantiwarno
+f6be922c-3097-11e7-9301-6cae8b5fc378;SDN 2 Karangbangun;sdn2karangbangun
+f6be952e-3097-11e7-9301-6cae8b5fc378;SDN 3 Karangbangun;sdn3karangbangun
+f6be9833-3097-11e7-9301-6cae8b5fc378;SDN 4 Karangbangun;sdn4karangbangun
+f6be9b2b-3097-11e7-9301-6cae8b5fc378;SDN Cadangan;sdncadangan
+f6be9e26-3097-11e7-9301-6cae8b5fc378;SDN 1 Tawangmangu;sdn1tawangmangu
+f6bea122-3097-11e7-9301-6cae8b5fc378;SDN 3 Tawangmangu;sdn3tawangmangu
+f6bea41e-3097-11e7-9301-6cae8b5fc378;SDN 4 Tawangmangu;sdn4tawangmangu
+f6bea71c-3097-11e7-9301-6cae8b5fc378;SDN 5 Tawangmangu;sdn5tawangmangu
+f6beaa19-3097-11e7-9301-6cae8b5fc378;SDN 6 Tawangmangu;sdn6tawangmangu
+f6bead16-3097-11e7-9301-6cae8b5fc378;SDN 1 Sepanjang;sdn1sepanjang
+f6beb013-3097-11e7-9301-6cae8b5fc378;SDN 3 Sepanjang;sdn3sepanjang
+f6beb30c-3097-11e7-9301-6cae8b5fc378;SDN 1 Karanglo;sdn1karanglo
+f6beb6ae-3097-11e7-9301-6cae8b5fc378;SDN 3 Karanglo;sdn3karanglo
+f6beb9b4-3097-11e7-9301-6cae8b5fc378;SDN 1 Bandardawung;sdn1bandardawung
+f6bebcb4-3097-11e7-9301-6cae8b5fc378;SDN 3 Bandardawung;sdn3bandardawung
+f6bebfaf-3097-11e7-9301-6cae8b5fc378;SDN 1 Nglebak;sdn1nglebak
+f6bec2b3-3097-11e7-9301-6cae8b5fc378;SDN 2 Nglebak;sdn2nglebak
+f6bec5b0-3097-11e7-9301-6cae8b5fc378;SDN 3 Nglebak;sdn3nglebak
+f6bec8e3-3097-11e7-9301-6cae8b5fc378;SDN 1 Plumbon;sdn1plumbon
+f6becbe8-3097-11e7-9301-6cae8b5fc378;SDN 2 Plumbon;sdn2plumbon
+f6becedf-3097-11e7-9301-6cae8b5fc378;SDN 3 Plumbon;sdn3plumbon
+f6bed208-3097-11e7-9301-6cae8b5fc378;SDN 4 Plumbon;sdn4plumbon
+f6bed50f-3097-11e7-9301-6cae8b5fc378;SDN 1 Tengklik;sdn1tengklik
+f6bed847-3097-11e7-9301-6cae8b5fc378;SDN 2 Tengklik;sdn2tengklik
+f6bedbb2-3097-11e7-9301-6cae8b5fc378;SDN 1 Kalisoro;sdn1kalisoro
+f6bedeed-3097-11e7-9301-6cae8b5fc378;SDN 2 Kalisoro;sdn2kalisoro
+f6bee234-3097-11e7-9301-6cae8b5fc378;SDN 3 Kalisoro;sdn3kalisoro
+f6bee5ac-3097-11e7-9301-6cae8b5fc378;SDN 1 Blumbang;sdn1blumbang
+f6bee8ab-3097-11e7-9301-6cae8b5fc378;SDN 2 Blumbang;sdn2blumbang
+f6beebac-3097-11e7-9301-6cae8b5fc378;SDN 3 Blumbang;sdn3blumbang
+f6beeeab-3097-11e7-9301-6cae8b5fc378;SDN 1 Gondosuli;sdn1gondosuli
+f6bef1ac-3097-11e7-9301-6cae8b5fc378;SDN 2 Gondosuli;sdn2gondosuli
+f6bef4ae-3097-11e7-9301-6cae8b5fc378;SDN 3 Gondosuli;sdn3gondosuli
+f6bef7b1-3097-11e7-9301-6cae8b5fc378;SDN Cadangan;sdncadangan
+f6befab2-3097-11e7-9301-6cae8b5fc378;SDN 1 Girimulyo;sdn1girimulyo
+f6befdbe-3097-11e7-9301-6cae8b5fc378;SDN 3 Girimulyo;sdn3girimulyo
+f6bf00c5-3097-11e7-9301-6cae8b5fc378;SDN 1 Berjo;sdn1berjo
+f6bf03cd-3097-11e7-9301-6cae8b5fc378;SDN 3 Berjo;sdn3berjo
+f6bf06d7-3097-11e7-9301-6cae8b5fc378;SDN 1 Kemuning;sdn1kemuning
+f6bf0a09-3097-11e7-9301-6cae8b5fc378;SDN 2 Kemuning;sdn2kemuning
+f6bf0dce-3097-11e7-9301-6cae8b5fc378;SDN 3 Kemuning;sdn3kemuning
+f6bf10dc-3097-11e7-9301-6cae8b5fc378;SDN 4 Kemuning;sdn4kemuning
+f6bf13dc-3097-11e7-9301-6cae8b5fc378;SDN 5 Kemuning;sdn5kemuning
+f6bf1714-3097-11e7-9301-6cae8b5fc378;SDN 1 Segorogunung;sdn1segorogunung
+f6bf1a1b-3097-11e7-9301-6cae8b5fc378;SDN 2 Segorogunung;sdn2segorogunung
+f6bf1d1b-3097-11e7-9301-6cae8b5fc378;SDN 1 Puntukrejo;sdn1puntukrejo
+f6bf204d-3097-11e7-9301-6cae8b5fc378;SDN 2 Puntukrejo;sdn2puntukrejo
+f6bf234e-3097-11e7-9301-6cae8b5fc378;SDN 3 Puntukrejo;sdn3puntukrejo
+f6bf2648-3097-11e7-9301-6cae8b5fc378;SDN 1 Nglegok;sdn1nglegok
+f6bf298b-3097-11e7-9301-6cae8b5fc378;SDN 2 Nglegok;sdn2nglegok
+f6bf2c9f-3097-11e7-9301-6cae8b5fc378;SDN 1 Ngargoyoso;sdn1ngargoyoso
+f6bf3024-3097-11e7-9301-6cae8b5fc378;SDN 2 Ngargoyoso;sdn2ngargoyoso
+f6bf3325-3097-11e7-9301-6cae8b5fc378;SDN 3 Ngargoyoso;sdn3ngargoyoso
+f6bf3627-3097-11e7-9301-6cae8b5fc378;SDN 1 Dukuh;sdn1dukuh
+f6bf3977-3097-11e7-9301-6cae8b5fc378;SDN 2 Dukuh;sdn2dukuh
+f6bf3c6a-3097-11e7-9301-6cae8b5fc378;SDN Jatirejo;sdnjatirejo
+f6bf3f5b-3097-11e7-9301-6cae8b5fc378;SDN Cadangan;sdncadangan
+f6bf4249-3097-11e7-9301-6cae8b5fc378;SDN 1 Balong;sdn1balong
+f6bf457c-3097-11e7-9301-6cae8b5fc378;SDN 2 Balong;sdn2balong
+f6bf487a-3097-11e7-9301-6cae8b5fc378;SDN 3 Balong;sdn3balong
+f6bf4b78-3097-11e7-9301-6cae8b5fc378;SDN 1 Jenawi;sdn1jenawi
+f6bf4e96-3097-11e7-9301-6cae8b5fc378;SDN 2 Jenawi;sdn2jenawi
+f6bf518c-3097-11e7-9301-6cae8b5fc378;SDN 1 Menjing;sdn1menjing
+f6bf5519-3097-11e7-9301-6cae8b5fc378;SDN 2 Menjing;sdn2menjing
+f6bf580c-3097-11e7-9301-6cae8b5fc378;SDN 1 Lempong;sdn1lempong
+f6bf5b34-3097-11e7-9301-6cae8b5fc378;SDN 2 Lempong;sdn2lempong
+f6bf5e33-3097-11e7-9301-6cae8b5fc378;SDN 3 Lempong;sdn3lempong
+f6bf6187-3097-11e7-9301-6cae8b5fc378;SDN 4 Lempong;sdn4lempong
+f6bf6529-3097-11e7-9301-6cae8b5fc378;SDN 1 Sidomukti;sdn1sidomukti
+f6bf689a-3097-11e7-9301-6cae8b5fc378;SDN 2 Sidomukti;sdn2sidomukti
+f6bf6b8f-3097-11e7-9301-6cae8b5fc378;SDN 3 Sidomukti;sdn3sidomukti
+f6bf6e84-3097-11e7-9301-6cae8b5fc378;SDN 1 Selomoro;sdn1selomoro
+f6bf71ec-3097-11e7-9301-6cae8b5fc378;SDN 2 Selomoro;sdn2selomoro
+f6bf74eb-3097-11e7-9301-6cae8b5fc378;SDN 3 Selomoro;sdn3selomoro
+f6bf785e-3097-11e7-9301-6cae8b5fc378;SDN 4 Selomoro;sdn4selomoro
+f6bf7c6d-3097-11e7-9301-6cae8b5fc378;SDN 1 Trengguli;sdn1trengguli
+f6bf7fa6-3097-11e7-9301-6cae8b5fc378;SDN 2 Trengguli;sdn2trengguli
+f6bf829b-3097-11e7-9301-6cae8b5fc378;SDN 1 Gumeng;sdn1gumeng
+f6bf8599-3097-11e7-9301-6cae8b5fc378;SDN 3 Gumeng;sdn3gumeng
+f6bf889a-3097-11e7-9301-6cae8b5fc378;SDN 1 Anggrasmanis;sdn1anggrasmanis
+f6bf8bcb-3097-11e7-9301-6cae8b5fc378;SDN 2 Anggrasmanis;sdn2anggrasmanis
+f6bf8efd-3097-11e7-9301-6cae8b5fc378;SDN Cadangan;sdncadangan
+f6bf92bf-3097-11e7-9301-6cae8b5fc378;SDN 1 Karangrejo;sdn1karangrejo
+f6bf95c0-3097-11e7-9301-6cae8b5fc378;SDN 2 Karangrejo;sdn2karangrejo
+f6bf98b6-3097-11e7-9301-6cae8b5fc378;SDN 3 Karangrejo;sdn3karangrejo
+f6bf9bae-3097-11e7-9301-6cae8b5fc378;SDN 4 Karangrejo;sdn4karangrejo
+f6bf9ea5-3097-11e7-9301-6cae8b5fc378;SDN 5 Karangrejo;sdn5karangrejo
+f6bfa197-3097-11e7-9301-6cae8b5fc378;SDN 1 Sumberrejo;sdn1sumberrejo
+f6bfa498-3097-11e7-9301-6cae8b5fc378;SDN 2 Sumberrejo;sdn2sumberrejo
+f6bfa7bc-3097-11e7-9301-6cae8b5fc378;SDN 3 Sumberrejo;sdn3sumberrejo
+f6bfaabc-3097-11e7-9301-6cae8b5fc378;SDN 1 Tawangsari;sdn1tawangsari
+f6bfadbd-3097-11e7-9301-6cae8b5fc378;SDN 2 Tawangsari;sdn2tawangsari
+f6bfb0b5-3097-11e7-9301-6cae8b5fc378;SDN 3 Tawangsari;sdn3tawangsari
+f6bfb3b7-3097-11e7-9301-6cae8b5fc378;SDN 1 Tamansari;sdn1tamansari
+f6bfb6e0-3097-11e7-9301-6cae8b5fc378;SDN 2 Tamansari;sdn2tamansari
+f6bfb9e4-3097-11e7-9301-6cae8b5fc378;SDN 1 Kwadungan;sdn1kwadungan
+f6bfbd25-3097-11e7-9301-6cae8b5fc378;SDN 2 Kwadungan;sdn2kwadungan
+f6bfc01a-3097-11e7-9301-6cae8b5fc378;SDN 1 Ganten;sdn1ganten
+f6bfc30e-3097-11e7-9301-6cae8b5fc378;SDN 2 Ganten;sdn2ganten
+f6bfc699-3097-11e7-9301-6cae8b5fc378;SDN 1 Kuto;sdn1kuto
+f6bfc936-3097-11e7-9301-6cae8b5fc378;SDN 2 Kuto;sdn2kuto
+f6bfcbf3-3097-11e7-9301-6cae8b5fc378;SDN 3 Kuto;sdn3kuto
+f6bfce5e-3097-11e7-9301-6cae8b5fc378;SDN 4 Kuto;sdn4kuto
+f6bfd0d0-3097-11e7-9301-6cae8b5fc378;SDN 5 Kuto;sdn5kuto
+f6bfd346-3097-11e7-9301-6cae8b5fc378;SDN 1 Botok;sdn1botok
+f6bfd5d2-3097-11e7-9301-6cae8b5fc378;SDN 2 Botok;sdn2botok
+f6bfd84a-3097-11e7-9301-6cae8b5fc378;SDN Plosorejo;sdnplosorejo
+f6bfdac3-3097-11e7-9301-6cae8b5fc378;SDN 1 Gempolan;sdn1gempolan
+f6bfdd8e-3097-11e7-9301-6cae8b5fc378;SDN 2 Gempolan;sdn2gempolan
+f6bfe022-3097-11e7-9301-6cae8b5fc378;SDN Cadangan;sdncadangan
+f6bfe33c-3097-11e7-9301-6cae8b5fc378;SDN 1 Malangjiwan;sdn1malangjiwan
+f6bfe5dd-3097-11e7-9301-6cae8b5fc378;SDN 2 Malangjiwan;sdn2malangjiwan
+f6bfe852-3097-11e7-9301-6cae8b5fc378;SDN 3 Malangjiwan;sdn3malangjiwan
+f6bfeac4-3097-11e7-9301-6cae8b5fc378;SDN 4 Malangjiwan;sdn4malangjiwan
+f6bfed38-3097-11e7-9301-6cae8b5fc378;SDN 5 Malangjiwan;sdn5malangjiwan
+f6bfefa3-3097-11e7-9301-6cae8b5fc378;SDN Paulan;sdnpaulan
+f6bff215-3097-11e7-9301-6cae8b5fc378;SDN 1 Bolon;sdn1bolon
+f6bff482-3097-11e7-9301-6cae8b5fc378;SDN 2 Bolon;sdn2bolon
+f6bff6f4-3097-11e7-9301-6cae8b5fc378;SDN 3 Bolon;sdn3bolon
+f6bff968-3097-11e7-9301-6cae8b5fc378;SDN 1 Ngasem;sdn1ngasem
+f6bffbd7-3097-11e7-9301-6cae8b5fc378;SDN 2 Ngasem;sdn2ngasem
+f6bffe4e-3097-11e7-9301-6cae8b5fc378;SDN 1 Gawanan;sdn1gawanan
+f6c000c3-3097-11e7-9301-6cae8b5fc378;SDN 2 Gawanan;sdn2gawanan
+f6c00338-3097-11e7-9301-6cae8b5fc378;SDN 1 Tohudan;sdn1tohudan
+f6c005e6-3097-11e7-9301-6cae8b5fc378;SDN 3 Tohudan;sdn3tohudan
+f6c00879-3097-11e7-9301-6cae8b5fc378;SDN 1 Gedongan;sdn1gedongan
+f6c00b53-3097-11e7-9301-6cae8b5fc378;SDN 2 Gedongan;sdn2gedongan
+f6c00dc3-3097-11e7-9301-6cae8b5fc378;SDN 1 Klodran;sdn1klodran
+f6c01032-3097-11e7-9301-6cae8b5fc378;SDN 2 Klodran;sdn2klodran
+f6c0129d-3097-11e7-9301-6cae8b5fc378;SDN 1 Blulukan;sdn1blulukan
+f6c01514-3097-11e7-9301-6cae8b5fc378;SDN 2 Blulukan;sdn2blulukan
+f6c01784-3097-11e7-9301-6cae8b5fc378;SDN Gajahan;sdngajahan
+f6c01a20-3097-11e7-9301-6cae8b5fc378;SDN Baturan;sdnbaturan
+f6c01c92-3097-11e7-9301-6cae8b5fc378;SDLBN;sdlbn
+f6c01f00-3097-11e7-9301-6cae8b5fc378;SDN Cadangan;sdncadangan
+f6c02178-3097-11e7-9301-6cae8b5fc378;SDN 1 Tuban;sdn1tuban
+f6c023e7-3097-11e7-9301-6cae8b5fc378;SDN 2 Tuban;sdn2tuban
+f6c02659-3097-11e7-9301-6cae8b5fc378;SDN 3 Tuban;sdn3tuban
+f6c02908-3097-11e7-9301-6cae8b5fc378;SDN 4 Tuban;sdn4tuban
+f6c02b74-3097-11e7-9301-6cae8b5fc378;SDN 1 Dayu;sdn1dayu
+f6c02de5-3097-11e7-9301-6cae8b5fc378;SDN 2 Dayu;sdn2dayu
+f6c0304f-3097-11e7-9301-6cae8b5fc378;SDN 1 Wonosari;sdn1wonosari
+f6c032c0-3097-11e7-9301-6cae8b5fc378;SDN 2 Wonosari;sdn2wonosari
+f6c03530-3097-11e7-9301-6cae8b5fc378;SDN 1 Jeruksawit;sdn1jeruksawit
+f6c037a5-3097-11e7-9301-6cae8b5fc378;SDN 2 Jeruksawit;sdn2jeruksawit
+f6c03a15-3097-11e7-9301-6cae8b5fc378;SDN 1 Selokaton;sdn1selokaton
+f6c03c8e-3097-11e7-9301-6cae8b5fc378;SDN 2 Selokaton;sdn2selokaton
+f6c03f27-3097-11e7-9301-6cae8b5fc378;SDN 1 Rejosari;sdn1rejosari
+f6c041a1-3097-11e7-9301-6cae8b5fc378;SDN 2 Rejosari;sdn2rejosari
+f6c0440f-3097-11e7-9301-6cae8b5fc378;SDN 1 Wonorejo;sdn1wonorejo
+f6c046ea-3097-11e7-9301-6cae8b5fc378;SDN 2 Wonorejo;sdn2wonorejo
+f6c04982-3097-11e7-9301-6cae8b5fc378;SDN 3 Wonorejo;sdn3wonorejo
+f6c04c33-3097-11e7-9301-6cae8b5fc378;SDN 4 Wonorejo;sdn4wonorejo
+f6c04ec5-3097-11e7-9301-6cae8b5fc378;SDN 1 Kragan;sdn1kragan
+f6c05182-3097-11e7-9301-6cae8b5fc378;SDN 2 Kragan;sdn2kragan
+f6c053f0-3097-11e7-9301-6cae8b5fc378;SDN 1 Karangturi;sdn1karangturi
+f6c05669-3097-11e7-9301-6cae8b5fc378;SDN 2 Karangturi;sdn2karangturi
+f6c058d9-3097-11e7-9301-6cae8b5fc378;SDN 1 Plesungan;sdn1plesungan
+f6c05b4e-3097-11e7-9301-6cae8b5fc378;SDN 2 Plesungan;sdn2plesungan
+f6c05dc2-3097-11e7-9301-6cae8b5fc378;SDN 3 Plesungan;sdn3plesungan
+f6c06059-3097-11e7-9301-6cae8b5fc378;SDN 1 Jatikuwung;sdn1jatikuwung
+f6c062ef-3097-11e7-9301-6cae8b5fc378;SDN 2 Jatikuwung;sdn2jatikuwung
+f6c065f4-3097-11e7-9301-6cae8b5fc378;SDN 1 Krendowahono;sdn1krendowahono
+f6c06869-3097-11e7-9301-6cae8b5fc378;SDN 2 Krendowahono;sdn2krendowahono
+f6c06adb-3097-11e7-9301-6cae8b5fc378;SDN 1 Bulurejo;sdn1bulurejo
+f6c06d56-3097-11e7-9301-6cae8b5fc378;SDN 2 Bulurejo;sdn2bulurejo
+f6c0704a-3097-11e7-9301-6cae8b5fc378;SDN Cadangan;sdncadangan
+f6c072c0-3097-11e7-9301-6cae8b5fc378;SDN 1 Jumapolo;sdn1jumapolo
+f6c075d5-3097-11e7-9301-6cae8b5fc378;SDN 3 Jumapolo;sdn3jumapolo
+f6c07844-3097-11e7-9301-6cae8b5fc378;SDN 1 Ploso;sdn1ploso
+f6c07ab5-3097-11e7-9301-6cae8b5fc378;SDN 2 Ploso;sdn2ploso
+f6c07d9a-3097-11e7-9301-6cae8b5fc378;SDN 1 Giriwondo;sdn1giriwondo
+f6c0800e-3097-11e7-9301-6cae8b5fc378;SDN 2 Giriwondo;sdn2giriwondo
+f6c08318-3097-11e7-9301-6cae8b5fc378;SDN 1 Kwangsan;sdn1kwangsan
+f6c08670-3097-11e7-9301-6cae8b5fc378;SDN 2 Kwangsan;sdn2kwangsan
+f6c0890d-3097-11e7-9301-6cae8b5fc378;SDN 3 Kwangsan;sdn3kwangsan
+f6c08b87-3097-11e7-9301-6cae8b5fc378;SDN 1 Bakalan;sdn1bakalan
+f6c08dff-3097-11e7-9301-6cae8b5fc378;SDN 2 Bakalan;sdn2bakalan
+f6c0907b-3097-11e7-9301-6cae8b5fc378;SDN 1 Lemahbang;sdn1lemahbang
+f6c092f3-3097-11e7-9301-6cae8b5fc378;SDN 2 Lemahbang;sdn2lemahbang
+f6c095ac-3097-11e7-9301-6cae8b5fc378;SDN 1 Paseban;sdn1paseban
+f6c0981d-3097-11e7-9301-6cae8b5fc378;SDN 2 Paseban;sdn2paseban
+f6c09a94-3097-11e7-9301-6cae8b5fc378;SDN 1 Jatirejo;sdn1jatirejo
+f6c09d07-3097-11e7-9301-6cae8b5fc378;SDN 2 Jatirejo;sdn2jatirejo
+f6c09f79-3097-11e7-9301-6cae8b5fc378;SDN 3 Jatirejo;sdn3jatirejo
+f6c0a1ec-3097-11e7-9301-6cae8b5fc378;SDN 1 Jumantoro;sdn1jumantoro
+f6c0a484-3097-11e7-9301-6cae8b5fc378;SDN 2 Jumantoro;sdn2jumantoro
+f6c0a6f9-3097-11e7-9301-6cae8b5fc378;SDN 3 Jumantoro;sdn3jumantoro
+f6c0a978-3097-11e7-9301-6cae8b5fc378;SDN 1 Kadipiro;sdn1kadipiro
+f6c0abeb-3097-11e7-9301-6cae8b5fc378;SDN 2 Kadipiro;sdn2kadipiro
+f6c0ae6b-3097-11e7-9301-6cae8b5fc378;SDN Karangbangun;sdnkarangbangun
+f6c0b104-3097-11e7-9301-6cae8b5fc378;SDN Kedawung;sdnkedawung
+f6c0b37c-3097-11e7-9301-6cae8b5fc378;SDN Cadangan;sdncadangan
+f6c0b5f1-3097-11e7-9301-6cae8b5fc378;SDN 1 Jatipuro;sdn1jatipuro
+f6c0b8ce-3097-11e7-9301-6cae8b5fc378;SDN 2 Jatipuro;sdn2jatipuro
+f6c0bb65-3097-11e7-9301-6cae8b5fc378;SDN 3 Jatipuro;sdn3jatipuro
+f6c0be28-3097-11e7-9301-6cae8b5fc378;SDN 1 Jatiharjo;sdn1jatiharjo
+f6c0c0c8-3097-11e7-9301-6cae8b5fc378;SDN 2 Jatiharjo;sdn2jatiharjo
+f6c0c341-3097-11e7-9301-6cae8b5fc378;SDN 1 Jatisobo;sdn1jatisobo
+f6c0c5b1-3097-11e7-9301-6cae8b5fc378;SDN 2 Jatisobo;sdn2jatisobo
+f6c0c823-3097-11e7-9301-6cae8b5fc378;SDN 3 Jatisobo;sdn3jatisobo
+f6c0ca98-3097-11e7-9301-6cae8b5fc378;SDN 4 Jatisobo;sdn4jatisobo
+f6c0cd10-3097-11e7-9301-6cae8b5fc378;SDN 1 Ngepungsari;sdn1ngepungsari
+f6c0cf84-3097-11e7-9301-6cae8b5fc378;SDN 2 Ngepungsari;sdn2ngepungsari
+f6c0d1fc-3097-11e7-9301-6cae8b5fc378;SDN 3 Ngepungsari;sdn3ngepungsari
+f6c0d476-3097-11e7-9301-6cae8b5fc378;SDN 1 Jatikuwung ;sdn1jatikuwung
+f6c0d6f5-3097-11e7-9301-6cae8b5fc378;SDN 2 Jatikuwung ;sdn2jatikuwung
+f6c0d977-3097-11e7-9301-6cae8b5fc378;SDN 1 Jatimulyo;sdn1jatimulyo
+f6c0dc82-3097-11e7-9301-6cae8b5fc378;SDN 3 Jatimulyo;sdn3jatimulyo
+f6c0def7-3097-11e7-9301-6cae8b5fc378;SDN 1 Jatisuko;sdn1jatisuko
+f6c0e165-3097-11e7-9301-6cae8b5fc378;SDN 2 Jatisuko;sdn2jatisuko
+f6c0e3fd-3097-11e7-9301-6cae8b5fc378;SDN 3 Jatisuko;sdn3jatisuko
+f6c0e68c-3097-11e7-9301-6cae8b5fc378;SDN 1 Jatisoyo;sdn1jatisoyo
+f6c0e8f8-3097-11e7-9301-6cae8b5fc378;SDN 2 Jatisoyo;sdn2jatisoyo
+f6c0eb6b-3097-11e7-9301-6cae8b5fc378;SDN 3 Jatisoyo;sdn3jatisoyo
+f6c0ede3-3097-11e7-9301-6cae8b5fc378;SDN 1 Jatipurwo;sdn1jatipurwo
+f6c0f05b-3097-11e7-9301-6cae8b5fc378;SDN 2 Jatipurwo;sdn2jatipurwo
+f6c0f2cd-3097-11e7-9301-6cae8b5fc378;SDN 3 Jatipurwo;sdn3jatipurwo
+f6c0f56a-3097-11e7-9301-6cae8b5fc378;SDN 1 Jatiwarno;sdn1jatiwarno
+f6c0f7dd-3097-11e7-9301-6cae8b5fc378;SDN 2 Jatiwarno;sdn2jatiwarno
+f6c0fa4e-3097-11e7-9301-6cae8b5fc378;SDN 3 Jatiwarno;sdn3jatiwarno
+f6c0fce3-3097-11e7-9301-6cae8b5fc378;SDN Cadangan;sdncadangan
+f6c0ffab-3097-11e7-9301-6cae8b5fc378;SDN 1 Tunggulrejo;sdn1tunggulrejo
+f6c10221-3097-11e7-9301-6cae8b5fc378;SDN 2 Tunggulrejo;sdn2tunggulrejo
+f6c1048f-3097-11e7-9301-6cae8b5fc378;SDN 3 Tunggulrejo;sdn3tunggulrejo
+f6c1076a-3097-11e7-9301-6cae8b5fc378;SDN 4 Tunggulrejo;sdn4tunggulrejo
+f6c109e3-3097-11e7-9301-6cae8b5fc378;SDN 1 Gemantar;sdn1gemantar
+f6c10c4f-3097-11e7-9301-6cae8b5fc378;SDN 2 Gemantar;sdn2gemantar
+f6c10ebf-3097-11e7-9301-6cae8b5fc378;SDN 1 Kebak;sdn1kebak
+f6c11131-3097-11e7-9301-6cae8b5fc378;SDN 2 Kebak;sdn2kebak
+f6c113a5-3097-11e7-9301-6cae8b5fc378;SDN 3 Kebak;sdn3kebak
+f6c11614-3097-11e7-9301-6cae8b5fc378;SDN 4 Kebak;sdn4kebak
+f6c11889-3097-11e7-9301-6cae8b5fc378;SDN 1 Sringin;sdn1sringin
+f6c11b23-3097-11e7-9301-6cae8b5fc378;SDN 2 Sringin;sdn2sringin
+f6c11d9b-3097-11e7-9301-6cae8b5fc378;SDN 3 Sringin;sdn3sringin
+f6c12015-3097-11e7-9301-6cae8b5fc378;SDN 1 Blorong;sdn1blorong
+f6c122c3-3097-11e7-9301-6cae8b5fc378;SDN 2 Blorong;sdn2blorong
+f6c12597-3097-11e7-9301-6cae8b5fc378;SDN 3 Blorong;sdn3blorong
+f6c12809-3097-11e7-9301-6cae8b5fc378;SDN 1 Genengan;sdn1genengan
+f6c12a97-3097-11e7-9301-6cae8b5fc378;SDN 2 Genengan;sdn2genengan
+f6c12d5c-3097-11e7-9301-6cae8b5fc378;SDN 1 Sambirejo;sdn1sambirejo
+f6c12fcf-3097-11e7-9301-6cae8b5fc378;SDN 2 Sambirejo;sdn2sambirejo
+f6c13245-3097-11e7-9301-6cae8b5fc378;SDN 1 Sukosari;sdn1sukosari
+f6c134ba-3097-11e7-9301-6cae8b5fc378;SDN 2 Sukosari;sdn2sukosari
+f6c13730-3097-11e7-9301-6cae8b5fc378;SDN 1 Tugu;sdn1tugu
+f6c139a3-3097-11e7-9301-6cae8b5fc378;SDN 2 Tugu;sdn2tugu
+f6c13c17-3097-11e7-9301-6cae8b5fc378;SDN 3 Tugu;sdn3tugu
+f6c13e89-3097-11e7-9301-6cae8b5fc378;SDN 1 Sedayu;sdn1sedayu
+f6c14125-3097-11e7-9301-6cae8b5fc378;SDN 2 Sedayu;sdn2sedayu
+f6c14408-3097-11e7-9301-6cae8b5fc378;SDN 1 Ngunut;sdn1ngunut
+f6c146d7-3097-11e7-9301-6cae8b5fc378;SDN 2 Ngunut;sdn2ngunut
+f6c1496e-3097-11e7-9301-6cae8b5fc378;SDN Cadangan;sdncadangan
+f6c14be1-3097-11e7-9301-6cae8b5fc378;SDN 1 Tlobo;sdn1tlobo
+f6c14e77-3097-11e7-9301-6cae8b5fc378;SDN 2 Tlobo;sdn2tlobo
+f6c1512a-3097-11e7-9301-6cae8b5fc378;SDN 3 Tlobo;sdn3tlobo
+f6c153a2-3097-11e7-9301-6cae8b5fc378;SDN 1 Jatiyoso;sdn1jatiyoso
+f6c15619-3097-11e7-9301-6cae8b5fc378;SDN 2 Jatiyoso;sdn2jatiyoso
+f6c1588b-3097-11e7-9301-6cae8b5fc378;SDN 2 Petung;sdn2petung
+f6c15b29-3097-11e7-9301-6cae8b5fc378;SDN 3 Petung;sdn3petung
+f6c15da0-3097-11e7-9301-6cae8b5fc378;SDN 1 Jatisawit;sdn1jatisawit
+f6c1605c-3097-11e7-9301-6cae8b5fc378;SDN 2 Jatisawit;sdn2jatisawit
+f6c1635f-3097-11e7-9301-6cae8b5fc378;SDN 1 Wonorejo ;sdn1wonorejo
+f6c165e0-3097-11e7-9301-6cae8b5fc378;SDN 2 Wonorejo ;sdn2wonorejo
+f6c1685b-3097-11e7-9301-6cae8b5fc378;SDN 3 Wonorejo ;sdn3wonorejo
+f6c16b0b-3097-11e7-9301-6cae8b5fc378;SDN 4 Wonorejo;sdn4wonorejo
+f6c16d80-3097-11e7-9301-6cae8b5fc378;SDN 1 Wonokeling;sdn1wonokeling
+f6c16ff1-3097-11e7-9301-6cae8b5fc378;SDN 2 Wonokeling;sdn2wonokeling
+f6c172c5-3097-11e7-9301-6cae8b5fc378;SDN 3 Wonokeling;sdn3wonokeling
+f6c1753c-3097-11e7-9301-6cae8b5fc378;SDN 1 Karangsari;sdn1karangsari
+f6c177ad-3097-11e7-9301-6cae8b5fc378;SDN 2 Karangsari;sdn2karangsari
+f6c17a82-3097-11e7-9301-6cae8b5fc378;SDN 3 Karangsari;sdn3karangsari
+f6c17cfb-3097-11e7-9301-6cae8b5fc378;SDN 4 Karangsari;sdn4karangsari
+f6c18003-3097-11e7-9301-6cae8b5fc378;SDN 1 Wukirsawit;sdn1wukirsawit
+f6c18387-3097-11e7-9301-6cae8b5fc378;SDN 2 Wukirsawit;sdn2wukirsawit
+f6c1860b-3097-11e7-9301-6cae8b5fc378;SDN 3 Wukirsawit;sdn3wukirsawit
+f6c18886-3097-11e7-9301-6cae8b5fc378;SDN 4 Wukirsawit;sdn4wukirsawit
+f6c18b04-3097-11e7-9301-6cae8b5fc378;SDN 1 Beruk;sdn1beruk
+f6c18da1-3097-11e7-9301-6cae8b5fc378;SDN 3 Beruk;sdn3beruk
+f6c19053-3097-11e7-9301-6cae8b5fc378;SD Cadangan;sdcadangan
+f6c192ca-3097-11e7-9301-6cae8b5fc378;SMPN 1 Karanganyar;smpn1karanganyar
+f6c19567-3097-11e7-9301-6cae8b5fc378;SMPN 2 Karanganyar;smpn2karanganyar
+f6c197ff-3097-11e7-9301-6cae8b5fc378;SMPN 3 Karanganyar;smpn3karanganyar
+f6c19b4f-3097-11e7-9301-6cae8b5fc378;SMPN 4 Karanganyar;smpn4karanganyar
+f6c19dfb-3097-11e7-9301-6cae8b5fc378;SMPN 5 Karanganyar;smpn5karanganyar
+f6c1a076-3097-11e7-9301-6cae8b5fc378;SMPN 1 Tasikmadu;smpn1tasikmadu
+f6c1a347-3097-11e7-9301-6cae8b5fc378;SMPN 2 Tasikmadu;smpn2tasikmadu
+f6c1a5bd-3097-11e7-9301-6cae8b5fc378;SMPN 3 Tasikmadu;smpn3tasikmadu
+f6c1a82c-3097-11e7-9301-6cae8b5fc378;SMPN 1 Jaten;smpn1jaten
+f6c1aa9f-3097-11e7-9301-6cae8b5fc378;SMPN 2 Jaten;smpn2jaten
+f6c1ad1f-3097-11e7-9301-6cae8b5fc378;SMPN 1 Kebakkramat;smpn1kebakkramat
+f6c1af98-3097-11e7-9301-6cae8b5fc378;SMPN 2 Kebakkramat;smpn2kebakkramat
+f6c1b213-3097-11e7-9301-6cae8b5fc378;SMPN 3 Kebakkramat;smpn3kebakkramat
+f6c1b4c2-3097-11e7-9301-6cae8b5fc378;SMPN 1 Mojogedang;smpn1mojogedang
+f6c1b737-3097-11e7-9301-6cae8b5fc378;SMPN 2 Mojogedang;smpn2mojogedang
+f6c1b9a6-3097-11e7-9301-6cae8b5fc378;SMPN 3 Mojogedang;smpn3mojogedang
+f6c1bc1a-3097-11e7-9301-6cae8b5fc378;SMPN 1 Karangpandan;smpn1karangpandan
+f6c1be91-3097-11e7-9301-6cae8b5fc378;SMPN 2 Karangpandan;smpn2karangpandan
+f6c1c12b-3097-11e7-9301-6cae8b5fc378;SMPN 3 Karangpandan;smpn3karangpandan
+f6c1c39c-3097-11e7-9301-6cae8b5fc378;SMPN 1 Matesih;smpn1matesih
+f6c1c60a-3097-11e7-9301-6cae8b5fc378;SMPN 2 Matesih;smpn2matesih
+f6c1c87c-3097-11e7-9301-6cae8b5fc378;SMPN 1 Tawangmangu;smpn1tawangmangu
+f6c1cb1c-3097-11e7-9301-6cae8b5fc378;SMPN 2 Tawangmangu;smpn2tawangmangu
+f6c1cd99-3097-11e7-9301-6cae8b5fc378;SMPN 1 Ngargoyoso;smpn1ngargoyoso
+f6c1d00f-3097-11e7-9301-6cae8b5fc378;SMPN 2 Ngargoyoso;smpn2ngargoyoso
+f6c1d2af-3097-11e7-9301-6cae8b5fc378;SMPN 3 Ngargoyoso;smpn3ngargoyoso
+f6c1d522-3097-11e7-9301-6cae8b5fc378;SMPN 1 Jenawi;smpn1jenawi
+f6c1d7d4-3097-11e7-9301-6cae8b5fc378;SMPN 2 Jenawi;smpn2jenawi
+f6c1da57-3097-11e7-9301-6cae8b5fc378;SMP 3 Jenawi (Satu Atap);smp3jenawi
+f6c1dcc5-3097-11e7-9301-6cae8b5fc378;SMPN 1 Kerjo;smpn1kerjo
+f6c1df35-3097-11e7-9301-6cae8b5fc378;SMPN 2 Kerjo;smpn2kerjo
+f6c1e1a4-3097-11e7-9301-6cae8b5fc378;SMPN 3 Satu Atap;smpn3satuatap
+f6c1e414-3097-11e7-9301-6cae8b5fc378;SMPN 1 Colomadu;smpn1colomadu
+f6c1e680-3097-11e7-9301-6cae8b5fc378;SMPN 2 Colomadu;smpn2colomadu
+f6c1e8ec-3097-11e7-9301-6cae8b5fc378;SMPN 3 Colomadu;smpn3colomadu
+f6c1eb5e-3097-11e7-9301-6cae8b5fc378;SMPN 1 Gondangrejo;smpn1gondangrejo
+f6c1edd1-3097-11e7-9301-6cae8b5fc378;SMPN 2 Gondangrejo;smpn2gondangrejo
+f6c1f045-3097-11e7-9301-6cae8b5fc378;SMPN 3 Gondangrejo;smpn3gondangrejo
+f6c1f2ee-3097-11e7-9301-6cae8b5fc378;SMPN 1 Jumapolo;smpn1jumapolo
+f6c1f562-3097-11e7-9301-6cae8b5fc378;SMPN 2 Jumapolo;smpn2jumapolo
+f6c1f7fb-3097-11e7-9301-6cae8b5fc378;SMPN 3 Jumapolo ;smpn3jumapolo
+f6c1fac7-3097-11e7-9301-6cae8b5fc378;SMPN 1 Jatipuro;smpn1jatipuro
+f6c1fd34-3097-11e7-9301-6cae8b5fc378;SMPN 2 Jatipuro;smpn2jatipuro
+f6c1ffa0-3097-11e7-9301-6cae8b5fc378;SMPN 3 Jatipuro;smpn3jatipuro
+f6c20230-3097-11e7-9301-6cae8b5fc378;SMPN 1 Jumantono;smpn1jumantono
+f6c20503-3097-11e7-9301-6cae8b5fc378;SMPN 2 Jumantono;smpn2jumantono
+f6c2079b-3097-11e7-9301-6cae8b5fc378;SMPN 3 Jumantono;smpn3jumantono
+f6c20a57-3097-11e7-9301-6cae8b5fc378;SMPN 1 Jatiyoso;smpn1jatiyoso
+f6c20cc9-3097-11e7-9301-6cae8b5fc378;SMPN 2 Jatiyoso;smpn2jatiyoso
+f6c20f3e-3097-11e7-9301-6cae8b5fc378;SMPN 3 Jatiyoso;smpn3jatiyoso
+f6c211a9-3097-11e7-9301-6cae8b5fc378;SMPN 4 Jatiyoso;smpn4jatiyoso
+f6c2141b-3097-11e7-9301-6cae8b5fc378;SMPN 5 Jatiyoso;smpn5jatiyoso
+f6c21691-3097-11e7-9301-6cae8b5fc378;SMAN 1 Karanganyar;sman1karanganyar
+f6c2190e-3097-11e7-9301-6cae8b5fc378;SMAN 2 Karanganyar;sman2karanganyar
+f6c21b89-3097-11e7-9301-6cae8b5fc378;SMKN 1 Karanganyar;smkn1karanganyar
+f6c21e6a-3097-11e7-9301-6cae8b5fc378;SMKN 2 Karanganyar;smkn2karanganyar
+f6c220e7-3097-11e7-9301-6cae8b5fc378;SMAN Kebakkramat;smankebakkramat
+f6c2235c-3097-11e7-9301-6cae8b5fc378;SMAN Mojogedang;smanmojogedang
+f6c225fa-3097-11e7-9301-6cae8b5fc378;SMAN Karangpandan;smankarangpandan
+f6c2286f-3097-11e7-9301-6cae8b5fc378;SMKN Jenawi;smknjenawi
+f6c22b06-3097-11e7-9301-6cae8b5fc378;SMAN Kerjo;smankerjo
+f6c22dc8-3097-11e7-9301-6cae8b5fc378;SMAN Colomadu;smancolomadu
+f6c23041-3097-11e7-9301-6cae8b5fc378;SMAN Gondangrejo;smangondangrejo
+f6c232bc-3097-11e7-9301-6cae8b5fc378;SMAN Jumapolo;smanjumapolo
+f6c23551-3097-11e7-9301-6cae8b5fc378;SMAN Jatipuro;smanjatipuro
+f6c237dc-3097-11e7-9301-6cae8b5fc378;SMKN Jumantono;smknjumantono
+f6c23a54-3097-11e7-9301-6cae8b5fc378;SMKN Matesih;smknmatesih
+f6c23ccc-3097-11e7-9301-6cae8b5fc378;SMKN Ngargoyoso;smknngargoyoso
+f6c23f6c-3097-11e7-9301-6cae8b5fc378;SKB Karanganyar;skbkaranganyar

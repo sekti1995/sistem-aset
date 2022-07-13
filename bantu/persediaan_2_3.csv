@@ -1,0 +1,131 @@
+1; Bidang Peternakan Ternak Besar Kerbau jantan, U = 2-2,5 th/2ps,T = 115-125 cm, BB = 275-285 kg;15;
+2; Bidang Peternakan Ternak Besar Kerbau betina, U = 1,5 – 2 th / lps,T = 110-120 cm, BB = 225-235 kg;15;
+3; Bidang Peternakan Ternak Besar Sapi PO jantan, U = 2-2,5 th/2ps   T = 120-125 cm, BB = 250-300 kg;15;
+4; Bidang Peternakan Ternak Besar Sapi PO betina, U = 1,5-2 th/lps   T = 115-120 cm, BR = 200-250 kg;15;
+5; Bidang Peternakan Ternak Besar Sapi perah betina, U = 1,5-2 th/lps   T = 115-120 cm, BR = 200-250 kg;15;
+6;Bidang Peternakan Ternak Besar Sapi perah betina bunting u=2 - 3 thT=130-135 BB=400 kg umur kebuntingan 5-7 bulan;15;
+7; Bidang Peternakan Ternak Besar Sapi bakalan / kereman, U =1,5-2 th/1 ps   T = 115-135 cm, BR = 200-250 kg;15;
+8; Bidang Peternakan Ternak Besar Sapi Brahman jantan, U =2-2,5 th/1 ps   T = 115-120 cm, BR = 200-300 kg;15;
+9; Bidang Peternakan Ternak Besar Sapi Brahman betina U =1,5-2 th/1 ps   T = 115-120 cm, BR = 200-300 kg;15;
+10;Bidang Peternakan Ternak Besar Sapi Simental Jantan, U = 1,5 - 2 th/1 ps T = 115 - 120 cm, BB = 200-300 kg;15;
+11;Bidang Peternakan Ternak Besar Sapi Simental Betina, U = 1,5 - 2 th/1 ps T = 115 - 120 cm, BB = 200 - 300 kg;15;
+12;Bidang Peternakan Ternak Besar Sapi Limousin Jantan, U = 1,5 - 2 th/1 ps T = 115 - 120 cm, BB = 200-300 kg;15;
+13;Bidang Peternakan Ternak Besar Sapi Limousin Betina, U = 1,5 - 2 th/1 ps T = 115 - 120 cm, BB = 200 - 300 kg;15;
+14; Bidang Peternakan Ternak Kecil Kambing PEG jantan, U = 1,5 th/1 ps, T = 65-70, BB = 30-35 kg;15;
+15; Bidang Peternakan Ternak Kecil Kambing PEG betina, U = 8-12 bln/1 ps,    T = 55-60, BB = 20-25 kg;15;
+16; Bidang Peternakan Ternak Kecil KambingPEG Eks tapos jantan, U = 1-1,5 th;15;
+17; Bidang Peternakan Ternak Kecil Kambing PEG Eks tapos betina, U = 8-12 bln;15;
+18; Bidang Peternakan Ternak Kecil Kambing PE jantan, U = 1-1,5 th/1 ps,   TY = 80-85 cm, BB = 77-80 kg;15;
+19; Bidang Peternakan Ternak Kecil Kambing PE betina, U = 1-1,5 th T = 75-85 cm, BB = 75-80 kg;15;
+20; Bidang Peternakan Ternak Kecil Kambing jawa randu jantan, U = 1-1,5 th/1 ps,     T = 55-60 cm, BB = 20-25 kg;15;
+21;  Bidang Peternakan Ternak Kecil Kambing jawa randu betina, U =8-12 bln T = 55-60 cm, BB = 20-25 kg;15;
+22;  Bidang Peternakan Ternak Kecil Kambing kacang jantan, U = 1-1,5 th/1 ps, T = 55-60, BB = 20-25 kg;15;
+23;  Bidang Peternakan Ternak Kecil Kambing kacang betina, U = 8-12 bln T = 55-60 cm, BB = 20-25 kg;15;
+24;Bidang Peternakan Ternak Kecil Domba  PEG Jantan, U = 1,5 th/1 ps T = 65 - 70 cm, BB = 30 - 35 kg;15;
+25;Bidang Peternakan Ternak Kecil Domba  PEG Betina, U = 8 - 12 bln/1 psg T = 65 - 70 cm, BB =  20 - 25 kg;15;
+26;Bidang Peternakan Ternak Kecil Domba EG Jantan, U = 1 - 1,5 th/1 ps T = 55 - 60 cm, BB = 17 - 25 kg;15;
+27;Bidang Peternakan Ternak Kecil Domba EG Betina, U = 8 - 12 bln T = 50 - 55 cm, BB = 15 - 20 kg;15;
+28;Bidang Peternakan Unggas Anak itik DOD, 1-2 hari;15;7000
+29;Bidang Peternakan Unggas Anak itik, 7-14 hari ;15;20000
+30;Bidang Peternakan Unggas Ayam buras betina, 8-10 bulan;15;60000
+31;Bidang Peternakan Unggas Ayam buras jantan, 12-13 bulan;15;75000
+32;Bidang Peternakan Unggas Ayam kedu betina, 8-10 bulan;15;70000
+33;Bidang Peternakan Unggas Ayam kedu jantan, 12-13 bulan;15;90000
+34;Bidang Peternakan Unggas Ayam layer / pullet, 5-6 bulan;15;50000
+35;Bidang Peternakan Unggas Ayam ras layer jantan, 10-12 bulan;15;40000
+36;Bidang Peternakan Unggas Ayam kalkun jantan u= 1 bln;15;60000
+37;Bidang Peternakan Unggas Ayam kalkun betina u=1 bln;15;60000
+38;Bidang Peternakan Unggas Entok jantan;15;85000
+39;Bidang Peternakan Unggas Entok betina;15;75000
+40;Bidang Peternakan Unggas Burung murai batu jantan,u = 1 bln;15;2500000
+41;Bidang Peternakan Unggas Burung murai batu betina,u = 1 bln;15;1250000
+42;Bidang Peternakan Unggas Burung kenari jantan lokal;15;500000
+43;Bidang Peternakan Unggas Burung kenari jantan lokal AF;15;750000
+44;Bidang Peternakan Unggas Burung kenari jantan lokal F 1;15;2500000
+45;Bidang Peternakan Unggas Burung kenari betina lokal;15;300000
+46;Bidang Peternakan Unggas Burung kenari betina lokal AF;15;500000
+47;Bidang Peternakan Unggas Burung kenari betina lokal F 1;15;1250000
+48;Bidang Peternakan Unggas Burung puyuh, 0-5,1 bulan;15;8000
+49;Bidang Peternakan Unggas DOC ras broiler, 1-2 hari;15;5000
+50;Bidang Peternakan Unggas DOC ras layer, 1-2 hari;15;5000
+51;Bidang Peternakan Unggas Itik bayah, 6-6,5 bulan;15;75000
+52;Bidang Peternakan Unggas Kelinci impor betina, 6-7 bulan;15;350000
+53;Bidang Peternakan Unggas Kelinci impor jantan, 8-9 bulan;15;400000
+54;Bidang Peternakan Unggas Kelinci lokal betina, 6-7 bulan;15;60000
+55;Bidang Peternakan Unggas Kelinci lokal jantan, 8-9 bulan;15;70000
+56; Induk Ikan   Bawal Air Tawar (14 -18 bulan);1;45000
+57;Induk Ikan   Bawal Air Tawar (18  -  24 bulan);1;91500
+58;Induk Ikan   Betutu (12  -  18 bulan);1;90000
+59;Induk Ikan   Betutu (6  - 8 bulan);1;73000
+60;Induk Ikan   Grass Carp (14  -  18 bulan);1;42500
+61;Induk Ikan   Grass Crap (18  -  24 bulan);1;90000
+62;Induk Ikan   Gurami (14  -  18 bulan);1;90000
+63; Induk Ikan   Gurami (18  -  24 bulan);1;130000
+64;Induk Ikan   Ikan Hias Koki (Soenser, Tosa, Mutiara);44;100000
+65;Induk Ikan Ikan Hias, Koki (Soenser, Tosa, Mutiara) 2 jantan : 1 betina;74;600000
+66;Induk Ikan Ikan Hias, Koi (1jantan : 1betina);74;
+67;Induk Ikan Ikan Hias komet (1 jantan : 1 betina );74;
+68; Induk Ikan Ikan Hias (cupang, Moli);74;
+69;Induk Ikan   Jelawat (12  -  18 bulan);1;97500
+70;Induk Ikan   Jelawat (6  -  8 bulan);1;48500
+71;Induk Ikan   Karper (0,5 -  0,8 Kg);1;
+72;Induk Ikan   Karper (0,8 -  1 Kg);1;
+73; Induk Ikan   Karper (1,0 - 1,5 Kg);1;
+74;Induk Ikan   Karper (1,5 - 3,0 Kg);1;
+75;Induk Ikan   Karper ;1;65000
+76; Induk Ikan   Kepiting (Size :3  -  Induk Ikan 4);15;12500
+77;Induk Ikan   Lele Dumbo (12  -  Induk Ikan 18 bulan);1;70000
+78;Induk Ikan   Lele Dumbo (6  -  Induk Ikan 8 bulan);1;50000
+79;"Induk Ikan Lele Dumbo  0.5 - 0.59kg/ekor (5 jantan ;10 betina)";74;
+80;"Induk Ikan Lele Dumbo  0.6 -  0.69kg/ekor (5 jantan ;10 betina)";74;
+81;"Induk Ikan Lele Dumbo  0.7 -  0.79kg/ekor (5 jantan ;10 betina)";74;
+82;"Induk Ikan Lele Dumbo  0.8 - 1kg/ekor (5 jantan ;10 betina)";74;
+83;Induk Ikan   Lobster;74;600000
+84;Induk Ikan   Nila Merah (12  -  18 bulan);1;55000
+85;Induk Ikan   Nila Merah (6  -  8 bulan);1;40000
+86;Induk Ikan   Nila Gift (12  -  18 bulan);1;52000
+87;Induk Ikan   Nila Gift (6  -  8 bulan);1;40000
+88;Induk Ikan Nila Merah (0.2-  0.25 Kg) 100 jantan :300betina;74;
+89;Induk Ikan Nila Merah (0.25- 0.29 Kg) 100 jantan : 300 betina;74;
+90;Induk Ikan Nila Merah (0.3-  I0.34 Kg) 100 jantan : 300 betina;74;
+91; Induk Ikan Nila Merah (0.35- 0.40 Kg) 100 jantan : 300 betina;74;
+92;Induk Ikan   Pangasius/ patin (14  -18 bulan);1;73000
+93;Induk Ikan   Pangasius/ patin (18  -  24 bulan);1;97500
+94;Induk Ikan   Tawes (12  -  18 bulan);1;30000
+95;Induk Ikan   Tawes (6  -  8 bulan);1;25000
+96;Induk Ikan   Udang betina (12  -    18 bulan);1;1150000
+97; Induk Ikan   Udang jantan ( 6  -  8 bulan);1;412500
+98;Benih Ikan Gurame (5  - 6 cm);15;752
+99;Benih Ikan Gurame (6  - 7 cm);15;850
+100; Benih Ikan Lele Dumbo (3  - 4 cm);15;200
+101;Benih Ikan Lele Dumbo (5  - 8 cm);15;250
+102;Benih Ikan Lele Lokal (3  - 4 cm);15;175
+103;Benih Ikan Gurami (2  - 3 cm);15;200
+104;Benih Ikan Gurami (3  - 4 cm);15;300
+105;Benih Ikan Gurami (4  - 5 cm);15;642
+106;Benih Ikan Gurami (ukur biji oyong);15;
+107;Benih Ikan Gurami (ukur daun kelor);15;
+108;Benih Ikan Gurami (ukur korek gas);15;
+109;Benih Ikan Gurami (ukur silet);15;
+110;Benih Ikan Gurami (ukur korek jres);15;
+111;Benih Ikan Lele Dumbo (4-6 cm);15;
+112;Benih Ikan Lele Dumbo (5-7 cm);15;
+113;Benih Ikan Lele Dumbo (7-8 cm);15;
+114;Benih Ikan Lele Dumbo (9-12 cm);15;
+115;Benih Ikan Lele Dumbo (8  - 12 cm);15;450
+116;Benih Ikan Lele Lokal (5  - 8 cm) ;15;200
+117;Benih Ikan Lele Lokal (8  - 10 cm);15;400
+118;Benih Ikan Lobster (1  - 3 cm);15;1500
+119;Benih Ikan Lobster (4  - 5 cm);15;2500
+120;Benih Ikan Mas (3  - 4 cm);15;100
+121;Benih Ikan Mas (5  - 8 cm);15;175
+122;Benih Ikan Mas (8  - 10 cm);15;275
+123;Benih Ikan Nila (3  - 4 cm);15;100
+124; Benih Ikan Nila (5  - 8 cm);15;150
+125;Benih Ikan Nila (8  - 12 cm);15;200
+126;Benih Ikan Nila Merah (3  - 4 cm);15;125
+127;Benih Ikan Nila Merah (5  - 8 cm);15;175
+128;Benih Ikan Nila Merah (8  - 12 cm);15;275
+129;Benih Ikan Patin (2  - 3 cm);15;200
+130;Benih Ikan Patin (5  - 7 cm);15;500
+131; Benih Ikan Patin (3  - 4 cm);15;300

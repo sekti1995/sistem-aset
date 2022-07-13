@@ -1,0 +1,11 @@
+13042016
+project begin
+
+
+03102016
+ubah DB :
+ adjust -> add field no_ba, tgl_ba
+ nota_minta_detail -> add field ket 
+ ref_barang_rinci -> drop
+ ref_barang_kegiatan -> create
+ 

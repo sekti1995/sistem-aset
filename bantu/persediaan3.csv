@@ -1,0 +1,270 @@
+1;Jam Dinding;18;
+2;Jam Beker;18;25000
+3;Kipas angin Desk fan kecil                                                                 ;18;95000
+4;Kipas angin Desk fan sedang                                                               ;18;145000
+5;Kipas angin Desk fan besar ;18;240000
+6;Kipas angin Box fan sedang;18;165000
+7;Kipas angin Box fan besar;18;295000
+8;Kipas angin Kipas angin berdiri;18;370000
+9;Kipas angin Kipas angin gantung;18;185000
+10;Kipas angin Kipas angin dinding;18;350000
+11;Kipas angin Kipas angin ventilasi dinding;18;225000
+12;Kipas angin ventilasi plafon;18;245000
+13;Air Cleaner                                              ;18;2064000
+14;Lemari Es Satu pintu kecil (untuk kamar RS / Mess);18;1340000
+15;Lemari Es Satu pintu sedang;18;1835000
+16;Lemari Es Satu pintu besar;18;2235000
+17;Lemari Es Dua pintu sedang;18;3400000
+18;Lemari Es Dua pintu besar;18;4780000
+19;Lemari Es Tipe Hot / Cold;18;1750000
+20;Lemari Es Freezer sedang ;18;2600000
+21;Lemari Es Freezer besar;18;6300000
+22;Air Conditioner ( AC) Split ½ s/d 1 pk;10;4000000
+23;Air Conditioner ( AC) Split 1 ½ pk;10;5000000
+24;Air Conditioner ( AC) Split 2 pk;10;7000000
+25;Air Conditioner ( AC) AC Floor standing 2 pk;10;8000000
+26;Air Conditioner ( AC) AC Floor standing 5 pk;10;20000000
+27;Televisi Berwarna  14 inci Flat;18;850000
+28;Televisi Berwarna  14 inci Flat stereo;18;1050000
+29;Televisi Berwarna  21 inci Flat;18;1875000
+30;Televisi Berwarna  29 inci Flat;18;3000000
+31;Televisi Berwarna  25 inci LCD TV;18;7150000
+32;Televisi Berwarna  32 inci LCD TV;18;12000000
+33;Televisi Berwarna  32 inci Plasma TV;18;11700000
+34;Televisi Berwarna 42 inci Plasma TV;18;19100000
+35;Televisi Berwarna 24 inci LED;18;22000000
+36;VCD Player;18;150000
+37;DVD Player;18;350000
+38;Mini Compo;18;365000
+39;Hifi Compo;18;1260000
+40;Mini Compo CD;18;850000
+41;Hifi Compo CD;18;1850000
+42;Home Teater;18;2400000
+43;Aktif Speaker;18;600000
+44;Radio;18;125000
+45;Camera Pocket digital;18;2000000
+46;Camera SLR Digital 5 s/d 7 MP;18;6300000
+47;Kelengkapan KameraLampu blite;18;600000
+48;Kelengkapan Kamera Tripot;18;500000
+49;Kamera DSRL;18;10000000
+50;Kelengkapan Kamera Telezoom;18;8000000
+51;Handycam;18;6000000
+52;LCD Proyektor ANSI Lumens 3000;18;13000000
+53;Pengeras Suara Horn / TOA;18;500000
+54;Pengeras Suara PA Amplifier 25 watt;18;600000
+55;Pengeras Suara PA Amplifier 30 watt;18;750000
+56;Pengeras Suara PA Amplifier 60 watt;18;850000
+57;Pengeras Suara PA Amplifier 120 watt;18;1250000
+58;Pengeras Suara Colum speaker 10 watt;18;541000
+59;Pengeras Suara Colum speaker 20 watt;18;709000
+60;Pengeras Suara Box speaker;18;350000
+61;Pengeras Suara Mega Phone;18;165000
+62;Pengeras Suara Mega Phone 6 Watt;18;397000
+63;Pengeras Suara Mega Phone + Sirine 6 Watt;18;445200
+64;Pengeras Suara Mega Phone 15 Watt;18;550000
+65;Pengeras Suara Mega Phone 15 Watt + sirine;18;595200
+66;Pengeras Suara Magnic Meja;18;75000
+67;Pengeras Suara Tiang Mic berdiri/ mic holder;18;175000
+68;Pengeras Suara Mixer 8 CH Built Up;18;35000000
+69;Pengeras Suara Audio Prossesor Built Up;18;25000000
+70;Pengeras Suara Power Audio Control;18;2000000
+71;Pengeras Suara Tuner FM;18;1500000
+72;Pengeras Suara Stodio Standart MIC;18;1200000
+73;Pengeras Suara Standing Mic Arm;18;1500000
+74;Pengeras Suara Magnetic Tape Recorder;18;5000000
+75;Pengeras Suara Exciter;18;7000000
+76;Pengeras Suara Built Up RVR Booster;18;125000000
+77;Pengeras Suara Antenna 4 Bay Built Up;18;20000000
+78;Pengeras Suara Wireless microphone;18;4000000
+79;Pengeras Suara Telepon Ruangan;18;2000000
+80;Alat-alat Listrik Tespen;10;10000
+81;Alat-alat Listrik Aiqua Klem Jaringan Standar;10;7000
+82;Alat-alat Listrik Angkur baut dudukan;10;33000
+83;Alat-alat Listrik Arde (kawat tembaga) O 25 mm;6;32500
+84;Alat-alat Listrik Arde (kawat tembaga) O 50 mm;6;45500
+85;Alat-alat Listrik Bolam HPIT 250 Watt;10;942500
+86;Alat-alat Listrik Bolam HPIT 400 Watt;10;1105000
+87;Alat-alat Listrik Bolam HPIT 80 Watt;10;92300
+88;Alat-alat Listrik Bolam HPLN 250 Watt;10;162500
+89;Alat-alat Listrik Bolam HPLN SON H 250 Watt;10;292500
+90;Alat-alat Listrik Bolam HPLN SON H 350 Watt;10;395000
+91;Alat-alat Listrik Bolam Pijar 100 Watt;10;13000
+92;Alat-alat Listrik Bolam SL 18 Watt;10;74750
+93;Alat-alat Listrik Box MCB 125 Watt;10;11050
+94;Alat-alat Listrik Box MCB 25 KVA;10;140000
+95;Alat-alat Listrik Box MCB 350 Watt;10;11050
+96;Alat-alat Listrik Box MCB 400 Watt;10;11050
+97;Alat-alat Listrik Box MCB 50 KVA;10;140000
+98;Alat-alat Listrik Box meter;10;364000
+99;Alat-alat Listrik Box Sekering 10 A;10;48100
+100;Alat-alat Listrik Box Sekering 6 A;10;32500
+101;Alat-alat Listrik Circle*20 watt;10;44200
+102;Alat-alat Listrik Circle*30 watt;10;58500
+103;Alat-alat Listrik Fitting gantung 125 Watt;10;39000
+104;Alat-alat Listrik Fitting gantung 250 Watt;10;58500
+105;Alat-alat Listrik Fitting Mercury/LHE 125 Watt;10;58500
+106;Alat-alat Listrik Fitting Mercury/LHE 250 Watt;10;45500
+107;Alat-alat Listrik Fitting Porselin;10;7000
+108;Alat-alat Listrik Fitting porselin;10;67600
+109;Alat-alat Listrik Folding Gate;9;802500
+110;Alat-alat Listrik Foto Cell 10 A;10;149500
+111;Alat-alat Listrik Foto Cell 3 A;10;71500
+112;Alat-alat Listrik Foto Cell 6 A;10;111800
+113;Alat-alat Listrik Fotto Cell 10 A;10;159965
+114;Alat-alat Listrik Fuse 10 A;10;94000
+115;Alat-alat Listrik Fuse 3 A;10;62000
+116;Alat-alat Listrik Fuse 6 A;10;78000
+117;Alat-alat Listrik Ignator;10;105300
+118;Alat-alat Listrik Isolasi PVC;10;10150
+119;Alat-alat Listrik Isolasi Unibel Besar;10;10400
+120;Alat-alat Listrik Kabel DX 2 x 10 mm;6;UP
+121;Alat-alat Listrik Kabel DX 2 x 16 mm;6;12350
+122;Alat-alat Listrik Kabel DX 2 x 16 mm;6;UP
+123;Alat-alat Listrik Kabel Listrik 1,50 mm;6;4000
+124;Alat-alat Listrik Kabel listrik 1,50 mm NYA/100 M;6;UP
+125;Alat-alat Listrik Kabel Listrik 2,50 mm;6;5350
+126;Alat-alat Listrik Kabel listrik 2,50 mm NYA/100 M;6;UP
+127;Alat-alat Listrik Kabel LVTC;6;14300
+128;Alat-alat Listrik Kabel LVTC;6;UP
+129;Alat-alat Listrik Kabel NYA 1 x 2,5 mm;50;325000
+130;Alat-alat Listrik Kabel NYM 2 x 2,5 mm;50;292500
+131;Alat-alat Listrik Kabel NYM 2 x 2,5 mm;50;UP
+132;Alat-alat Listrik Kabel NYM 2 x 4 mm;50;1189500
+133;Alat-alat Listrik Kabel 4 x 4;6;
+134;Alat-alat Listrik Kabel NYM 2 x 4 mm;6;UP
+135;Alat-alat Listrik Kabel NYM 4 x 10 mm;6;66300
+136;Alat-alat Listrik Kabel NYM 4 x 16 mm;6;84500
+137;Alat-alat Listrik Kabel NYM 4 x 25 mm;6;123500
+138;Alat-alat Listrik Kabel NYY 2 x 16 mm;6;67600
+139;Alat-alat Listrik Kabel NYY 2 x 4 mm;50;1586000
+140;Alat-alat Listrik Kabel NYY 2 x 6 mm;50;1982500
+141;Alat-alat Listrik Kabel NYY 3 x 16 mm;50;74500
+142;Alat-alat Listrik Kabel NYY 3 x 4 mm;50;988000
+143;Alat-alat Listrik Kabel NYY 4 x 16 mm;50;75000
+144;Alat-alat Listrik Kabel Power;18;1909950
+145;Alat-alat Listrik Kaca Apollo Besar;10;208000
+146;Alat-alat Listrik Kaca Apollo Kecil;10;171600
+147;Alat-alat Listrik Kap lampu Biasa;10;24700
+148;Alat-alat Listrik Kap lampu HNOX Besar;10;1248000
+149;Alat-alat Listrik Kap lampu HNOX Kecil;10;650000
+150;Alat-alat Listrik Kapasitor;10;105300
+151;Alat-alat Listrik Kawat Skur;10;5000
+152;Alat-alat Listrik Klem;48;7000
+153;Alat-alat Listrik Kontaktor SN. 20;10;400000
+154;Alat-alat Listrik Kontaktor SN. 50;10;590000
+155;Alat-alat Listrik Kontaktor SN. 80;10;1105000
+156;Alat-alat Listrik KWH meter 1,300 VA;10;3000000
+157;Alat-alat Listrik KWH meter 11,000 VA;10;15000000
+158;Alat-alat Listrik KWH meter 2,200 VA;10;3500000
+159;Alat-alat Listrik KWH meter 3,500 VA;10;4800000
+160;Alat-alat Listrik KWH meter 450 VA;10;1.690.000
+161;Alat-alat Listrik KWH meter 5,000 VA;10;6700000
+162;Alat-alat Listrik KWH meter 7,700 VA;10;12000000
+163;Alat-alat Listrik KWH meter 900 VA;10;2500000
+164;Alat-alat Listrik Lampu bohlam LED 10 watt;10;UP
+165;Alat-alat Listrik Lampu bohlam LED 12 watt;10;UP
+166;Alat-alat Listrik Lampu bohlam LED 12 watt;10;UP
+167;Alat-alat Listrik Lampu bohlam LED 3 watt;10;UP
+168;Alat-alat Listrik Lampu bohlam LED 4 watt;10;UP
+169;Alat-alat Listrik Lampu bohlam LED 5 watt;10;UP
+170;Alat-alat Listrik Lampu bohlam LED 7 watt;10;UP
+171;Alat-alat Listrik Lampu bohlam LED 9 watt;10;UP
+172;Alat-alat Listrik Lampu Halogen 220 volt*1000 watt;10;221000
+173;Alat-alat Listrik Lampu Halogen 220 volt*500 watt;10;144000
+174;Alat-alat Listrik Lampu jalan LED 100 watt;10;UP
+175;Alat-alat Listrik Lampu jalan LED 112 watt;10;UP
+176;Alat-alat Listrik Lampu jalan LED 120 watt;10;UP
+177;Alat-alat Listrik Lampu jalan LED 150 watt;10;UP
+178;Alat-alat Listrik Lampu jalan LED 160 watt;10;UP
+179;Alat-alat Listrik Lampu jalan LED 30 Watt;10;UP
+180;Alat-alat Listrik Lampu jalan LED 36 watt;10;UP
+181;Alat-alat Listrik Lampu jalan LED 40 watt;10;UP
+182;Alat-alat Listrik Lampu jalan LED 40 watt;10;UP
+183;Alat-alat Listrik Lampu jalan LED 48 watt;10;UP
+184;Alat-alat Listrik Lampu jalan LED 60 watt;10;UP
+185;Alat-alat Listrik Lampu jalan LED 70 watt;10;UP
+186;Alat-alat Listrik Lampu jalan LED 80 watt;10;UP
+187;Alat-alat Listrik Lampu jalan LED 84 watt;10;UP
+188;Alat-alat Listrik Lampu jalan LED 90 watt;10;UP
+189;Alat-alat Listrik Lampu jalan LED 98 watt;10;UP
+190;Alat-alat Listrik Lampu LHE 12 Watt ;10;36400
+191;Alat-alat Listrik Lampu LHE 23 Watt;10;41600
+192;Alat-alat Listrik Lampu LHE 23 Watt ;10;49400
+193;Alat-alat Listrik Lampu LHE 45 Watt;10;178100
+194;Alat-alat Listrik Lampu LHE Merk Lain 11 Watt;10;23400
+195;Alat-alat Listrik Lampu LHE Merk Lain 85 Watt;10;286000
+196;Alat-alat Listrik Lampu LHE warna kuning 85 Watt;10;292500
+197;Alat-alat Listrik Lampu Pijar 110/220 valt*10 watt;10;7800
+198;Alat-alat Listrik Lampu Pijar 110/220 volt *100 watt;10;9100
+199;Alat-alat Listrik Lampu Pijar 110/220 volt* 25 watt;10;10400
+200;Alat-alat Listrik Lampu Pijar 110/220 volt*15watt;10;7800
+201;Alat-alat Listrik Lampu Pijar 110/220 volt*40 watt;10;10400
+202;Alat-alat Listrik Lampu Pijar 110/220 volt*5 watt;10;5200
+203;Alat-alat Listrik Lampu Pijar 110/220 volt*60 watt;10;10400
+204;Alat-alat Listrik Lampu Pijar 110/220 volt*75 watt;10;10400
+205;Alat-alat Listrik Lampu Pijar jenis cabe 25  watt;10;19500
+206;Alat-alat Listrik Lampu Selang 3 Warna;6;35200
+207;Alat-alat Listrik Lampu SL 18 watt;10;30093,75
+208;Alat-alat Listrik Lampu SL 20 watt;10;36781,25
+209;Alat-alat Listrik Lampu TL *15 watt;10;28600
+210;Alat-alat Listrik Lampu TL *20 watt;10;39000
+211;Alat-alat Listrik Lampu TL *40 watt;10;58500
+212;Alat-alat Listrik Lampu TL* 36 watt;10;58500
+213;Alat-alat Listrik Lampu TL*10 watt;10;19500
+214;Alat-alat Listrik Lampu TL*18 watt;10;35100
+215;Alat-alat Listrik MCB 10 A;10;46000
+216;Alat-alat Listrik MCB 3 A;10;39000
+217;Alat-alat Listrik MCB 6 A;10;41000
+218;Alat-alat Listrik Multi Tester Analog;10;375000
+219;Alat-alat Listrik Multi tester Digital ;10;175000
+220;Alat-alat Listrik Mur Baut Sedang;44;3500
+221;Alat-alat Listrik Ornamen 3 m Ø 1,5 inci;10;217750
+222;Alat-alat Listrik Ornamen 6 m Ø 1,5 inci;10;425000
+223;Alat-alat Listrik Panel Box meter/PHB Besar;10;487500
+224;Alat-alat Listrik Panel Box meter/PHB kecil;10;325000
+225;Alat-alat Listrik Panel Box meter/PHB Sedang;10;390000
+226;Alat-alat Listrik Pipa besi O 1,5 ( 6 m );10;249000
+227;Alat-alat Listrik Pipa besi O 3/4 inci (6 m );10;160000
+228;Alat-alat Listrik Plat landasan tebal 12 mm, Lebar 60 x 60 cm;10;225000
+229;Alat-alat Listrik Sabuk Pengaman;42;4745000
+230;Alat-alat Listrik Saklar Ganda;10;18725
+231;Alat-alat Listrik Saklar Tunggal;10;16050
+232;Alat-alat Listrik Stop Kontak;10;15000
+233;Alat-alat Listrik Stop Kontak Analog;10;225000
+234;Alat-alat Listrik Stop Kontak Digital;10;240000
+235;Alat-alat Listrik T.Dos Doradus 10 x10 cm;10;7800
+236;Alat-alat Listrik T.Dos Doradus 6 x 6 cm;10;6200
+237;Alat-alat Listrik Tali listrik Lampu Selang/100 bh;42;41600
+238;Alat-alat Listrik Tang Ampere;10;721500
+239;Alat-alat Listrik Tang fuse;10;65000
+240;Alat-alat Listrik Taspen;10;10000
+241;Alat-alat Listrik Terminal 100 A baut 9;10;91000
+242;Alat-alat Listrik Terminal 60 A baut 6;10;52000
+243;Alat-alat Listrik Tiang galvanis ;10;UP
+244;Alat-alat Listrik Tiang lampu biasa;10;2500000
+245;Alat-alat Listrik Tiang Lampu cor 8,5 meter persegi Tebal;10;10530000
+246;Alat-alat Listrik Tiang Lampu cor 8,5 meter persegi Alat-alat Listrik Tipis;10;7700000
+247;Alat-alat Listrik Tiang lampu hias 8,5 m;10;7020000
+248;Alat-alat Listrik Tiang tarikan;10;1800000
+249;Alat-alat Listrik Timmer ;10;845000
+250;Alat-alat Listrik Todus;10;10100
+251;Alat-alat Listrik Travo 1 Phase 25 KVA;10;31330000
+252;Alat-alat Listrik Travo 1 Phase 50 KVA;10;41600000
+253;Alat-alat Listrik Travo 125 Watt;10;150000
+254;Alat-alat Listrik Travo 250 watt;10;167100
+255;Alat-alat Listrik Travo 3 Phase 25 KVA;10;31850000
+256;Alat-alat Listrik Travo 3 Phase 50 KVA;10;52000000
+257;Alat-alat Listrik Travo 350 Watt;10;270000
+258;Alat-alat Listrik Travo 400 Watt;10;330000
+259;Alat-alat Listrik Travo SON 250 Watt;10;505000
+260;Alat-alat Listrik Travo SON 400 Watt;10;570000
+261;Alat-alat Listrik Travo SON 40 Watt;10;
+262;Alat Suku Cadang Traffic Light dan Lampu Flashing / Perlengkapan Lalu Lintas Bohlam Traffic Signal ;10;20000
+263;Alat Suku Cadang Traffic Light dan Lampu Flashing / Perlengkapan Lalu Lintas Bohlam Traffic LED Signal  20 cm;42;700000
+264;Alat Suku Cadang Traffic Light dan Lampu Flashing / Perlengkapan Lalu Lintas Bohlam Traffic LED Signal  30 cm;42;1250000
+265;Alat Suku Cadang Traffic Light dan Lampu Flashing / Perlengkapan Lalu Lintas Bohlam Traffic Heloigin Signal ;42;2500000
+266;Alat Suku Cadang Traffic Light dan Lampu Flashing / Perlengkapan Lalu Lintas Kaca Acrily;10;800000
+267;Alat Suku Cadang Traffic Light dan Lampu Flashing / Perlengkapan Lalu Lintas Transformator Acemetic;42;50000
+268;Alat Suku Cadang Traffic Light dan Lampu Flashing / Perlengkapan Lalu Lintas Transformator 12 Amp Tarffic Conter Down;42;115000
+269;Alat Suku Cadang Traffic Light dan Lampu Flashing / Perlengkapan Lalu Lintas Terminal;10;20000
+270;Alat Suku Cadang Traffic Light dan Lampu Flashing / Perlengkapan Lalu Lintas Sekring;10;2500

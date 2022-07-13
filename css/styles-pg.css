@@ -1,0 +1,47 @@
+/*** Pager links styles ***/
+a{
+	text-decoration:none;
+}
+
+ul.nice_paging{
+	margin-bottom:30px;
+	padding:5px 0 10px 0;
+	text-align:left;
+	font-size :12px;
+	font-weight:bold;
+	color:#777;
+}
+
+ul.nice_paging li{
+	padding:3px 7px 3px 7px;
+	margin:2px;
+	border:1px solid #aaa;
+	background-color:#eee;
+	display:inline;
+	list-style:none;
+}
+
+ul.nice_paging li.current{
+	background-color:#369;
+	color:#fff
+}
+
+ul.nice_paging li a{
+	font-weight:bold;
+	color:#777;
+}
+
+/*** Table style ***/
+table.table{
+	background-color:#aaa;
+}
+
+table .header{
+	background-color:#777;
+	color:#fff;
+	font-weight:bold;
+}
+
+table .row{
+	background-color:#eee;
+}

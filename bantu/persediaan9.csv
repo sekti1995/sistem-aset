@@ -1,0 +1,348 @@
+1;Cetak Blangko Surat Perintah Perbaikan;49;25000
+2;Cetak Blangko Surat Setoran Pajak Daerah Bea Perolehan Hak Atas Tanah dan Bangunan (SSPD BPHTB) 6 Lembar;41;8500
+3;Cetak Blangko tanda bukti penerimaan;49;37200
+4;Cetak Blangko Tanda Bukti Penerimaan Ukuran 1/2 Qwarto;49;25000
+5;Cetak Blangko Tanda Bukti Penerimaan Ukuran Qwarto;49;40000
+6;Cetak Blangko Tanda Terima Sementara Pembayaran PBB (NCR);49;50000
+7;Cetak Blanko / Formulir / Cetakan KPU Cetak Kartu Suara 70 Gram;41;500
+8;Cetak Blanko / Formulir / Cetakan KPU Formulir C2 KWKm Plano KPU;41;5000
+9;Cetak Blangko Kartu Cetak Pajak Air Tanah ;49;2350
+10;Cetak Cetakan buku uji kendaraan bermotor;49;12600
+11;Cetak Daftar Penerimaan Harian PBB;17;85000
+12;Cetak Daftar perjalanan ijin trayek 9 1/2 x 11 inci 3;13;1249900
+13;Cetak Daftar Wajib Pajak Yang Mengajukan Keberatan PBB;17;85000
+14;Cetak Daftar Wajib Pajak Yang Mengajukan Pembatalan PBB;17;85000
+15;Cetak Daftar Wajib Pajak Yang Mengajukan Pembetulan PBB;17;85000
+16;Cetak Kantong kartu buku ;10;7600
+17;Cetak Kartu Barang;41;1000
+18;Cetak Kartu Kendali Surat Keluar (NCR);49;10000
+19;Cetak Kartu Kendali Surat Masuk (NCR);49;10000
+20;Cetak Kartu Kendaraan Bermotor;41;2000
+21;Cetak Kartu pengawasan ijin trayek 9 1/2 x 11 inci 3;13;1249900
+22;Cetak Kertas Kop SK/ Kop Surat Garuda Emas;17;225000
+23;Cetak Kertas Surat Kop Dinas Folio 1 Muka 1 Warna HVS 70 gram;17;75000
+24;Cetak Kertas Surat Kop Hot Print HVS 80 gram;17;140000
+25;Cetak Kertas Surat Kop Sekretariat Daerah Folio 1 Muka   1 Warna HVS 70 gram;17;75000
+26;Cetak Label Buku Vinly;48;4700
+27;Cetak Leges Pelayanan Administrasi @ Rp. 1000,-;55;75
+28;Cetak Leges Pelayanan Administrasi @ Rp. 500,-;55;75
+29;Cetak Map dengan Lambang Kertas Dico;10;900
+30;Cetak Map Lambang Kertas Crome Coted;41;4700
+31;Cetak Nota/Memo Dinas;49;35000
+32;Cetak Pembuatan Stiker Besar;10;2000
+33;Cetak Pembuatan Stiker Kecil;10;800
+34;CetakPembuatan Stiker Sedang;10;1100
+35;Cetak Penneng PKB;42;3300
+36;Cetak Percetakan Cover Kertas Linen;41;3800
+37;Cetak Permohonan Keberatan dan Pengurangan PBB;17;90000
+38;Cetak Pipil kios;41;50
+39;Cetak Plat uji dan kelengkapannya;42;4300
+40;Cetak Sampul SPJ;10;1250
+41;Cetak Sheet Katalogus;48;28500
+42;Cetak SK ijin trayek contonous 9 1/2 x 11 inci 3;13;1249900
+43;Cetak SK Ijin Trayek Contonous 9 1/2 x 11 inci 3;13;1008000
+44;Cetak SKRD ( Surat Keterangan Retribusi Daerah );49;40000
+45;Cetak Slip Tanggal Kembali;48;2900
+46;CetakSPOP Kolektif;17;95000
+47;CetakStof Map Lambang Kertas Crom Coted ;49;4750
+48;CetakSTTS Pembayaran PBB;49;40000
+49;Cetak Surat Pemberitahuan Objek Pajak dan Lampiran;17;95000
+50;Cetak Surat Tagihan Pajak Daerah (STPD);42;1100
+51;Cetak Arsip KTA Lipat 2 Uk. 15 x 15 cm;41;500
+52;Cetak Arsip KTA Lipat 3 Uk. 23 x 12,5 cm;41;600
+53;Cetak Cover Penerbitan 3 warna                                            ;42;7900
+54;Cetak Cover Penerbitan 5 warna DF;42;11100
+55;Cetak Gambar / peta Berwarna A1;41;256500
+56;Cetak Kartu Buku Uk.12,5 x 7,5 cm;41;400
+57;Cetak Kartu Pendaftaran Uk. 12,5 x 7,5 cm;41;400
+58;Cetak Label Bangunan;10;11100
+59;Cetak Label Barang Inventaris Lainnya ;10;1100
+60;Cetak Label Buku;41;300
+61;Cetak peta Digital Ukuran 40;41;600
+62;Cetak stiker Kendaraan Bermotor;10;3300
+63;Cetak Tanggal Kembali;41;300
+64;Kantong Buku;41;400
+65;Cetak Kertas HVS, 60 gram 1/2 Folio 1 Muka 1 warna;17;57000
+66;Cetak Kertas HVS, 60 gram 1/2 Folio 1 Muka 2 warna;17;71000
+67;Cetak Kertas HVS, 60 gram 1/2 Folio 1 Muka 3 warna;17;84000
+68;Cetak Kertas HVS, 60 gram 1/2 Folio 1 Muka full color;17;1127000
+69;Cetak Kertas HVS, 60 gram 1/2 Folio 2 Muka 1 warna;17;71000
+70;Cetak Kertas HVS, 60 gram 1/2 Folio 2 Muka 2 warna;17;92000
+71;Cetak Kertas HVS, 60 gram 1/2 Folio 2 Muka 3 warna;17;110000
+72;Cetak Kertas HVS, 60 gram 1/2 Folio 2 Muka full color;17;660000
+73;Cetak Kertas HVS, 60 gram 1/2 Kwarto 1 Muka 1 warna;17;58000
+74;Cetak Kertas HVS, 60 gram 1/2 Kwarto 1 Muka 2 warna;17;71000
+75;Cetak Kertas HVS, 60 gram 1/2 Kwarto 1 Muka 3 warna;17;85000
+76;Cetak Kertas HVS, 60 gram 1/2 Kwarto 1 Muka full color;17;1127000
+77;Cetak Kertas HVS, 60 gram 1/2 Kwarto 2 Muka 1 warna;17;71000
+78;Cetak Kertas HVS, 60 gram 1/2 Kwarto 2 Muka 2 warna;17;92000
+79;Cetak Kertas HVS, 60 gram 1/2 Kwarto 2 Muka 3 warna;17;110000
+80;Cetak Kertas HVS, 60 gram 1/2 Kwarto 2 Muka full color;17;660000
+81;Cetak Kertas HVS, 60 gram Double Folio 1 Muka 1 warna;17;124000
+82;Cetak Kertas HVS, 60 gram Double Folio 1 Muka 2 warna;17;158000
+83;Cetak Kertas HVS, 60 gram Double Folio 1 Muka 3 warna;17;194000
+84;Cetak Kertas HVS, 60 gram Double Folio 1 Muka full color;17;1546000
+85;Cetak Kertas HVS, 60 gram Double Folio 2 Muka 1 warna;17;146000
+86;Cetak Kertas HVS, 60 gram Double Folio 2 Muka 2 warna;17;187000
+87;Cetak Kertas HVS, 60 gram Double Folio 2 Muka 3 warna;17;214000
+88;Cetak Kertas HVS, 60 gram Double Folio 2 Muka full color;17;2245000
+89;Cetak Kertas HVS, 60 gram Double Kwarto 1 Muka 1 warna;17;124000
+90;Cetak Kertas HVS, 60 gram Double Kwarto 1 Muka 2 warna;17;158000
+91;Cetak Kertas HVS, 60 gram Double Kwarto 1 Muka 3 warna;17;194000
+92;Cetak Kertas HVS, 60 gram Double Kwarto 1 Muka full color;17;1546000
+93;Cetak Kertas HVS, 60 gram Double Kwarto 2 Muka 1 warna;17;146000
+94;Cetak Kertas HVS, 60 gramDouble Kwarto 2 Muka 2 warna;17;187000
+95;Cetak Kertas HVS, 60 gram Double Kwarto 2 Muka 3 warna;17;214000
+96;Cetak Kertas HVS, 60 gram Double Kwarto 2 Muka full color;17;2245000
+97;Cetak Kertas HVS, 60 gram Folio 1 Muka 1 warna;17;58000
+98;Cetak Kertas HVS, 60 gram Folio 1 Muka 2 warna;17;71000
+99;Cetak Kertas HVS, 60 gram Folio 1 Muka 3 warna;17;84000
+100;Cetak Kertas HVS, 60 gram Folio 1 Muka full color;17;1127000
+101;Cetak Kertas HVS, 60 gram Folio 2 Muka 1 warna;17;71000
+102;Cetak Kertas HVS, 60 gram Folio 2 Muka 2 warna;17;92000
+103;Cetak Kertas HVS, 60 gram Folio 2 Muka 3 warna;17;106000
+104;Cetak Kertas HVS, 60 gram Folio 2 Muka full color;17;660000
+105;Cetak Kertas HVS, 60 gram Kwarto 1 Muka 1 warna;17;57000
+106;Cetak Kertas HVS, 60 gram Kwarto 1 Muka 2 warna;17;71000
+107;Cetak Kertas HVS, 60 gram Kwarto 1 Muka 3 warna;17;84000
+108;Cetak Kertas HVS, 60 gram Kwarto 1 Muka full color;17;1127000
+109;Cetak Kertas HVS, 60 gram Kwarto 2 Muka 1 warna;17;71000
+110;Cetak Kertas HVS, 60 gram Kwarto 2 Muka 2 warna;17;92000
+111;Cetak Kertas HVS, 60 gram Kwarto 2 Muka 3 warna;17;110000
+112;Cetak Kertas HVS, 60 gram Kwarto 2 Muka full color;17;660000
+113;Cetak Kertas HVS, 60 gram Ukuran KTP 1 Muka 1 warna;17;57000
+114;Cetak Kertas HVS, 60 gram Ukuran KTP 1 Muka 2 warna;17;71000
+115;Cetak Kertas HVS, 60 gram Ukuran KTP 1 Muka 3 warna;17;84500
+116;Cetak Kertas HVS, 60 gram Ukuran KTP 1 Muka full color;17;1127000
+117;Cetak Kertas HVS, 60 gram Ukuran KTP 2 Muka 1 warna;17;71000
+118;Cetak Kertas HVS, 60 gram Ukuran KTP 2 Muka 2 warna;17;92000
+119;Cetak Kertas HVS, 60 gram Ukuran KTP 2 Muka 3 warna;17;110000
+120;Cetak Kertas HVS, 60 gram Ukuran KTP 2 Muka full color;17;1267000
+121;Cetak Kertas HVS, 60 gram Ukuran Kwitansi 1 Muka 1 warna;17;57000
+122;Cetak Kertas HVS, 60 gram Ukuran Kwitansi 1 Muka 2 warna;17;71000
+123;Cetak Kertas HVS, 60 gram Ukuran Kwitansi 1 Muka 3 warna;17;84000
+124;Cetak Kertas HVS, 60 gram Ukuran Kwitansi 1 Muka full color;17;1127000
+125;Cetak Kertas HVS, 60 gram Ukuran Kwitansi 2 Muka 1 warna;17;71000
+126;Cetak Kertas HVS, 60 gram Ukuran Kwitansi 2 Muka 2 warna;17;92000
+127;Cetak Kertas HVS, 60 gram Ukuran Kwitansi 2 Muka 3 warna;17;110000
+128;Cetak Kertas HVS, 60 gram Ukuran Kwitansi 2 Muka full color;17;1267000
+129;Cetak Kertas HVS, 70 gram 1/2 Folio 1 Muka 1 warna;17;71000
+130;Cetak Kertas HVS, 70 gram 1/2 Folio 1 Muka 2 warna;17;84000
+131;Cetak Kertas HVS, 70 gram 1/2 Folio 1 Muka 3 warna;17;99000
+132;Cetak Kertas HVS, 70 gram 1/2 Folio 1 Muka full color;17;988000
+133;Cetak Kertas HVS, 70 gram 1/2 Folio 2 Muka 1 warna;17;84000
+134;Cetak Kertas HVS, 70 gram 1/2 Folio 2 Muka 2 warna;17;93000
+135;Cetak Kertas HVS, 70 gram 1/2 Folio 2 Muka 3 warna;17;117000
+136;Cetak Kertas HVS, 70 gram 1/2 Folio 2 Muka full color;17;1406000
+137;Cetak Kertas HVS, 70 gram 1/2 Kwarto 1 Muka 1 warna;17;71000
+138;Cetak Kertas HVS, 70 gram 1/2 Kwarto 1 Muka 2 warna;17;85500
+139;Cetak Kertas HVS, 70 gram 1/2 Kwarto 1 Muka 3 warna;17;99000
+140;Cetak Kertas HVS, 70 gram 1/2 Kwarto 1 Muka full color;17;988000
+141;Cetak Kertas HVS, 70 gram 1/2 Kwarto 2 Muka 1 warna;17;85500
+142;Cetak Kertas HVS, 70 gram 1/2 Kwarto 2 Muka 2 warna;17;93500
+143;Cetak Kertas HVS, 70 gram 1/2 Kwarto 2 Muka 3 warna;17;117000
+144;Cetak Kertas HVS, 70 gram 1/2 Kwarto 2 Muka full color;17;1406000
+145;Cetak Kertas HVS, 70 gram Double Folio 1 Muka 1 warna;17;146000
+146;Cetak Kertas HVS, 70 gram Double Folio 1 Muka 2 warna;17;175000
+147;Cetak Kertas HVS, 70 gram Double Folio 1 Muka 3 warna;17;208000
+148;Cetak Kertas HVS, 70 gram Double Folio 1 Muka full color;17;1581000
+149;Cetak Kertas HVS, 70 gram Double Folio 2 Muka 1 warna;17;179000
+150;Cetak Kertas HVS, 70 gram Double Folio 2 Muka 2 warna;17;187000
+151;Cetak Kertas HVS, 70 gram Double Folio 2 Muka 3 warna;17;242500
+152;Cetak Kertas HVS, 70 gram Double Folio 2 Muka full color;17;2524000
+153;Cetak Kertas HVS, 70 gram Double Kwarto 1 Muka 1 warna;17;146000
+154;Cetak Kertas HVS, 70 gram Double Kwarto 1 Muka 2 warna;17;175000
+155;Cetak Kertas HVS, 70 gram Double Kwarto 1 Muka 3 warna;17;208000
+156;Cetak Kertas HVS, 70 gram Double Kwarto 1 Muka full color;17;1581000
+157;Cetak Kertas HVS, 70 gram Double Kwarto 2 Muka 1 warna;17;179000
+158;Cetak Kertas HVS, 70 gram Double Kwarto 2 Muka 2 warna;17;187000
+159;Cetak Kertas HVS, 70 gram Double Kwarto 2 Muka 3 warna;17;242500
+160;Cetak Kertas HVS, 70 gram Double Kwarto 2 Muka full color;17;2524000
+161;Cetak Kertas HVS, 70 gram Folio 1 Muka 1 warna;17;71000
+162;Cetak Kertas HVS, 70 gram Folio 1 Muka 2 warna;17;84500
+163;Cetak Kertas HVS, 70 gram Folio 1 Muka 3 warna;17;99000
+164;Cetak Kertas HVS, 70 gram Folio 1 Muka full color;17;988000
+165;Cetak Kertas HVS, 70 gram Folio 2 Muka 1 warna;17;84500
+166;Cetak Kertas HVS, 70 gram Folio 2 Muka 2 warna;17;93500
+167;Cetak Kertas HVS, 70 gram Folio 2 Muka 3 warna;17;117000
+168;Cetak Kertas HVS, 70 gram Folio 2 Muka full color;17;1406000
+169;Cetak Kertas HVS, 70 gram Kwarto 1 Muka 1 warna;17;71000
+170;Cetak Kertas HVS, 70 gram Kwarto 1 Muka 2 warna;17;84000
+171;Cetak Kertas HVS, 70 gram Kwarto 1 Muka 3 warna;17;99000
+172;Cetak Kertas HVS, 70 gram Kwarto 1 Muka full color;17;988000
+173;Cetak Kertas HVS, 70 gram Kwarto 2 Muka 1 warna;17;84000
+174;Cetak Kertas HVS, 70 gram Kwarto 2 Muka 2 warna;17;93500
+175;Cetak Kertas HVS, 70 gram Kwarto 2 Muka 3 warna;17;117000
+176;Cetak Kertas HVS, 70 gram Kwarto 2 Muka full color;17;1406000
+177;Cetak Kertas HVS, 70 gram Ukuran KTP 1 Muka 1 warna;17;71000
+178;Cetak Kertas HVS, 70 gram Ukuran KTP 1 Muka 2 warna;17;84500
+179;Cetak Kertas HVS, 70 gram Ukuran KTP 1 Muka 3 warna;17;99000
+180;Cetak Kertas HVS, 70 gram Ukuran KTP 1 Muka full color;17;988000
+181;Cetak Kertas HVS, 70 gram Ukuran KTP 2 Muka 1 warna;17;84500
+182;Cetak Kertas HVS, 70 gram Ukuran KTP 2 Muka 2 warna;17;93500
+183;Cetak Kertas HVS, 70 gram Ukuran KTP 2 Muka 3 warna;17;117000
+184;Cetak Kertas HVS, 70 gram Ukuran KTP 2 Muka full color;17;1406000
+185;Cetak Kertas HVS, 70 gram Ukuran Kwitansi 1 Muka 1 warna;17;71000
+186;Cetak Kertas HVS, 70 gram Ukuran Kwitansi 1 Muka 2 warna;17;84000
+187;Cetak Kertas HVS, 70 gram Ukuran Kwitansi 1 Muka 3 warna;17;99000
+188;Cetak Kertas HVS, 70 gram Ukuran Kwitansi 1 Muka full color;17;988000
+189;Cetak Kertas HVS, 70 gram Ukuran Kwitansi 2 Muka 1 warna;17;84000
+190;Cetak Kertas HVS, 70 gram Ukuran Kwitansi 2 Muka 2 warna;17;93500
+191;Cetak Kertas HVS, 70 gram Ukuran Kwitansi 2 Muka 3 warna;17;117000
+192;Cetak Kertas HVS, 70 gram Ukuran Kwitansi 2 Muka full color;17;1406000
+193;Cetak Kertas HVS 80 gram  1/2 Folio 1 Muka 1 warna;17;84500
+194;Cetak Kertas HVS 80 gram  1/2 Folio 1 Muka 2 warna;17;93500
+195;Cetak Kertas HVS 80 gram  1/2 Folio 1 Muka 3 warna;17;117000
+196;Cetak Kertas HVS 80 gram  1/2 Folio 1 Muka full color;17;1406000
+197;Cetak Kertas HVS 80 gram  1/2 Folio 2 Muka 1 warna;17;110000
+198;Cetak Kertas HVS 80 gram  1/2 Folio 2 Muka 2 warna;17;117000
+199;Cetak Kertas HVS 80 gram  1/2 Folio 2 Muka 3 warna;17;214000
+200;Cetak Kertas HVS 80 gram  1/2 Folio 2 Muka full color;17;1685000
+201;Cetak Kertas HVS 80 gram  1/2 Kwarto 1 Muka 1 warna;17;84500
+202;Cetak Kertas HVS 80 gram  1/2 Kwarto 1 Muka 2 warna;17;110000
+203;Cetak Kertas HVS 80 gram  1/2 Kwarto 1 Muka 3 warna;17;131000
+204;Cetak Kertas HVS 80 gram  1/2 Kwarto 1 Muka full color;17;1057000
+205;Cetak Kertas HVS 80 gram  1/2 Kwarto 2 Muka 1 warna;17;110000
+206;Cetak Kertas HVS 80 gram  1/2 Kwarto 2 Muka 2 warna;17;117000
+207;Cetak Kertas HVS 80 gram  1/2 Kwarto 2 Muka 3 warna;17;214000
+208;Cetak Kertas HVS 80 gram  1/2 Kwarto 2 Muka full color;17;1685000
+209;Cetak Kertas HVS 80 gram Double Folio 1 Muka 1 warna;17;166000
+210;Cetak Kertas HVS 80 gram  Double Folio 1 Muka 2 warna;17;195000
+211;Cetak Kertas HVS 80 gram  Double Folio 1 Muka 3 warna;17;214000
+212;Cetak Kertas HVS 80 gram  Double Folio 1 Muka full color;17;1588000
+213;Cetak Kertas HVS 80 gram  Double Folio 2 Muka 1 warna;17;229000
+214;Cetak Kertas HVS 80 gram  Double Folio 2 Muka 2 warna;17;242500
+215;Cetak Kertas HVS 80 gram  Double Folio 2 Muka 3 warna;17;459000
+216;Cetak Kertas HVS 80 gram  Double Folio 2 Muka full color;17;2524000
+217;Cetak Kertas HVS 80 gram  Double Kwarto 1 Muka 1 warna;17;166000
+218;Cetak Kertas HVS 80 gram  Double Kwarto 1 Muka 2 warna;17;195000
+219;Cetak Kertas HVS 80 gram  Double Kwarto 1 Muka 3 warna;17;214000
+220;Cetak Kertas HVS 80 gram  Double Kwarto 1 Muka full color;17;1588000
+221;Cetak Kertas HVS 80 gram  Double Kwarto 2 Muka 1 warna;17;229000
+222;Cetak Kertas HVS 80 gram  Double Kwarto 2 Muka 2 warna;17;242500
+223;Cetak Kertas HVS 80 gram  Double Kwarto 2 Muka 3 warna;17;459000
+224;Cetak Kertas HVS 80 gram  Double Kwarto 2 Muka full color;17;2524000
+225;Cetak Kertas HVS 80 gram  Folio 1 Muka 1 warna;17;84500
+226;Cetak Kertas HVS 80 gram  Folio 1 Muka 2 warna;17;110000
+227;Cetak Kertas HVS 80 gram  Folio 1 Muka 3 warna;17;131000
+228;Cetak Kertas HVS 80 gram  Folio 1 Muka full color;17;1057000
+229;Cetak Kertas HVS 80 gram  Folio 2 Muka 1 warna;17;110000
+230;Cetak Kertas HVS 80 gram  Folio 2 Muka 2 warna;17;117000
+231;Cetak Kertas HVS 80 gram  Folio 2 Muka 3 warna;17;214000
+232;Cetak Kertas HVS 80 gram  Folio 2 Muka full color;17;1685000
+233;Cetak Kertas HVS 80 gram  Kwarto 1 Muka 1 warna;17;84500
+234;Cetak Kertas HVS 80 gram  Kwarto 1 Muka 2 warna;17;110000
+235;Cetak Kertas HVS 80 gram  Kwarto 1 Muka 3 warna;17;131000
+236;Cetak Kertas HVS 80 gram  Kwarto 1 Muka full color;17;1057000
+237;Cetak Kertas HVS 80 gram  Kwarto 2 Muka 1 warna;17;110000
+238;Cetak Kertas HVS 80 gram  Kwarto 2 Muka 2 warna;17;117000
+239;Cetak Kertas HVS 80 gram  Kwarto 2 Muka 3 warna;17;214000
+240;Cetak Kertas HVS 80 gram  Kwarto 2 Muka full color;17;1685000
+241;Cetak Kertas HVS 80 gram  Ukuran KTP 1 Muka 1 warna;17;84500
+242;Cetak Kertas HVS 80 gram  Ukuran KTP 1 Muka 2 warna;17;110000
+243;Cetak Kertas HVS 80 gram  Ukuran KTP 1 Muka 3 warna;17;131000
+244;Cetak Kertas HVS 80 gram  Ukuran KTP 1 Muka full color;17;1057000
+245;Cetak Kertas HVS 80 gram  Ukuran KTP 2 Muka 1 warna;17;110000
+246;Cetak Kertas HVS 80 gram  Ukuran KTP 2 Muka 2 warna;17;117000
+247;Cetak Kertas HVS 80 gram  Ukuran KTP 2 Muka 3 warna;17;214000
+248;Cetak Kertas HVS 80 gram  Ukuran KTP 2 Muka full color;17;1685000
+249;Cetak Kertas HVS 80 gram  Ukuran Kwitansi 1 Muka 1 warna;17;84500
+250;Cetak Kertas HVS 80 gram  Ukuran Kwitansi 1 Muka 2 warna;17;110000
+251;Cetak Kertas HVS 80 gram  Ukuran Kwitansi 1 Muka 3 warna;17;131000
+252;Cetak Kertas HVS 80 gram  Ukuran Kwitansi 1 Muka full color;17;1057000
+253;Cetak Kertas HVS 80 gram  Ukuran Kwitansi 2 Muka 1 warna;17;110000
+254;Cetak Kertas HVS 80 gram  Ukuran Kwitansi 2 Muka 2 warna;17;117000
+255;Cetak Kertas HVS 80 gram  Ukuran Kwitansi 2 Muka 3 warna;17;214000
+256;Cetak Kertas HVS 80 gram  Ukuran Kwitansi 2 Muka full color;17;1685000
+257;Cetak Kertas Doorslag 1/2 Folio 1 Muka 1 warna;17;49500
+258;Cetak Kertas Doorslag 1/2 Folio 1 Muka 2 warna;17;57000
+259;Cetak Kertas Doorslag 1/2 Folio 1 Muka 3 warna;17;63500
+260;Cetak Kertas Doorslag 1/2 Kwarto 1 Muka 1 warna;17;49500
+261;Cetak Kertas Doorslag 1/2 Kwarto 1 Muka 2 warna;17;57000
+262;Cetak Kertas Doorslag 1/2 Kwarto 1 Muka 3 warna;17;63500
+263;Cetak Kertas Doorslag Double Folio 1 Muka 1 warna;17;92000
+264;Cetak Kertas Doorslag Double Folio 1 Muka 2 warna;17;134000
+265;Cetak Kertas Doorslag Double Folio 1 Muka 3 warna;17;158500
+266;Cetak Kertas Doorslag Double Folio 1 Muka full color;17;1127000
+267;Cetak Kertas Doorslag Double Kwarto 1 Muka 1 warna;17;92000
+268;Cetak Kertas Doorslag Double Kwarto 1 Muka 2 warna;17;134000
+269;Cetak Kertas Doorslag Double Kwarto 1 Muka 3 warna;17;158500
+270;Cetak Kertas Doorslag Double Kwarto 1 Muka full color;17;1127000
+271;Cetak Kertas Doorslag Folio 1 Muka 1 warna;17;49500
+272;Cetak Kertas Doorslag Folio 1 Muka 2 warna;17;57000
+273;Cetak Kertas Doorslag Folio 1 Muka 3 warna;17;63500
+274;Cetak Kertas Doorslag Kwarto 1 Muka 1 warna;17;49500
+275;Cetak Kertas Doorslag Kwarto 1 Muka 2 warna;17;57000
+276;Cetak Kertas Doorslag Kwarto 1 Muka 3 warna;17;63500
+277;Cetak Kertas Doorslag Ukuran KTP 1 Muka 1 warna;17;49500
+278;Cetak Kertas Doorslag Ukuran KTP 1 Muka 2 warna;17;57000
+279;Cetak Kertas Doorslag Ukuran KTP 1 Muka 3 warna;17;63500
+280;Cetak Kertas Doorslag Ukuran Kwitansi 1 Muka 1 warna;17;49500
+281;Cetak Kertas Doorslag Ukuran Kwitansi 1 Muka 2 warna;17;57000
+282;Cetak Kertas Doorslag Ukuran Kwitansi 1 Muka 3 warna;17;63500
+283;Cetak Foto Uk 3 R;41;1800
+284;Cetak Foto Uk 4 R;41;2000
+285;Cetak Foto Uk 5 R;41;6100
+286;Cetak Foto Uk 8 R;41;11500
+287;Cetak Foto Uk 10 R;41;14000
+288;Cetak Foto Uk 12 R;41;30000
+289;Cetak Foto Uk 14 R;41;58500
+290;Cetak Foto Uk 20 R;41;141500
+291;Penggandaan/ Photokopi Buram                                                                    ;41;150
+292;Penggandaan/ Photokopi Double Folio ;41;700
+293;Penggandaan/ Photokopi Double folio balak-balik;41;1250
+294;Penggandaan/ Photokopi  Folio Bolak-balik;41;300
+295;Penggandaan/ Photokopi  Folio HVS                                                             ;41;200
+296;Penggandaan/ Photokopi Memperkecil double folio                                             ;41;1500
+297;Penggandaan/ Photokopi Memperkecil folio                                                          ;41;500
+298;Copy HVS A0 : 840 x 1888 mm;41;105000
+299;Copy HVS A1 : 594 x 840 mm;41;80000
+300;Copy HVS A2 : 420 x 594 mm;41;50000
+301;Copy Kalkir A0 : 840 x 1888 mm;41;24000
+302;Copy Kalkir A1 : 594 x 840 mm;41;12500
+303;Copy Kalkir A2 : 420 x 594 mm;41;9000
+304;Jilid lakban tebal < 5 cm;49;3000
+305;Jilid lakban tebal > 5 cm;49;15000
+306;Jilid lem tebal < 5 cm;49;5000
+307;Jilid lem tebal > 5 cm;49;30000
+308;Jilid rig plastik tebal < 5 cm;49;5000
+309;Jilid rig plastik tebal > 75 cm;49;18000
+310;Jilid Soft cover tebal < 5 cm;49;6000
+311;Jilid Soft cover tebal > 5 cm;49;30000
+312;Jilid Soft Hard Cover tebal < 5 cm;49;25000
+313;Jilid Soft Hard Cover tebal > 5 cm;49;40000
+314;Laminating Uk ¼ folio;10;3000
+315;Laminating Uk 1/2 folio;10;3500
+316;Laminating Uk folio;10;5000
+317;Laminating Uk kartu pengenal (tebal);10;2500
+318;Laminating Uk kartu pengenal (tipis);10;2800
+319;Scaning black / white A0 :  840 x 1888 mm;41;15000
+320;Scaning black / white A1 : 594 x 840 mm;41;12000
+321;Scaning black / white A2 : 420 x 594 mm;41;9000
+322;Scaning black / white A3 : 297 x 420 mm;41;7500
+323;Scaning black / white A4 : 210 x 297 mm;41;4500
+324;Scaning black / white  F4 : 215 x 330 mm;41;4500
+325;Scaning color A3 : 297 x 420 mm;41;11000
+326;Scaning color A4 : 219 x 297 mm;41;4500
+327;Scaning color F4 : 215 x 330 mm;41;4500
+328;Ploting HVC / BC A1 : 594 x 840 mm;41;12000
+329;Ploting HVC / BC A2 : 420 x 594 mm;41;9000
+330;Ploting HVC / BC A0 :  840 x 1888 mm;41;20000
+331;Ploting HVC / BC A1 : 594 x 840 mm;41;18000
+332;Ploting HVC / BC A2 : 420 x 594 mm;41;12000
+333;Ploting HVC / BC A3 : 297 x 420 mm;41;3000
+334;Ploting HVC / BC F4 : 215 x 330 mm;41;700
+335;Ploting HVC / BC A4 : 210 x 297 mm;41;700
+336;Ploting Kalkir A0 :  840 x 1888 mm;41;30000
+337;Ploting Kalkir A1 : 594 x 840 mm;41;16000
+338;Ploting Kalkir A2 : 420 x 594 mm;41;13500
+339;Ploting Kalkir A3 : 297 x 420 mm;41;5000
+340;Ploting Kalkir F4 : 215 x 330 mm;41;4500
+341;Ploting Kalkir A4 : 210 x 297 mm;41;4500
+342;Ploting color – Grafik Matte Pp A0 : 840 x 1888 mm;41;125000
+343;Ploting color – Grafik Matte Pp A1 : 594 x 840 mm;41;95000
+344;Ploting color – Grafik Matte Pp A2 : 420 x 594 mm;41;65000
+345;Ploting Color – Grafik HVS A0 : 840 x 1888 mm;41;125000
+346;Ploting Color – Grafik HVS A1 : 594 x 840 mm;41;95000
+347;Ploting Color – Grafik HVS A2 : 420 x 594 mm;41;65000
+348;Digital Printing;9;30000

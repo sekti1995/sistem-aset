@@ -1,0 +1,207 @@
+1;Lactose broth;58;
+2;Brilliant Green 2 % Bile Broth ( BGLB / BRILA Broth );58;
+3;Nutrien Agar ;58;
+4;Reagen SPANDS;12;
+5;Extran  MA 02 Neutral;3;
+6;Aquades ;3;
+7;Spritus;3;
+8;Steril water for irrigation U.S.P;65;
+9;Dia - Diluent D;65;
+10;Dia - Lyse - Diff - D -CF;65;
+11;Dia - Rince - D;65;
+12;Dia - Ez - Cleaner - D ;65;
+13;Dia - Probe - Cleaner - D;65;
+14;Blood control CBC 3D Normal;65;
+15;Formaldehide ( 100 test 0,1  0,25 0,4 0,6 0,8 1 1,5 mg HCHO) ;65;
+16;Borax test;65;
+17;Reagen pemeriksaan Rodhamin B;65;
+18;Reagen pemeriksaan Methanil Yellow;65;
+19;Fe ( 0,005-5 mg/L 1000 test );65;
+20;Mn ( 0,005-2,0 mg/L 250 test );65;
+21;Nitrat ( 0,10-25 / 0,4-110,7 mg/L 250 test );65;
+22;Nitrit ( 0,002-1 / 0,007-3,28 mg/L 335 test );65;
+23;pH test ( 280 test 6,4- 8,8 );65;
+24;Sterikon Plus Bioindikator ( USP XXIII ) small pack;48;
+25;Transport swab medium amies;10;
+26;Handskun;48;
+27;Catton swab steril;67;
+28;Masker;43;
+29;Kapas;94;
+30;Impact ultima hospital care detergen;95;
+31;Impact ultima premium glass cleaner;96;
+32;Impact ultima handsoap;96;
+33;Impact ultima floor cleaner;96;
+34;Nitrite standart solution traceable to SRM from NIST NaNO2 in H2O 1000 mg/l NO2CertuPUR;97;
+35;Manganase standart solution traceable to SRM from NIST Mn(N)3)2  in HNO3 0,5mol/l 1000 mg/l Mn CertiPUR;97;
+36;Iron standart solution traceable to SRM from NIST Fe(NO3)3  in HNO3 0,5mol/l 1000 mg/l Fe CertiPUR;97;
+37;Nitrate standart solution traceable to SRM from NIST NaNO3 in H2O 1000 mg/l NO3 CertuPUR;97;
+38;Chloride standart solution traceable to SRM from NIST NaCl in H2O 1000 mg/l Cl- CertuPUR;97;
+39;Fluoride standart solution traceable to SRM from NIST NaF- in H2O 1000 mg/l F-CertuPUR;97;
+40;Sulfate standart solution traceable to SRM from NIST Na2SO4 in H2O 1000 mg/l SO42-CertuPUR;97;
+41;Creatinine;65;
+42;Urea/Ureum;65;
+43;ALT/GPT SLR ;65;
+44;AST/GOT SLR;65;
+45;Trygliseride;65;
+46;Cholesterol;65;
+47;Uric Acid SLR;65;
+48;Glucose;65;
+49;Bovine Assayed control;65;
+50;Calibration serum;65;
+51;Blood control CBC 3D Normal;65;
+52;Rapid Test Drug Abuse Methamphetamine;85;
+53;Rapid Test Drug Abuse Morphine;85;
+54;Rapid Test Drug Abuse Amphetamine;85;
+55;Rapid Test Drug Abuse Benzodiasepam;85;
+56;Rapid Test Drug Abuse THC;85;
+57;Rapid Test Drug Abuse Codein;85;
+58;Sulfuric acide 95-97% for analysis;98;
+59;Magnesium chloride hexahydrate for analysis;83;
+60;Potasium nitrate for analysis / KNO3;84;
+61;Barium chloride (BaCl2);3;
+62;Silver nitrat ( AgNO3 );100;
+63;Mercuri (II) Sulfate GR for analysis;101;
+64;Penantrolin;102;
+65;Hydrogen peroxide for synthesis / H2O2;3;
+66;Antisera pemeriksaan microbiologi;74;
+67;Rentogell/ Hebiseet ( disinfektan );18;
+68;NaCl;84;
+69;PDA;84;
+70;- Ph test ( 280 test 6,4-8,8 );65;
+71;Calcium carbonat precipated GR;83;
+72;Mannitol salt phenol red agar ( MSA );83;
+73;Triple sugar iron agar;83;
+74;Blood agar base;83;
+75;Aquabidest;99;
+76;H2O2 Perhidrol 3%;82;
+77;PP test kehamilan;43;
+78;Protein Urine Stik;67;
+79;Protein Urine Stik URYXXON 10P;67;
+80;Reagen Wida Paratypi l O;66;
+81;Reagen Widal AH;66;
+82;Reagen Widal AO;66;
+83;Reagen Widal BH;66;
+84;Reagen Widal BO;66;
+85;Reagen Widal CH;66;
+86;Reagen Widal CO;66;
+87;Reagen Widal Parathypi  H;66;
+88;Spiritus;12;
+89;Stik Asam Urat;51;
+90;Stik Cholesterol;12;
+91;Stik Gula Darah;51;
+92;Stik Hemoglobin;12;
+93;Stik Protein Urine;67;
+94;tisu 1 kg;48;
+95;tisu gulung;55;
+96;Reagen gol darah anti A;66;
+97;Reagen gol darah anti B;66;
+98;Reagen gol darah anti C;66;
+99;Reagen gol darah anti D;66;
+100;Reagen Gula Darah Ellitech;65;
+101;Reagen Uric Acid Ellitech;65;
+102;Reagen Cholesterol Ellitech;65;
+103;Rgn Ureum;65;
+104;Rgn SGPT;65;
+105;Rgn SGOT;65;
+106;Rgn Creatinin;65;
+107;Na2SO4;1;730000
+108;K2HPO4;1;2300000
+109;KH2PO4;1;1150000
+110;NH4Cl;1;1210000
+111;NaOH;1;775000
+112;MgSO4.7H2O;1;1595000
+113;CaCl;1;1350000
+114;FeCl3.6H2O;58;4940
+115;Glukosa;58;1840
+116;Asam Glutamat;58;1610
+117;H2SO4;3;1150000
+118;MnSO4.4H2O;1;2410000
+119;KI;58;4650
+120;NaN3;58;4600
+121;Amilum;58;690
+122;Na2S2O3.5H2O;1;1050000
+123;K2Cr2O7;58;10500
+124;HgSO4;58;47400
+125;Ag2SO4;58;150800
+126;NH2SO3H;58;150800
+127;KHP;58;5700
+128;n-hexan;3;1725000
+129;KCL;58;6400
+130;Fenol;3;1035000
+131;Na2HPO4.7H2O;1;2305000
+132;Alkalin citrat;58;3220
+133;Natrium Nitroprucit;72;3450
+134;Etil Alkohol;3;1150000
+135;Aseton;3;1725000
+136;Asam Fosfat;3;2300000
+137;1,5 Difenil Karboksida;72;3450
+138;K4Fe(CN)6;58;19400
+139;KH(IO3)2;58;56700
+140;alkil Sulfonal Linier;58;3980
+141;C20H14O4;58;48000
+142;H2O2 30%;58;3400
+143;NaH2PO4.H2O;1;4350000
+144;C6H8O6;58;12900
+145;(NH4)6Mo7O24*4H2O;58;13620
+146;K(SbO)C4H4O2.1/2H2O;58;8060
+147;HCL;3;614000
+148;NaCl;58;1670
+149;C11H13N3O;58;136000
+150;KBrO3;58;20900
+151;KBr;58;2830
+152;Metil Jingga;58;58800
+153;NH4OH;58;7775
+154;I2;58;25200
+155;Buffer PH4;71;2760
+156;Buffer Ph10;71;2760
+157;Na2S2O3;58;3450
+158;NaClO;58;3450
+159;NaAsO2;58;4030
+160;C23H26N2O4;58;169000
+161;C6H7NO3S;58;11400
+162;KNO3;58;2060
+163;H2SO4;3;308000
+164;Kertas Saring Grade 42;48;1155000
+165;HNO3;3;2300000
+166;Pupuk Herbisida;3;432000
+167;Pupuk Furadan;1;13500
+168;Pupuk Insektisida Monior 1/2;3;34155
+169;Pupuk KCL;1;5400
+170;Pupuk NPK;1;2400
+171;Pupuk Obat Penyemprot Lalat;3;86400
+172;Pupuk Phonska;1;2500
+173;Pupuk Organik Fermentasi;1;1350
+174;Pupuk Roundup;3;432000
+175;Selang Air 3 inci/m;6;50000
+176;Selang Spiral 3 inci/m;6;50000
+177;Pupuk SP 36;1;8100
+178;Tangki semprot 14 liter;18;500000
+179;Pupuk Urea;1;1700
+180;Pupuk ZA;1;2000
+181;Obat-obatan/Pestisida Applaud 10 WH/pestisida sejenis;1;95040
+182;Obat-obatan/Pestisida Applaud Cair;3;143640
+183;Obat-obatan/Pestisida Applaud WWP;1;57240
+184;Obat-obatan/Pestisida Arivo;3;59400
+185;Obat-obatan/Pestisida Bassa;3;62640
+186;Obat-obatan/Pestisida Baycard 500 EC;3;79920
+187;Obat-obatan/Pestisida Benlate L;1;31320
+188;Obat-obatan/Pestisida Buldok 25 EC;1;189000
+189;Obat-obatan/Pestisida Darmabas;3;392040
+190;Obat-obatan/Pestisida Decis 2,5 EC;3;184680
+191;Obat-obatan/Pestisida Decis 2,5 EC;1;243000
+192;Obat-obatan/Pestisida Dithane;1;164160
+193;Obat-obatan/Pestisida Fenval;3;189000
+194;Obat-obatan/Pestisida Fujiwan;3;187920
+195;Obat-obatan/Pestisida Furadan 3 G;1;118800
+196;Obat-obatan/Pestisida Kanon;3;81000
+197;Obat-obatan/Pestisida Klerat;1;378000
+198;Obat-obatan/Pestisida Marsahal;1;118800
+199;Obat-obatan/Pestisida Marshal 25 St;1;10800
+200;Obat-obatan/Pestisida Pounce 25 EC;1;97200
+201;Obat-obatan/Pestisida Regent;3;18900
+202;Obat-obatan/Pestisida Ripcord;3;162000
+203;Obat-obatan/Pestisida Saturn D;1;118800
+204;Obat-obatan/Pestisida Score;3;135000
+205;Obat-obatan/Pestisida Sevin;1;112320
+206;Obat-obatan/Pestisida Spontan;3;118800
+207;Obat-obatan/Pestisida Supracide;3;81000

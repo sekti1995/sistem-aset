@@ -1,0 +1,36 @@
+stok
+i : in/pengadaan
+ok : out/pengeluaran
+os : out/penyaluran
+or : out/reklasifikasi
+d : delete/penghapusan
+m : mutasi gudang
+r : receive / penerimaan dari skpd
+a : awal (adjust)
+s : stok opname (adjust)
+
+Pengadaan / masuk
+1 : Pengadaan
+2 : Pemeriksaan
+3 : Penerimaan
+
+Nota Permintaan 
+0 : diajukan
+1 : Sudah dibuat suratnya
+
+Surat Permintaan
+0 : diajukan
+1 : diverifikasi
+2 : ditolak
+3 : disalurkan
+
+Surat Perintah keluar
+0 : belum diverifikasi
+1 : diverifikasi
+2 : ditolak
+3 : dikeluarkan
+
+Keluar Barang
+0 : dikeluarkan
+1 : disalurkan
+2 : diterima

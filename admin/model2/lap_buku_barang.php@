@@ -1,0 +1,176 @@
+<?php
+	session_start();
+	require_once "../../config/db.koneksi.php";
+	require_once "../../config/db.function.php";
+	require_once "../../config/library.php";
+	$peran = cekLogin();
+	
+	$id_sub = isset($_POST['id_sub']) ? $_POST['id_sub'] : '';
+	$ta = isset($_POST['thn']) ? $_POST['thn'] : date('Y');
+	$id_sumber = isset($_POST['id_sumber']) ? $_POST['id_sumber'] : '';
+	$bln = isset($_REQUEST['bln']) ? str_pad($_REQUEST['bln'],2,'0', STR_PAD_LEFT) : str_pad(date('m'),2,'0', STR_PAD_LEFT);
+	
+	
+	if($ta!=""){ 
+		$am = " AND d.ta = '$ta'"; 
+		$at = " AND td.ta = '$ta'"; 
+		$aj = " AND DATE_FORMAT(tgl_adjust, '%Y') = '$ta'"; 
+		$ak = " AND t.ta = '$ta'"; 
+	}else{ $am = $at = $aj = $ak = ""; }
+	if($_SESSION['level']==md5('c')){
+		$bm = " AND MD5(m.uuid_skpd) = '$_SESSION[uidunit]'";
+		$bt = " AND MD5(td.uuid_skpd) = '$_SESSION[uidunit]'";
+		$bj = " AND MD5(ad.uuid_skpd) = '$_SESSION[uidunit]'";
+		$bk = " AND MD5(k.uuid_skpd) = '$_SESSION[uidunit]'";
+	}else{
+		//if($id_sub!=""){
+			$bm = " AND m.uuid_skpd = '$id_sub'";
+			$bt = " AND td.uuid_skpd = '$id_sub'";
+			$bj = " AND ad.uuid_skpd = '$id_sub'";
+			$bk = " AND k.uuid_skpd = '$id_sub'";
+		//}else{ $bm = $bk = ""; }
+	}
+	if($bln!="" AND $bln!="00"){
+		$c = " AND DATE_FORMAT(k1.tgl_transaksi, '%m') = '$bln'"; 
+		$cc = " AND DATE_FORMAT(k2.tgl_transaksi, '%m') = '$bln'"; 
+		$cm = " AND DATE_FORMAT(km.tgl_transaksi, '%m') = '$bln'"; 
+		$c1 = " AND DATE_FORMAT(tgl_transaksi, '%m') < '$bln'"; 
+		$c2 = " AND DATE_FORMAT(tgl_penerimaan, '%m') = '$bln'"; 
+		$c3 = " AND DATE_FORMAT(tgl_terima, '%m') = '$bln'"; 
+	}else $c = $cc = $cm = $c1 = $c2 = $c3 = "";
+	if($id_sumber!="") $d = "AND k.id_sumber_dana = '$id_sumber'";
+	else $d = "";
+		
+	
+	$result = array(); $items = array(); $id_terima = "";
+	
+	$rs = mysql_query("SELECT a.id_barang, nama_barang, jml_in, jml_out, harga, id_transaksi, a.kode, tgl_transaksi, 
+							IF(b.id_barang IS NOT NULL, 1, 2) AS j, IFNULL(b.keterangan, bk.keterangan) AS merk, 
+							id_transaksi_detail, 
+							(SELECT IFNULL(SUM(jml_in-jml_out),0) FROM kartu_stok k3 WHERE k3.id_barang = a.id_barang 
+								AND k3.uuid_skpd = a.uuid_skpd AND k3.soft_delete = 0 AND k3.kode <> 'm' $c1) AS saldo
+						FROM (
+							SELECT k1.id_barang, k1.jml_in, k1.jml_out, k1.harga, k1.id_transaksi, k1.kode, 
+								k1.tgl_transaksi, k1.create_date, k1.id_transaksi_detail, k1.uuid_skpd
+							FROM kartu_stok k1
+							WHERE k1.soft_delete = 0 AND k1.kode <> 'm' AND k1.jml_in <> 0 $c
+							UNION
+							SELECT k2.id_barang, k2.jml_in, k2.jml_out, k2.harga, k2.id_transaksi, k2.kode, 
+								k2.tgl_transaksi, k2.create_date, k2.id_transaksi_detail, k2.uuid_skpd
+							FROM kartu_stok k2, keluar_detail kd
+							WHERE k2.soft_delete = 0 AND k2.kode <> 'm' AND k2.jml_out <> 0 $cc
+								AND k2.id_transaksi_detail = kd.id_keluar_detail AND k2.id_transaksi = kd.id_keluar
+								AND kd.id_terima_detail NOT IN (SELECT km.id_transaksi_detail FROM kartu_stok km WHERE km.soft_delete = 0
+								$cm AND km.kode <> 'm' AND km.jml_in <> 0)
+						) AS a
+						LEFT JOIN ref_barang b ON b.id_barang = a.id_barang 
+						LEFT JOIN ref_barang_kegiatan bk ON bk.id_barang_kegiatan = a.id_barang
+						LEFT JOIN ref_jenis s1 ON s1.id_jenis = b.id_jenis
+						LEFT JOIN ref_jenis s2 ON s2.id_jenis = bk.id_jenis
+						ORDER BY j, s1.kd_kel, s2.kd_kel, s1.kd_sub, s2.kd_sub, b.kd_sub2, bk.kode, a.tgl_transaksi, 
+						a.create_date");
+	$r = mysql_num_rows($rs);
+	$result["total"] = $r;					
+	while($b = mysql_fetch_assoc($rs)){
+		$row['nama_barang'] = $b['nama_barang'];
+		$row['merk'] = $b['merk'];
+		if($b['jml_in']>0){ // BARANG MASUK
+			$row['jml_keluar'] = '';
+			$row['tgl_keluar'] = '';
+			$row['kepada'] = '';
+			$row['tglno_surat'] = '';
+			
+			$row['jml_terima'] = number_format($b['jml_in'], 0, ',', '.');
+			$row['hrg_terima'] = number_format($b['harga'], 0, ',', '.');
+			$jml_in = $b['jml_in'];
+			$saldolalu = $b['saldo'];
+			if($b['kode']=='i'){
+				$ket = mysql_query("SELECT tgl_penerimaan AS tgl_terima, tahun, 
+										tgl_pemeriksaan AS tgl_periksa, no_ba_pemeriksaan AS no_periksa
+									FROM masuk_detail d
+									LEFT JOIN masuk m ON m.id_masuk = d.id_masuk
+									WHERE d.soft_delete=0 AND m.status_proses = 3 AND d.id_barang = '$b[id_barang]'
+									AND d.id_masuk = '$b[id_transaksi]'");
+				$out = mysql_query("SELECT tgl_terima AS tgl_keluar, tgl_ba_out AS tgl_surat, no_ba_out AS no_surat, 
+									IF(jenis_out='s', nm_sub2_unit, peruntukan) AS kepada, jml_barang
+									FROM keluar_detail kd
+									LEFT JOIN keluar k ON k.id_keluar = kd.id_keluar
+									LEFT JOIN ref_sub2_unit s ON k.uuid_untuk = s.uuid_sub2_unit
+									WHERE kd.id_terima_detail = '$b[id_transaksi_detail]' AND kd.id_barang = '$b[id_barang]'
+									AND kd.soft_delete = 0 $c3 ");
+			}
+			$k = mysql_fetch_assoc($ket);
+			$row['tgl_terima'] = balikTanggalIndo($k['tgl_terima']);
+			$row['tahun'] = $k['tahun'];
+			$row['tgl_periksa'] = balikTanggalIndo($k['tgl_periksa']);
+			$row['no_periksa'] = $k['no_periksa'];
+			
+			$numros = mysql_num_rows($out);
+			if($numros>1){
+				$no = 1;
+				while($o = mysql_fetch_assoc($out)){
+					$row['jml_keluar'] = number_format($o['jml_barang'], 0, ',', '.');
+					$row['tgl_keluar'] = balikTanggalIndo($o['tgl_keluar']);
+					$row['kepada'] = $o['kepada'];
+					$tgl_surat = balikTanggalIndo($o['tgl_surat']);
+					if($o['tgl_surat']!='' && $o['no_surat']!='') $row['tglno_surat'] = "$tgl_surat / $o[no_surat]";
+					else  $row['tglno_surat'] = "$tgl_surat $o[no_surat]";
+					if($no!=1){
+						$row['tgl_terima'] = "";
+						$row['tgl_terima'] = "";
+						$row['tahun'] = "";
+						$row['jml_terima'] = "";
+						$row['hrg_terima'] = "";
+						$row['tgl_periksa'] = "";
+						$row['no_periksa'] = "";
+					}
+					//$row['ket'] = $no;
+					if($numros!=$no) array_push($items, $row);
+					$no++;	
+				}
+			}elseif($numros!=0){
+				$o = mysql_fetch_assoc($out);
+				$row['jml_keluar'] = number_format($o['jml_barang'], 0, ',', '.');
+				$row['tgl_keluar'] = balikTanggalIndo($o['tgl_keluar']);
+				$row['kepada'] = $o['kepada'];
+				$tgl_surat = balikTanggalIndo($o['tgl_surat']);
+				if($o['tgl_surat']!='' && $o['no_surat']!='') $row['tglno_surat'] = "$tgl_surat / $o[no_surat]";
+				else  $row['tglno_surat'] = "$tgl_surat $o[no_surat]";
+				$row['ket'] = "";
+			}else{
+				$row['jml_keluar'] = "";
+				$row['tgl_keluar'] = "";
+				$row['kepada'] = "";
+				$row['tglno_surat'] = "";
+			}
+		}/* else{ // BARANG KELUAR
+			$row['tgl_terima'] = "";
+			$row['tahun'] = "";
+			$row['jml_terima'] = "";
+			$row['hrg_terima'] = "";
+			$row['tgl_periksa'] = "";
+			$row['no_periksa'] = "";
+			$row['jml_keluar'] = number_format($b['jml_out'], 0, ',', '.');
+			if(strpos($b['kode'], 'o')!==false){
+				$ket = mysql_query("SELECT tgl_terima AS tgl_keluar, tgl_ba_out AS tgl_surat, no_ba_out AS no_surat, 
+											IF(jenis_out='s', nm_sub2_unit, peruntukan) AS kepada
+									FROM keluar_detail t
+									LEFT JOIN keluar k ON k.id_keluar = t.id_keluar
+									LEFT JOIN ref_sub2_unit s ON k.uuid_untuk = s.uuid_sub2_unit
+									WHERE t.soft_delete=0 AND t.id_keluar_detail = '$b[id_transaksi_detail]'
+									AND t.id_keluar = '$b[id_transaksi]'");
+			}
+			$k = mysql_fetch_assoc($ket);
+			$row['tgl_keluar'] = balikTanggalIndo($k['tgl_keluar']);
+			$row['kepada'] = $k['kepada'];
+			$tgl_surat = balikTanggalIndo($k['tgl_surat']);
+			if($k['tgl_surat']!='' && $k['no_surat']!='') $row['tglno_surat'] = "$tgl_surat / $k[no_surat]";
+			else  $row['tglno_surat'] = "$tgl_surat $k[no_surat]";
+		}	 */
+		array_push($items, $row);
+	}
+	
+	$result["rows"] = $items;
+	echo json_encode($result);
+	mysql_close();
+?>

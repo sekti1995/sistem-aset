@@ -1,0 +1,917 @@
+1;Personal Computer (PC);18;
+2;Lap Top/ Notebook;18;
+3;Netbook;18;
+4;Komputer Server;18;
+5;Tablet;18;
+6;Printer;18;
+7;PABX  6 Line - 16 Extension;18;
+8;Scaner A4;18;
+9;Software ;74;
+10;Monitor LCD touchscreen;18;
+11;Monitor LCD biasa;18;
+12;Mesin Fotocopy;18;
+13;Toner Laser Jet;10;
+14;Catridge Printer ;10;
+15;Baterai Laptop;10;
+16;Flash disk 4 G;10;75000
+17;Flash disk 8 G;10;95000
+18;Flash disk 16 G;10;160000
+19;Flash disk 32 G;10;217500
+20;UPS 600 VA;10;750000
+21;Mouse;18;80000
+22;CCTV (8 camera HD recording);42;10000000
+23;Bahan Pakaian Dinas PDH (Pakaian Dinas Harian);6;100000
+24;Bahan Pakaian Dinas Hansip;6;100000
+25;Bahan Pakaian Dinas Korpri;6;50000
+26;Bahan Pakaian Dinas Batik;6;75000
+27;Bahan Jas Kandungan wool 140inci5;6;500000
+28;Bahan Jas Kandungan wool 160inci5;6;900000
+29;Bahan Jas Kandungan wool 180inci5;6;1000000
+30;Badge/ lencana PDH bordir;42;15000
+31;Badge/ lencana Hansip bordir;42;16000
+32;Badge/ lencana LLAJ;42;25000
+33;Badge/ lencana Sapol PP;42;20000
+34;Badge/ lencana Lencana/ Pin emas anggota DPRD;10;2500000
+35;Topi PDH / Hansip;10;20000
+36;Topi Baret Sapol PP;10;45000
+37;Topi PET + Emblem Satpol PP;10;60000
+38;Topi Bludru bordir nama / jabatan;10;100000
+39;Topi Mutz;10;70000
+40;Emblem & Tali koor & Komando;42;20000
+41;Sepatu hitam bahan kulit;44;300000
+42;Sepatu hitam bahan katun;44;150000
+43;Sepatu kets warna putih;44;200000
+44;Sepatu kets hitam bahan kulit;44;200000
+45;Dasi warna hitam;10;30000
+46;Kaos Kaki;10;15000
+47;Pakaian dinas upacara;42;250000
+48;Jas hujan;10;55000
+49;Tanda pengenal pegawai;10;15000
+50;Tas kerja Kulit imitasi;10;125000
+51;Tas kerja Kulit;10;400000
+52;Pakaian olah raga Training kaos lengan pendek;42;200000
+53;Pakaian olah raga Topi olah raga;10;30000
+54;Pakaian olah raga Sepatu kets warna putih;44;125000
+55;Pakaian olah raga Kaos lengan pendek;10;50000
+56;Pakaian olah raga Kaos lengan panjang;10;65000
+57;Pakaian olah raga Training kaos lengan panjang;42;225000
+58;Pakaian olah raga Kaos kaki olahraga;44;15000
+59;Ongkos jahit Jas;42;750000
+60;Ongkos jahit PDH;42;150000
+61;Ongkos jahit KORPRI;42;100000
+62;Meja Kerja Bupati Uk 190 cm x 100 cm x 75 cm;18;10000000
+63;Meja Kerja Bupati Model kerja Biro berlapis kaca riben 5 mm.;18;10000000
+64;Meja Kerja Bupati Bahan kayu jati kwalitas I;18;10000000
+65;Meja Kerja Bupati Warna coklat / menyesuaikan;18;10000000
+66;Meja Kerja Bupati Kelengkapan writing set, alm anak, rak meja bendera RI kecil, bak potelot, asbak, kotak, memo dan lembar disposisi;18;10000000
+67;Meja Kerja Wakil Bupati Uk 185 x 100 x 75 cm;18;9000000
+68;Meja Kerja Wakil Bupati Spesifikasi dan kelengkapan sama dengan meja kerja Bupati;18;9000000
+69;Meja Kerja Ketua & Wakil Ketua DPRD Uk 185 x 100 x 75 cm;18;9000000
+70;Meja Kerja Ketua & Wakil Ketua DPRD Spesifikasi dan kelengkapan sama dengan Bupati;18;9000000
+71;Meja Kerja Sekda Uk 175 cm x 100 x 75 cm;18;8000000
+72;Meja Kerja Sekda Spesifikasi dan kelengkapan sama dengan Bupati;18;8000000
+73;Meja Kerja eselon II uk. 180 x 100 x 75 cm;18;4700000
+74;Meja Kerja eselon III uk. 180 x 90 x 75 cm;18;4000000
+75;Meja Kerja eselon IV uk. 160 x 70 x 75 cm;18;3500000
+76;Meja non struktural Uk 120 x 60 x 75 cm;18;1250000
+77;Meja Ketik;10;750000
+78;Meja Telpon;10;500000
+79;Meja Rapat uk. 160 x 70 x 75 cm;10;2000000
+80;Meja Rapat uk. 220 x 50 x 75 cm;10;3300000
+81;Meja Rapat uk. 120 x 50 x 75 cm;10;1750000
+82;Meja Rapat uk. 120 x 70 x 75 cm;10;1500000
+83;Meja kursi tamu ukir untuk Bupati   ;42;10000000
+84;Meja kursi tamu ukir untuk Wabup   ;42;8000000
+85;Meja kursi tamu ukir untuk Eselon II  ;42;6000000
+86;Meja kursi tamu ukir untuk Eselon III   ;42;3500000
+87;Meja kursi tamu R. untuk Bupati   ;42;10000000
+88;Meja kursi tamu R. untuk Wabup   ;42;3000000
+89;Meja kursi tamu R. untuk Eselon II   ;42;2500000
+90;Meja kursi tamu R. untuk Eselon III;42;2000000
+91;Meja Counter Bahan kayu jati;10;
+92;Meja Counter Bahan triplek/multiplek/teakwood;10;
+93;Meja Counter Bangsal Bahan kayu jati;10;
+94;Meja Counter Bangsal Bahan triplek/multiplek/teakwood;10;
+95;Meja Counter Dalam IGD Bahan kayu jati;10;
+96;Meja Counter Dalam IGD Bahan triplek/multiplek/teakwood;10;
+97;Meja Counter Luar IGDBahan kayu jati;10;
+98;Meja Counter Luar IGDBahan triplek/multiplek/teakwood;10;
+99;Meja Komputer Uk. 80 x 40 x 71,5;18;250000
+100;Meja Komputer Uk. 110 x 44 x 71,5;18;335000
+101;Meja Komputer Uk. 120 x 48 x 75,5 ;18;360000
+102;Meja Komputer Uk. 135 x 71 x 75,5;18;900000
+103;Meja guru uk 120 x 75 x 75;10;400000
+104;Meja siswa uk 65 x 54 x 60;10;200000
+105;Kursi murid SD;10;100000
+106;Meja murid SD;10;250000
+107;Kursi murid TK;10;75000
+108;Meja murid TK;10;150000
+109;Kursi;10;
+110;Kursi Kerja Bupati uk. 60 x 60 45;10;5000000
+111;Kursi Kerja Wabup uk. 60 x 60 x 45;10;2900000
+112;Kursi Kerja Eselon II uk. 60 x 60 x 45;10;2200000
+113;Kursi Eselon III uk. 50 x 50 x 45;10;1500000
+114;Kursi Eselon IV uk. 50 x 50 x 45;10;1500000
+115;Kursi staf;10;400000
+116;kursi lipat;10;275000
+117;Kursi susun;10;350000
+118;Kursi tunggu jati panjang 1,5 m;10;500000
+119;Kursi tunggu jati panjang 2 m;10;1500000
+120;Kursi tunggu jati panjang 2,5 m;10;2500000
+121;Kursi kuliah sandaran tangan ;10;300000
+122;Kursi taman besi cor;10;3000000
+123;Meja Kursi Tamu Plitur ;42;10000000
+124;Meja Kursi Tamu Melamin;42;3500000
+125;Almari buku dengan kaca Uk 100 x 50 x 180 cm    ;10;3500000
+126;Almari buku dengan kaca Uk 120 x 180 x 45 cm    ;10;5500000
+127;Almari buku dengan kaca Uk 180 x 200 x 45 cm    ;10;6000000
+128;Almari buku dengan kaca Uk 240 x 210 x 45 cm    ;10;9500000
+129;Podium / Mimbar uk 80 x 120 x 80 biasa bahan jati;10;1500000
+130;Podium / Mimbar uk 80 x 120 x 80 ukiran / berlogo pemda (bahan jati);10;2000000
+131;Tempat Tidur Tempat tidur ukir Bupati dan Wakil;10;
+132;Tempat Tidur uk single;10;1500000
+133;Tempat Tidur uk double;10;8000000
+134;Tempat Tidur Spring bed uk single;10;1750000
+135;Tempat Tidur Spring bed uk double;10;5000000
+136;Tempat Tidur Tingkat Bahan Besi;10;2250000
+137;Tempat Tidur Kasur Busa;10;750000
+138;Bantal;10;35000
+139;Bantal Busa;10;50000
+140;Guling;10;35000
+141;Tempat Tidur Papan Kayu;10;15000
+142;Kitchen Bahan melamin / triplek Uk 117 x 42 x 179;10;2000000
+143;Kitchen Bahan melamin / triplek Uk 117 x 35 x 74;10;600000
+144;Kitchen Bahan melamin / triplek Uk 117 x 35 x 74;10;500000
+145;Kitchen Bahan melamin / triplek Uk 117 x 51 x 76;10;850000
+146;Kitchen Bahan melamin / triplek Uk 78 x 51 x 76;10;675000
+147;Kitchen Bahan melamin / triplek Uk 117 x 51 x 76;10;1000000
+148;Kitchen Set Bahan kayu jati finishing melamin;42;10000000
+149;Almari Pakaian ;10;8000000
+150;Filling Cabinet 2 Laci uk 73 x 45 x 62 (0,6 mm);18;1150000
+151;Filling Cabinet 2 Laci uk 73 x 45 x 62 (0,7 mm);18;1400000
+152;Filling Cabinet 3 Laci uk 103 x 45 x 62 (0,6 mm);18;1350000
+153;Filling Cabinet 3 Laci uk 103 x 45 x 62 (0,7 mm);18;1600000
+154;Filling Cabinet 4 Laci uk 133 x 45 x 62 (0,6 mm);18;1450000
+155;Filling Cabinet 4 Laci uk 133 x 45 x 62 (0,7 mm);18;1900000
+156;Filling Cabinet 4 Laci uk 133 x 45 x 62 (1,0 mm);18;2450000
+157;Almari Arsip Pintu ayun uk 91,5 x 88 x 45 (0,6);18;1200000
+158;Almari Arsip Pintu ayun uk 91,5 x 88 x 45 (0,7);18;1450000
+159;Almari Arsip Pintu ayun uk 183 x 89 x 45 (0,6);18;1500000
+160;Almari Arsip Pintu ayun uk 183 x 91 x 48 (0,7);18;2200000
+161;Almari Arsip Pintu ayun uk 91,5 x 90 x 45 (0,7);18;1750000
+162;Almari Arsip Pintu ayun uk 183 x 90 x 45 (0,7);18;2700000
+163;Locker 1 pintu besi;18;1000000
+164;Locker 2 pintu besi;18;1100000
+165;Locker 3 pintu besi;18;1225000
+166;Locker 4 pintu besi;18;1350000
+167;Locker 5 pintu besi;18;1450000
+168;Locker 6 pintu besi;18;1600000
+169;Locker 3 pintu plastik;18;400000
+170;Locker 4 pintu plastik;18;525000
+171;Locker IGD;18;UP
+172;Almari Besi Cash box;18;1100000
+173;Almari Besi Brankast kecil;18;6500000
+174;Almari Besi Brankast sedang;18;8300000
+175;Almari Besi Brankast besar;18;12500000
+176;Almari arsip tahan api 4 laci;18;15000000
+177;Almari arsip tahan api 3 laci;18;11000000
+178;Almari arsip tahan api 2 laci;18;7500000
+179;Rak Baja L 4 tingkat uk 200 x 100 x 40;18;1150000
+180;Rak Baja L 5 tingkat uk 200 x 100 x 40;18;1340000
+181;Rak Baja L 6 tingkat uk 220 x 100 x 40;18;2000000
+182;Rak Perpustakaan Satu muka uk 100 x 100 x 40 ;18;2225000
+183;Rak Perpustakaan Dua muka uk 180 x 100 x 50;18;2650000
+184;Rak Perpustakaan Dua muka uk 240 x 100 x 50;18;2950000
+185;White Board Uk 60 x 90 gantung;10;175000
+186;White Board Uk 80 x 90 gantung;10;200000
+187;White Board Uk  90 x 120 gantung;10;250000
+188;White Board Uk 90 x 180 gantung;10;300000
+189;White Board Uk 120 x 180 gantung;10;400000
+190;White Board Uk 120 x 240 gantung;10;500000
+191;White Board Uk 60 x 90  satu mWhite Board Uka / kaki;10;385000
+192;White Board Uk 60 x 120 satu mWhite Board Uka / kaki;10;425000
+193;White Board Uk  90 x 120 satu mWhite Board Uka / kaki;10;485000
+194;White Board Uk 90 x 180 satu mWhite Board Uka / kaki;10;565000
+195;White Board Uk 120 x 180 satu mWhite Board Uka / kaki;10;665000
+196;White Board Uk 120 x 240 satu mWhite Board Uka / kaki;10;745000
+197;White Board Uk 60 x 90 dua mWhite Board Uka / kaki;10;515000
+198;White Board Uk 60 x 120 dua mWhite Board Uka / kaki;10;565000
+199;White Board Uk 90 x 120 dua mWhite Board Uka / kaki;10;625000
+200;White Board Uk 90 x 180 dua mWhite Board Uka / kaki;10;770000
+201;White Board Uk 120 x 180 dua mWhite Board Uka / kaki;10;865000
+202;White Board Uk 120 x 240 dua mWhite Board Uka / kaki;10;995000
+203;Papan Nama Kantor uk 90 x 180 bahan kayu jati / besi;10;2350000
+204;Papan Nama Tanah Milik Pemda uk 60 x 100 bahan kayu jati / besi;10;1100000
+205;Papan Nama Rumah Dinas uk 15 x 25 cm ;10;100000
+206;Papan Nama Daftar Pasien Mondok uk 1 x 1,75 m untuk RS / Puskesmas;10;250000
+207;Papan Nama Pasien untuk bed RS / Puskesmas ;10;55000
+208;Gambar Presiden dan Wakil Presiden;10;280000
+209;Lambang Burung Garuda;10;160000
+210;Alat Pemadam Api ( Dry Chenical Powder ) Kapasitas 2 Kg;18;575000
+211;Alat Pemadam Api ( Dry Chenical Powder ) Kapasitas 4,5 Kg;18;1000000
+212;Alat Pemadam Api ( Dry Chenical Powder ) Kapasitas 6 Kg;18;1150000
+213;Alat Pemadam Api ( Dry Chenical Powder ) Kapasitas 9 Kg;18;1900000
+214;Mesin Tik Manual Model 13 inci portable;18;1625000
+215;Mesin Tik Manual Model 18 inci;18;4500000
+216;Calculator 8 digit (tanpa strok);18;80000
+217;Calculator 10 digit (tanpa strok);18;100000
+218;Calculator 12 digit (tanpa strok) ;18;140000
+219;Calculator 14 digit (tanpa strok);18;240000
+220;Calculator science;18;400000
+221;Mesin Penghancur Kertas   uk kecil;18;1350000
+222;Mesin Penghancur Kertas   uk sedang;18;2100000
+223;Mesin Penghancur Kertas   uk besar;18;3250000
+224;Mesin absensi Model manual;18;2750000
+225;Mesin absensi Model sidik jari;18;10000000
+226;Mesin Facsimile Model portable;18;1635000
+227;Mesin Facsimile Mesin laminating;18;2125000
+228;Mesin AUTO NUMBER automatic;18;2250000
+229;Tas box surat;18;1250000
+230;Background IGD;18;
+231;Suku Cadang Kendaraan Triseda (kendaraan roda tiga)Busi;10;16380
+232;Suku Cadang Kendaraan Triseda (kendaraan roda tiga) Radiator;10;630000
+233;Suku Cadang Kendaraan Triseda (kendaraan roda tiga) Olor kopling;10;25200
+234;Suku Cadang Kendaraan Triseda (kendaraan roda tiga) Olor gas;10;25200
+235;Suku Cadang Kendaraan Triseda (kendaraan roda tiga) Olor rem;10;25200
+236;Suku Cadang Kendaraan Triseda (kendaraan roda tiga) Kampas rem;10;315000
+237;Suku Cadang Kendaraan Triseda (kendaraan roda tiga) Kampas kopling;42;1000000
+238;Suku Cadang Kendaraan Triseda (kendaraan roda tiga) Laker ban;10;25200
+239;Suku Cadang Kendaraan Triseda (kendaraan roda tiga) Rantai kamprat;10;75600
+240;Suku Cadang Kendaraan Triseda (kendaraan roda tiga) Gardan;10;378000
+241;Suku Cadang Kendaraan Triseda (kendaraan roda tiga) Oli gardan;3;25200
+242;Suku Cadang Kendaraan Triseda (kendaraan roda tiga) Coolen radiator;3;31500
+243;Suku Cadang Kendaraan Triseda (kendaraan roda tiga) Ban 450-R12-8PR (58 PSI) ;10;378000
+244;Suku Cadang Kendaraan Triseda (kendaraan roda tiga) Ban Dalam;10;63000
+245;Suku Cadang Kendaraan Roda Empat  Wiper ( Sikat kaca );10;
+246;Suku Cadang Kendaraan Roda Empat  Bohlam lampu utama;10;
+247;Suku Cadang Kendaraan Roda Empat  Rellay lampu;10;
+248;Suku Cadang Kendaraan Roda Empat  Box Stop lamp;10;
+249;Suku Cadang Kendaraan Roda Empat  Box Sekring ( Fuse box );10;
+250;Suku Cadang Kendaraan Roda Empat  Aki 60 A;10;
+251;Suku Cadang Kendaraan Roda Empat  Kabel aki panjang;10;
+252;Suku Cadang Kendaraan Roda Empat  Kabel aki pendek;10;
+253;Suku Cadang Kendaraan Roda Empat Brostel dynamo start;10;
+254;Suku Cadang Kendaraan Roda Empat Dinamo start;10;
+255;Suku Cadang Kendaraan Roda Empat Dinamo ampere;10;
+256;Suku Cadang Kendaraan Roda Empat Brostel dynamo ampere;10;
+257;Suku Cadang Kendaraan Roda Empat Bohlam sein / stop lamp. ;10;
+258;Suku Cadang Kendaraan Roda Empat Flasher sein;10;
+259;Suku Cadang Kendaraan Roda Empat Rellay pemanas;10;
+260;Suku Cadang Kendaraan Roda Empat Cop relay;10;
+261;Suku Cadang Kendaraan Roda Empat Klakson;10;
+262;Suku Cadang Kendaraan Roda Empat Soket lampu;10;
+263;Suku Cadang Kendaraan Roda Empat Tromol;10;
+264;Suku Cadang Kendaraan Roda Empat Kampas rem (4 roda);10;
+265;Suku Cadang Kendaraan Roda Empat Karet rem;10;
+266;Suku Cadang Kendaraan Roda Empat Minyak rem;10;
+267;Suku Cadang Kendaraan Roda Empat Master rem ( gentongan );10;
+268;Suku Cadang Kendaraan Roda Empat Laker roda depan ;10;
+269;Suku Cadang Kendaraan Roda Empat Laker roda belakang;10;
+270;Suku Cadang Kendaraan Roda Empat As roda belakang;10;
+271;Suku Cadang Kendaraan Roda Empat Pir depan;10;
+272;Suku Cadang Kendaraan Roda Empat Pir belakang;10;
+273;Suku Cadang Kendaraan Roda Empat Shock breaker depan;10;
+274;Suku Cadang Kendaraan Roda Empat Shock breaker belakang;10;
+275;Suku Cadang Kendaraan Roda Empat Karet anting;10;
+276;Suku Cadang Kendaraan Roda Empat Bos Pir;10;
+277;Suku Cadang Kendaraan Roda Empat Cil roda;10;
+278;Suku Cadang Kendaraan Roda Empat Karet half;10;
+279;Suku Cadang Kendaraan Roda Empat Stop pir;10;
+280;Suku Cadang Kendaraan Roda Empat Liner;10;
+281;Suku Cadang Kendaraan Roda Empat Piston;10;
+282;Suku Cadang Kendaraan Roda Empat Ring Piston;10;
+283;Suku Cadang Kendaraan Roda Empat Stang Piston;10;
+284;Suku Cadang Kendaraan Roda Empat Metal jalan;10;
+285;Suku Cadang Kendaraan Roda Empat Metal duduk;10;
+286;Suku Cadang Kendaraan Roda Empat Packing set;10;
+287;Suku Cadang Kendaraan Roda Empat Gasket sealer;10;
+288;Suku Cadang Kendaraan Roda Empat Water pump;10;
+289;Suku Cadang Kendaraan Roda Empat Filter bahan bakar;10;
+290;Suku Cadang Kendaraan Roda Empat Filter oli;10;
+291;Suku Cadang Kendaraan Roda Empat Duduk mesin;10;
+292;Suku Cadang Kendaraan Roda Empat Selang radiator atas;10;
+293;Suku Cadang Kendaraan Roda Empat Selang radiator bawah;10;
+294;Suku Cadang Kendaraan Roda Empat Streng;10;
+295;Suku Cadang Kendaraan Roda Empat Laker transmisi;10;
+296;Suku Cadang Kendaraan Roda Empat Sikromes;10;
+297;Suku Cadang Kendaraan Roda Empat Duduk transmisi;10;
+298;Suku Cadang Kendaraan Roda Empat Kampas kopling;10;
+299;Suku Cadang Kendaraan Roda Empat Drug laker;10;
+300;Suku Cadang Kendaraan Roda Empat Matahari;10;
+301;Suku Cadang Kendaraan Roda Empat Kres kopel;10;
+302;Suku Cadang Kendaraan Roda Empat Olor PTO;10;
+303;Suku Cadang Kendaraan Roda Empat Karet kopling atas;10;
+304;Suku Cadang Kendaraan Roda Empat Karet kopling bawah;10;
+305;Suku Cadang Kendaraan Roda Empat Kembang Waru;10;
+306;Suku Cadang Kendaraan Roda Empat Ring kembang waru;10;
+307;Suku Cadang Kendaraan Roda Empat Sil garden;10;
+308;Suku Cadang Kendaraan Accu isuzu elf;10;1118000
+309;Suku Cadang Kendaraan As crack/rabil isuzu elf;10;10400000
+310;Suku Cadang Kendaraan As roda isuzu elf;10;2600000
+311;Suku Cadang Kendaraan Ban dalam isuzu elf;10;338000
+312;Suku Cadang Kendaraan Ban luar isuzu elf BL. 750 x 14 x 14Pl GT;10;2340000
+313;Suku Cadang Kendaraan Corter isuzu elf;10;2600000
+314;Suku Cadang Kendaraan Drak laker isuzu elf;10;390000
+315;Suku Cadang Kendaraan Filter oil isuzu elf;10;84500
+316;Suku Cadang Kendaraan Filter set solar isuzu elf;10;780000
+317;Suku Cadang Kendaraan Gardan pignyon isuzu elf;10;1950000
+318;Suku Cadang Kendaraan Kampas kopling isuzu elf;10;1300000
+319;Suku Cadang Kendaraan Kampas rem isuzu elf;10;247000
+320;Suku Cadang Kendaraan Karet rem isuzu elf;42;61750
+321;Suku Cadang Kendaraan Klep/ring klep isuzu elf;10;1950000
+322;Suku Cadang Kendaraan Metal duduk isuzu elf;10;910000
+323;Suku Cadang Kendaraan Metal jalan isuzu elf;10;715000
+324;Suku Cadang Kendaraan Peking mesin isuzu elf;10;715000
+325;Suku Cadang Kendaraan Peking set isuzu elf;10;260000
+326;Suku Cadang Kendaraan Persneling gigi isuzu elf;10;2340000
+327;Suku Cadang Kendaraan Ring piston isuzu elf;10;1040000
+328;Suku Cadang Kendaraan Seker/piston isuzu elf;10;2730000
+329;Suku Cadang Kendaraan Silinder/bouring isuzu elf;10;2080000
+330;Suku Cadang Kendaraan Stang seker isuzu elf;10;7800000
+331;Suku Cadang Kendaraan Verpak manipol isuzu elf;10;780000
+332;Suku cadang buldoser dan Loader Alternator;10;1014000
+333;Suku cadang buldoser dan Loader Ban Back hoe Loader;10;8125000
+334;Suku cadang buldoser dan Loader Conrod;10;1014000
+335;Suku cadang buldoser dan Loader Crankshaf;10;21125000
+336;Suku cadang buldoser dan Loader Cyl linier;10;1014000
+337;Suku cadang buldoser dan Loader Elektric sistem;10;2366000
+338;Suku cadang buldoser dan Loader Engine mounting;10;228150
+339;Suku cadang buldoser dan Loader Gasket full set;10;4225000
+340;Suku cadang buldoser dan Loader Metal duduk;10;1605500
+341;Suku cadang buldoser dan Loader Metal jalan;10;1267500
+342;Suku cadang buldoser dan Loader Metal trusth;10;422500
+343;Suku cadang buldoser dan Loader Motor stater;10;2028000
+344;Suku cadang buldoser dan Loader Piston;10;1605500
+345;Suku cadang buldoser dan Loader Repair kit arm cyl exavator;10;1183000
+346;Suku cadang buldoser dan Loader Repair kit boom cyl exavator;10;1098500
+347;Suku cadang buldoser dan Loader Repair kit boom cyl loader;10;1183000
+348;Suku cadang buldoser dan Loader Repair kit dump cyl loader;10;1098500
+349;Suku cadang buldoser dan Loader Repair kit jack seal cyl exavator;10;1183000
+350;Suku cadang buldoser dan Loader Repair kit jack seal cyl exavator;10;2366000
+351;Suku cadang buldoser dan Loader Repair swing kit bucket cyl exavator;10;1014000
+352;Suku cadang buldoser dan Loader Ring piston;10;1132300
+353;Suku Cadang Kendaraan ACCU Hybrid N 100;10;1279000
+354;Suku Cadang Kendaraan ACCU Hybrid N 70;10;946000
+355;Suku Cadang Kendaraan ACCU Hybrid N70 Z;10;1000000
+356;Suku Cadang Kendaraan ACCU Hybrid NS 40;10;528000
+357;Suku Cadang Kendaraan ACCU Hybrid NS 40 2;10;570000
+358;Suku Cadang Kendaraan ACCU Hybrid NS 40 SL;10;610000
+359;Suku Cadang Kendaraan ACCU Hybrid NS 50 Z;10;700000
+360;Suku Cadang Kendaraan ACCU Hybrid NS 60;10;820000
+361;Suku Cadang Kendaraan ACCU Hybrid NS 60 L;10;615000
+362;Suku Cadang Kendaraan ACCU Hybrid NS 60 S;10;615000
+363;Suku Cadang Kendaraan ACCU Hybrid NS 70;10;831000
+364;Suku Cadang Kendaraan ACCU Hybrid NS 120 A;10;1575000
+365;Suku Cadang Kendaraan ACCU Maintenance Free NS 40;10;727000
+366;Suku Cadang Kendaraan ACCU Maintenance Free NS 40 Z (L)MF;10;754000
+367;Suku Cadang Kendaraan ACCU Maintenance Free NS 40 Z MF;10;750000
+368;Suku Cadang Kendaraan ACCU Maintenance Free NS 50 MF;10;884000
+369;Suku Cadang Kendaraan ACCU Maintenance Free NS 50 Z MF;10;1031000
+370;Suku Cadang Kendaraan ACCU Maintenance Free NS 60 L (S) MF;10;828000
+371;Suku Cadang Kendaraan ACCU Maintenance Free NS 60 L MF;10;828000
+372;Suku Cadang Kendaraan ACCU Maintenance Free NS 60 MF;10;828000
+373;Suku Cadang Kendaraan ACCU Maintenance Free NS 60 S MF;10;828000
+374;Suku Cadang Kendaraan ACCU Maintenance Free NS 70 MF;10;1118000
+375;Suku Cadang Kendaraan Ban Luar Roda 4 (empat)  165/70 R 13 GT 770;10;356750
+376;Suku Cadang Kendaraan Ban Luar Roda 4 (empat)  175/70 R 13 GT 770;10;308900
+377;Suku Cadang Kendaraan Ban Luar Roda 4 (empat)  185/70 R 13 GT 770;10;443500
+378;Suku Cadang Kendaraan Ban Luar Roda 4 (empat)  185/70 R 14 GT 770;10;518500
+379;Suku Cadang Kendaraan Ban Luar Roda 4 (empat)  165/80 R 13 GT 880;10;312200
+380;Suku Cadang Kendaraan Ban Luar Roda 4 (empat)  185/80 R 14 GT 880;10;379800
+381;Suku Cadang Kendaraan Ban Luar Roda 4 (empat)  185/60 R 14 Eagle NCT3;10;562200
+382;Suku Cadang Kendaraan Ban Luar Roda 4 (empat)  825-20 HM G 141;10;1560000
+383;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 186/65 R 14 Eagle Vbentura;10;601800
+384;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 235/70 R 15 Eagle AT+4;10;639900
+385;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 235/70 R 15 Eagle Wrangle;10;675250
+386;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 5.00-12 Traction Hi Miler;10;225900
+387;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 5.50-13 Hi Miler G 11 play 6;10;395100
+388;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 5.50-13 Hi Miler G 11 play 8;10;314400
+389;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 6.40-13 Hi Miler G 11;10;338400
+390;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 6.00-14 Hi Miler G 11;10;414500
+391;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 6.00-13 Hi Miler G 8;10;336100
+392;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 7.00-14 Hi Miler G 141;10;371500
+393;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 7.50-15 Hi Miler G 11;10;637900
+394;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 7.00-16 Hi Miler G 141;10;612000
+395;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 7.50-16 Hi Miler G 141;10;715300
+396;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 185/80 SR 14 S.248 T;10;344000
+397;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 175/80 SR 14 S.248 T;10;332000
+398;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 165/80 SR 14 S.248 T;10;257000
+399;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 175/70 SR 14 S.350 T;10;382000
+400;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 190/60 HR 14 S.331 T;10;557000
+401;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 205/60 VR 15 RE-87 T;10;787500
+402;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 195/60 VR 15 RE-87 T;10;750000
+403;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 185/60 VR 15 RE-87 T;10;625000
+404;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 205/60 VR 14 RE-87 T;10;787000
+405;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 205/60 VR 15 RE-771 T;10;750000
+406;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 195/60 VR 15 RE-771 T;10;650000
+407;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 185/60 VR 14 RE-771 T;10;625000
+408;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 205/55 VR 16 E-55 NZT;10;912500
+409;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 205/50 VR 16 E-50 NZT;10;882500
+410;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 195/70 11 R 14 S.390 T;10;532000
+411;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 185/70 11 R 14 S.390 T;10;507000
+412;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 185/65 11 R 14 S.325 T;10;525000
+413;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 235/70 SR 15 D 601 T;10;594000
+414;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 185/70 SR 13 S.337 T;10;594000
+415;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 185/70 SR 14 S.337 T;10;500000
+416;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 175/70 SR 13 S.337 T;10;437500
+417;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 175/70 SR 13 S.337 T;10;400000
+418;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 175 R 13 6 PR D 601;10;370000
+419;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 165 R 13 6 PR D 601;10;307000
+420;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 30 X B13 R.15 LT 6 PR 694;10;1238000
+421;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 30 X 9.50 R.15 LT 6 PR 694;10;1238000
+422;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 215 / 55 R.17 93 V;10;1143000
+423;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 205/55 R.16 S.15;10;1060000
+424;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 750-16;10;1512000
+425;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 700-16;10;1197000
+426;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 550 13 8 PR;10;472500
+427;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 600- 13 8 PR;10;535500
+428;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) 450-12 8 PR ;10;352800
+429;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) Bridgestone Turanza AR-10 (Seri 65) 205/65 VR15;10; 
+430;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) Bridgestone Techno T-370 (Seri 70) 185/70 SR14;10; 
+431;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) Bridgestone Techno T-370 (Seri 70) 175/70 SR13;10; 
+432;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) Dunlop SP 2000 (VR Range 65) 205/65 VR15;10; 
+433;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) Dunlop SP 70e (SR Range 70) 185/70 SR14;10; 
+434;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) Dunlop SP 70e (SR Range 70) 175/70 SR13;10; 
+435;Suku Cadang Kendaraan Ban Luar Roda 4 (empat) Dunlop 155 SR12;10; 
+436;Suku Cadang Kendaraan Ban Dalam Roda 4 (empat) Ring 13;10;118000
+437;Suku Cadang Kendaraan Ban Dalam Roda 4 (empat) Ring 14;10;134000
+438;Suku Cadang Kendaraan Ban Dalam Roda 4 (empat) Ring 15;10;157000
+439;Suku Cadang Kendaraan Ban Dalam Roda 4 (empat) Ring 16;10;179000
+440;Suku Cadang Kendaraan Ban Dalam Roda 4 (empat) Ring 17;10;202000
+441;Suku Cadang Kendaraan Ban Luar Roda 2 (dua) 2.25 (60/90) - 17;10;140000
+442;Suku Cadang Kendaraan Ban Luar Roda 2 (dua) 2.50 (70/90) - 17;10;151000
+443;Suku Cadang Kendaraan Ban Luar Roda 2 (dua) 2.75 (80/90) - 17;10;162000
+444;Suku Cadang Kendaraan Ban Luar Roda 2 (dua) 3.00 (90/90) - 17;10;174000
+445;Suku Cadang Kendaraan Ban Luar Roda 2 (dua) 3.50 (100/90) - 17;10;185000
+446;Suku Cadang Kendaraan Ban Luar Roda 2 (dua) 2.50 (70/90) - 18;10;157000
+447;Suku Cadang Kendaraan Ban Luar Roda 2 (dua) 2.75 (80/90) - 18;10;168000
+448;Suku Cadang Kendaraan Ban Luar Roda 2 (dua) 3.00 (90/90) - 18;10;179000
+449;Suku Cadang Kendaraan Ban Luar Roda 2 (dua) 3.50 (100/90) - 18;10;201000
+450;Suku Cadang Kendaraan Ban Luar Roda 2 (dua) 2.25 (60/90) - 14;10;134000
+451;Suku Cadang Kendaraan Ban Luar Roda 2 (dua) 2.50 (70/90) - 14;10;140000
+452;Suku Cadang Kendaraan Ban Luar Roda 2 (dua) 2.75 (80/90) - 14;10;146000
+453;Suku Cadang Kendaraan Ban Luar Roda 2 (dua) 3.00 (90/90) - 14;10;162000
+454;Suku Cadang Kendaraan Ban Luar Roda 2 (dua) 3.50 (100/90) - 14;10;185000
+455;Suku Cadang Kendaraan Ban Dalam Roda 2 (dua) 2.25 -17;10;34000
+456;Suku Cadang Kendaraan Ban Dalam Roda 2 (dua) 250 - 17;10;37000
+457;Suku Cadang Kendaraan Ban Dalam Roda 2 (dua) 275 - 17;10;40000
+458;Suku Cadang Kendaraan Ban Dalam Roda 2 (dua) 300 - 17;10;44000
+459;Suku Cadang Kendaraan Ban Dalam Roda 2 (dua) 250 - 18;10;40000
+460;Suku Cadang Kendaraan Ban Dalam Roda 2 (dua) 275 - 18;10;44000
+461;Suku Cadang Kendaraan Ban Dalam Roda 2 (dua) 300 - 18;10;46000
+462;Suku Cadang Kendaraan Ban Dalam Roda 2 (dua) 250 - 14;10;33000
+463;Suku Cadang Kendaraan Ban Dalam Roda 2 (dua) 275 - 14;10;37000
+464;Suku Cadang Kendaraan Ban Dalam Roda 2 (dua) 300 - 14;10;40000
+465;Suku Cadang Kendaraan T. Lap (sliwer) 16 K;10;36000
+466;Suku Cadang Kendaraan T. Lap (sliwer) 15 K x A;10;36000
+467;Suku Cadang Kendaraan T. Lap (sliwer) 16 LX;10;43200
+468;Suku Cadang Kendaraan T. Lap (sliwer) 16 N;10;54000
+469;Suku Cadang Kendaraan T. Lap (sliwer) 20 R;10;114000
+470;Suku Cadang Kendaraan T. Lap (sliwer) 20 N;10;74400
+471;Suku Cadang Kendaraan T. Lap (sliwer) 20 MX;10;60000
+472;Suku Cadang Kendaraan T. Lap (sliwer) 24 V;10;150000
+473;Suku Cadang Kendaraan T. Lap (sliwer) 8256 – 20 HM G141;10;25000
+474;Kebutuhan Kegiatan Pertambangan Palu Geologi Sedimen;18; 
+475;Kebutuhan Kegiatan Pertambangan Kompas geologi;18; 
+476;Kebutuhan Kegiatan Pertambangan PH meter/Soil Tester type DM 5;18; 
+477;Kebutuhan Kegiatan Pertambangan Theodolite  Leica Builder 100 ( 9 inci );18; 
+478; Kebutuhan Kegiatan Pertambangan Theodolite  Topcon DT 205 L;18; 
+479;Kebutuhan Kegiatan Pertambangan Stereoscope Photo Udara type MS 3;18; 
+480;Kebutuhan Kegiatan Pertambangan Total Station;18;
+481;Kebutuhan Kegiatan Pertambangan Total Station  Topcon ES 105;18; 
+482;Kebutuhan Kegiatan Pertambangan  Total Station  Nikon DTM 322;18; 
+483;Kebutuhan Kegiatan Pertambangan DO meter;18; 
+484;Kebutuhan Kegiatan Pertambangan Hammer Test Analog;18; 
+485;Kebutuhan Kegiatan Pertambangan Digital altimeter;18; 
+486;Kebutuhan Kegiatan Pertambangan Curah Hujan Manual;18; 
+487;Kebutuhan Kegiatan Pertambangan Geomatic / Elektrik;18; 
+488;Mesin Jahit Butterfly JH.8190;18;
+489;Mesin Jahit Butterfly JH.8530 A;18;
+490;Mesin Jahit Butterfly JH.5832 A;18;
+491;Mesin Jahit Juki Walking Foot DLU 1181N;18;
+492;Mesin Jahit Juki Hzl 27Z;18;
+493;Mesin Jahit Juki DDL 8100H;18;
+494;Mesin Jahit Juki Hzl 35Z;18;
+495;Mesin Jahit Juki 1850;18;
+496;Mesin Jahit Juki Mo 6514;18;
+497;Mesin Jahit Juki Hzl K65;18;
+498;Mesin Jahit Juki DDL 8100E;18;
+499;Mesin Jahit Janome MC12000;18;
+500;Mesin Jahit Janome 4120QDC ;18;
+501;Mesin Jahit Janome 3160QDC;18;
+502;Mesin Jahit Janome 6260QC;18;
+503;Mesin Jahit Janome 8077 ;18;
+504;Mesin Jahit Janome 808A ;18;
+505;Mesin Jahit Janome HARMONY 4045LX;18;
+506;Mesin Jahit Janome INDIGO18;18;
+507;Mesin Jahit Janome NS7322 ;18;
+508;Mesin Jahit Janome 380 ;18;
+509;Mesin Jahit Janome 1008 ;18;
+510;Mesin Jahit Janome NS311a ;18;
+511;Mesin Jahit Janome 381 ;18;
+512;Mesin Jahit Janome PLT3312 ;18;
+513;Mesin Jahit Janome NS7210;18;
+514;Mesin Jahit Janome LR1122;18;
+515;Mesin Jahit Singer 8280;18;
+516;Mesin Jahit Singer 974;18;
+517;Mesin Jahit Singer 2250;18;
+518;Mesin Jahit Singer 2259;18;
+519;Mesin Jahit Singer HD 441;18;
+520;Mesin Jahit Singer 7467 confidence;18;
+521;Mesin Jahit Singer 6180 brilliance;18;
+522;Mesin Jahit Singer 6160;18;
+523;Mesin obras Kansai 779D;18;
+524;Mesin obras Jaguar 55 D;18;
+525;Mesin obras Janome 990 D;18;
+526;Mesin obras Yamata FY 737A;18;
+527;Mesin obras stitches;18;
+528;Mesin Las Listrik Trafo las Lakoni Falcon 120e;18;
+529;Mesin Las Listrik Trafo las Lakoni Falcon 168e;18;
+530;Mesin Las Listrik Trafo las Inverter H&L 120;18;
+531;Mesin Las Listrik Trafo las Inverter H&L 160;18;
+532;Mesin Las Listrik Trafo las WIM TIG Welder ITG 180A;18;
+533;Mesin Las Listrik Trafo las WIM TIG Welder ITG 222P;18;
+534;Mesin Las Listrik Trafo las WIM MIG Welder MIGWELD 188;18;
+535;Mesin Las Listrik  MMA 120 G-KR;18;
+536;Mesin Las Listrik Trafo las WIM MIG Welder TA 351i;18;
+537;Peralatan/Mesin Pertanian /kesehatan hewan Animal minor surgery;18;
+538;Peralatan/Mesin Pertanian /kesehatan hewan Anting telinga kambing;10;10000
+539;Peralatan/Mesin Pertanian /kesehatan hewan Anting telinga sapi;10;21600
+540;Peralatan/Mesin Pertanian /kesehatan hewan Aplikator;10;690000
+541;Peralatan/Mesin Pertanian /kesehatan hewan Automatic syringe;18;1550000
+542;Peralatan/Mesin Pertanian /kesehatan hewan Automatic Syringe spare valve;18;150000
+543;Peralatan/Mesin Pertanian /kesehatan hewan Butyrometer;18;250000
+544;Peralatan/Mesin Pertanian /kesehatan hewan Container Cap 10 lt TP;10;20400000
+545;Peralatan/Mesin Pertanian /kesehatan hewan Container Cap 3 lt;10;13800000
+546;Peralatan/Mesin Pertanian /kesehatan hewan Container Cap 35 lt Hc;10;30600000
+547;Peralatan/Mesin Pertanian /kesehatan hewan Drenching Gun;10;2500000
+548;Peralatan/Mesin Pertanian /kesehatan hewan Insemination Gun;10;519000
+549;Peralatan/Mesin Pertanian /kesehatan hewan Lacto Densimeter;10;150000
+550;Peralatan/Mesin Pertanian /kesehatan hewan Meat Ph;10;7000000
+551;Peralatan/Mesin Pertanian /kesehatan hewan needle;46;
+552;Peralatan/Mesin Pertanian /kesehatan hewan Pengukur kadar air daging;18;
+553;Peralatan/Mesin Pertanian /kesehatan hewan Pin / Jarum Aplikator;10;108000
+554;Peralatan/Mesin Pertanian /kesehatan hewan Pita Ukur Berat Badan (Rondo);10;360000
+555;Peralatan/Mesin Pertanian /kesehatan hewan Plastik sheet;48;102600
+556;Peralatan/Mesin Pertanian /kesehatan hewan sarung tangan;44;
+557;Peralatan/Mesin Pertanian /kesehatan hewan Speculum;10;1750000
+558;Peralatan/Mesin Pertanian /kesehatan hewan spuit 10 ml;10;4000
+559;Peralatan/Mesin Pertanian /kesehatan hewan Spuit 3 cc diposible;10;50000
+560;Peralatan/Mesin Pertanian /kesehatan hewan spuit 3 ml;10;3500
+561;Peralatan/Mesin Pertanian /kesehatan hewan Spuit 5 cc diposible;10;60000
+562;Peralatan/Mesin Pertanian /kesehatan hewan spuit 5 ml;10;3750
+563;Peralatan/Mesin Pertanian /kesehatan hewan Spuit mika;18;
+564;Peralatan/Mesin Pertanian /kesehatan hewan Stick/Tongkat Ukur;10;4860000
+565;Peralatan/Mesin Pertanian /kesehatan hewan Tag Pen (Spidol Khusus Anting);10;360000
+566;Peralatan/Mesin Pertanian /kesehatan hewan Masker;10;
+567;Peralatan/Mesin Pertanian /kesehatan hewan Trocart Sapi;10;550000
+568;Alat Perikanan Seser kecil;10;
+569;Alat Perikanan Seser besar;10;
+570;Alat Perikanan Heater;10;
+571;Alat Perikanan Waring;10;
+572;Alat Perikanan Hapa besar;10;
+573;Alat Perikanan Hapa kecil;10;
+574;Alat Perikanan Jaring;10;
+575;Alat Perikanan Cool box besar;10;
+576;Alat Perikanan Cool box kecil;10;
+577;Alat Perikanan Aerator;10;
+578;Alat Perikanan Fish basket;10;
+579;Alat Perikanan Hi - blow;10;
+580;Alat Perikanan Terpal;6;
+581;Alat Perikanan Terpal dan kerangkanya diameter 1 m, tingggi 1 m;10;
+582;Alat Perikanan Terpal dan kerangkanya diameter 2 m, tingggi 1 m;10;
+583;Alat Perikanan Terpal dan kerangkanya diameter 3 m, tingggi 1 m;10;
+584;Alat Perikanan Terpal dan kerangkanya diameter 4 m, tingggi 1 m;10;
+585;Alat Perikanan Terpal dan kerangkanya diameter 5 m, tingggi 1 m;10;
+586;Alat Perikanan Tabung oksigen;10;
+587;Alat Perikanan Jala besar;10;
+588;Alat Perikanan Jala kecil;10;
+589;Alat Mesin (Pertanian) Traktor roda 2 (8,5 PK);18;27500000
+590;Alat Mesin (Pertanian) Power Tresher type dorong :;18;
+591; Alat Mesin (Pertanian) Power Tresher type dorong  6,5 PK;18;19800000
+592; Alat Mesin (Pertanian) Power Tresher type dorong  8,5 PK;18;22550000
+593; Alat Mesin (Pertanian) Power Tresher type mobile :;18;
+594;Alat Mesin (Pertanian) Power Tresher type mobile 8,5 PK;18;24750000
+595;  Alat Mesin (Pertanian) Power Tresher type mobile 12 PK;18;37500000
+596; Cultivator;18;21500000
+597;Perajang pisang/kentang;18;
+598; Perajang pisang/kentang Manual;18;880000
+599; Perajang pisang/kentang Bermotor listrik;18;3850000
+600; Perajang Cabe/Bawang Merah;18;990000
+601;Perajang simplisia;18;440000
+602; Dryer (termasuk penggerak);18;4400000
+603;Oven;18;11000000
+604; Reaper;18;44000000
+605; Pompa air 2 transmisi vibelt;18;18500000
+606; Pompa air 3 transmisi vibelt;18;19800000
+607; Pompa air 4 transmisi vibelt;18;22000000
+608; Pompa air 6 transmisi vibelt;18;35200000
+609; Timbangan kapasitas 100 kg.;18;1210000
+610; Moisture Tester (Digital);18;49500000
+611; Unit Penggilingan Padi;18;
+612;  Unit Penggilingan Padi Mesin pecah kulit;18;11550000
+613; Unit Penggilingan Padi Mesin penyosoh;18;13750000
+614; Mist Blower KWh;18;5500000
+615; Hand Sprayer Automatic;18;825000
+616; Greeder Seed;18;66000000
+617;Cleaner Seed (Blower);18;11550000
+618; Pisau Okulasi;18;302500
+619; Penggiling empon  -empon;18;5500000
+620; Alat pres/pemeras;18;330000
+621; Panci besar;18;181500
+622; Kompor minyak;18;150700
+623; Las plastik;18;440000
+624; Mesin pecah kulit 8.5 PK;18;24750000
+625; Mesin penyosok / polisher termasuk penggerak 22 PK;18;60500000
+626; Mesin Pemipil jagung type TDA 1000 MG;18;11000000
+627; Mesin Pemecah Mlinjo + Penggerak;18;6600000
+628; Dryer seed;18;33000000
+629;  Tesler Pengukur kadar air Beras Type TA  - 5;18;2750000
+630; Tesler Pengukur kadar air Jagung Type TM  - 10;18;5500000
+631; Tesler Pengukur kadar air Wrapping Machine;18;16500000
+632;Mesin Penepung Kapasitas 50 kg/jam;18;7150000
+633;Mesin Penepung Kapasitas 15 kg/jam;18;4950000
+634;Mesin Perajang Dalam Negeri 6   Pisau;18;4950000
+635; Mesin Perajang Dalam Negeri 8   Pisau;18;5225000
+636;Mesin Perajang Dalam Negeri 10 Pisau;18;5500000
+637; Mesin Pengering Gabah (Type mix flow) Kapasitas 5 Ton;18;192500000
+638; Mesin Pengering Gabah (Type mix flow) Kapasitas 6 Ton;18;209000000
+639; Mesin Pengering Gabah (Type mix flow) Kapasitas 7.5 Ton;18;291500000
+640; Mesin Pengering Gabah (Type mix flow) Kapasitas 10 Ton;18;357500000
+641; Mesin Pengering Gabah ((Type Cross Flow);18;
+642; Mesin Pengering Gabah ((Type Cross Flow) Mesin Pengering Gabah ((Type Cross Flow) Kapasitas 5 Ton;18;137500000
+643; Mesin Pengering Gabah ((Type Cross Flow) Kapasitas 7.5 Ton;18;225500000
+644; Mesin Pengering Gabah ((Type Cross Flow) Kapasitas 10 Ton;18;275000000
+645; Mesin Pengering Gabah ((Type Cross Flow) Paddy Cleaner;18;27500000
+646;  Packing otomatis kapasitas 40  -100 kgs/rpm;18;51000
+647; mesin bor kayu;18;
+648; mesin amplas;18;
+649; tabung blower;18;
+650; mesin planer kayu;18;
+651; Upah Tenanga Borongan Ass. Driller ;68;113400
+652; Upah Tenanga Borongan Buruh Semi Terlatih ;68;66150
+653; Upah Tenanga Borongan Buruh Terlatih ;68;81900
+654; Upah Tenanga Borongan Crew Drilling ;68;81900
+655; Upah Tenanga Borongan Driller ;68;157500
+656; Upah Tenanga Borongan Geologis ;68;217350
+657; Upah Tenanga Borongan Kepala Tukang ;68;91350
+658; Upah Tenanga Borongan Koordinator Logging ;68;207900
+659; Upah Tenanga Borongan M a n d o r ;68;88200
+660; Upah Tenanga Borongan Masinis/Operator ;68;85050
+661; Upah Tenanga Borongan Mekanik Terlatih ;68;85050
+662; Upah Tenanga Borongan Mekanik Pembantu ;68;78750
+663; Upah Tenanga Borongan Mekanik/Welder ;68;78750
+664; Upah Tenanga Borongan Operator Pompa ;68;88200
+665; Upah Tenanga Borongan Operator Semi Terlatih ;68;63000
+666; Upah Tenanga Borongan Operator Terlatih ;68;78750
+667; Upah Tenanga Borongan Pekerja/buruh tak terlatih ;68;63000
+668; Upah Tenanga Borongan Pembantu Geologis ;68;170100
+669; Upah Tenanga Borongan Pembantu Masinis/Operator ;68;75600
+670; Upah Tenanga Borongan Pembantu Sopir ;68;56700
+671; Upah Tenanga Borongan Penjaga Malam ;68;56700
+672; Upah Tenanga Borongan Sopir ;68;69300
+673; Upah Tenanga Borongan Tukang Batu ;68;81900
+674; Upah Tenanga Borongan Tukang Besi ;68;81900
+675; Upah Tenanga Borongan Tukang Cat ;68;81900
+676; Upah Tenanga Borongan Tukang Elektro ;68;83025
+677; Upah Tenanga Borongan Tukang Gali ;68;76860
+678; Upah Tenanga Borongan Tukang Kayu ;68;88200
+679; Upah Tenanga Borongan Tukang Las ;68;81900
+680; Upah Tenanga Borongan Tukang Listrik ;68;81900
+681; Upah Tenanga Borongan Tukang Masak Aspal ;68;91350
+682; Upah Tenanga Borongan Tukang Pipa/Pompa ;68;88200
+683; Bahan Dan Alat Gergaji ;10;73800
+684; Bahan Dan Alat Gergaji mesin chain saw ;10;18450000
+685; Bahan Dan Alat Gerobak ;10;4920000
+686; Bahan Dan Alat  Glass block 20x20 ;10;25200
+687; Bahan Dan Alat Glass block 30x30 ;10;37800
+688; Bahan Dan Alat  Gravel Pack  diameter 0,5 - 1,5 cm ;5;315000
+689; Bahan Dan Alat GRC ( 120 cm x 240 cm ) t : 5 mm ;41;104800
+690; Bahan Dan Alat Grease (paselin) ;1;56700
+691; Bahan Dan Alat Grendel (biasa) ;10;5670
+692; Bahan Dan Alat Grendel (sedang) ;10;8190
+693; Bahan Dan Alat Grendel (super) ;10;10710
+694; Bahan Dan Alat Grosok 2/3 cm ;5;220500
+695; Bahan Dan Alat Grosok tabur/jagung ;5;229250
+696; Bahan Dan Alat Gunting pangkas ;10;153750
+697; Bahan Dan Alat Gypsum tebal 9 mm ( 120 x 240 cm ) ;41;98250
+698; Bahan Dan Alat Gypsum tebal 6,5  mm (120 x 240 cm ) ;41;78600
+699; Bahan Dan Alat Hak angin ( biasa ) ;10;5670
+700; Bahan Dan Alat Hak angin ( sedang ) ;10;10710
+701; Bahan Dan Alat Hak angin ( super ) ;10;17010
+702; Bahan Dan Alat Handle jendela ;10;12600
+703; Bahan Dan Alat Harplex 3 mm ( 1,00 x 1,00 ) ;10;21615
+704; Bahan Dan Alat HB. 20 ;10;8820
+705; Bahan Dan Alat Hospital plint fiber ;10;23310
+706; Bahan Dan Alat Hospital plint keramik ;10;50400
+707; Bahan Dan Alat Ijuk ;1;15750
+708; Bahan Dan Alat Jas hujan ;10;147600
+709; Bahan Dan Alat Jet sower ;42;113400
+710; Bahan Dan Alat Kaca aluminium profil  ;9;315000
+711; Bahan Dan Alat Kaca aluminium patri ;9;1008000
+712; Bahan Dan Alat Masker ;10;8600
+713; Bahan Dan Alat MCB 32 Amper ;10;50400
+714; Bahan Dan Alat Meni Besi  ;1;31500
+715; Bahan Dan Alat Mesin Potong Rumput Dorong ;10;5658000
+716; Bahan Dan Alat Mesin Potong Rumput Gendong ;10;5289000
+717; Bahan Dan Alat Pecok ;10;86100
+718; Bahan Dan Alat Sabit ;10;98400
+719; Bahan Dan Alat Saklar Ganda ;10;25200
+720; Bahan Dan Alat Saklar Tunggal ;10;19530
+721; Bahan Dan Alat Sapu Lidi ;10;12300
+722; Bahan Dan Alat Seal tape ;10;6300
+723; Bahan Dan Alat Sealant ;51;78120
+724; Bahan Dan Alat Sekop ;10;73800
+725; Bahan Dan Alat Selang Air 2 inci ;6;61500
+726; Bahan Dan Alat Selang Air 3 inci ;6;61500
+727; Bahan Dan Alat Selang Spiral 3 inci ;6;184500
+728; Bahan Dan Alat Selang Timbang ;6;2460
+729; Bahan Dan Alat Seling Pengaman ;18;1386000
+730; Bahan Dan Alat Tang Penjepit ;10;43050
+731; Bahan Dan Alat Tang Potong ;10;50400
+732; Bahan Dan Alat Tangki Semprot 14 Liter ;10;553500
+733; Bahan Dan Alat Teakwood 3 mm ( 1,20 x 240 ) ;41;151200
+734; Bahan Dan Alat Teakwood 4 mm ( 1,20 x 240 ) ;41;138600
+735; Bahan Dan Alat Tiang listrik beton C11.200 daN E ;10;6048000
+736; Bahan Dan Alat Tiang listrik beton C11.350 daN E ;10;6930000
+737; Bahan Dan Alat Tiang listrik beton C11.350 daN E BC  ;10;7056000
+738; Bahan Dan Alat Tiang listrik beton C9.200 daN E ;10;4914000
+739; Bahan Dan Alat Topi Kerja ;10;36900
+740; Bahan Dan Alat Travo 50 KVA ;18;39060000
+741;Stom Walls ZM Bureng Stom Walls ZM. ;10;441375
+742;Stom Walls ZM Drek Kopling Stom Walls ZM. ;10;396450
+743;Stom Walls ZM Geer Pinion Stom Walls ZM. ;10;1524750
+744;Stom Walls ZM Gigi Roda Besar/Ring Gear Stom Walls ZM. ;10;15247500
+745;Stom Walls ZM Kampas Kopling maju-mundur Stom Walls ZM.;42;722250
+746;Stom Walls ZM Lager Drek Kopling 6019 Stom Walls ZM. ;10;1043250
+747;Stom Walls ZM Sil Drek Kopling 105 130 Stom Walls ZM.;10;72225
+748; Stom Walls MV.6 P. Full Set Stom Walls MV.6 P.;42;601875
+749;Stom Walls MV.6 P.  Kampas Kopling maju-mundur Stom Walls MV.6 P.;42;722250
+750; Stom Walls MV.6 P. Kepingan Drek Kopling Slide with pin Stom Walls MV.6 P.;42;56175
+751; Stom Walls MV.6 P. Lager Pinion Stom Walls MV.6 P.;10;1203750
+752; Stom Walls MV.6 P. Nozzle Stom Walls MV.6 P.;10;240750
+753; Stom Walls MV.6 P. Ring Piston Stom Walls MV.6 P.;42;240750
+754; Stom Walls MV.6 P. Sil Pinion Stom Walls MV.6 P.;42;56175
+755;Stom Walls MV.6 P. As Rek Bospomp Stom Wall MV.6 P.;10;92000
+756;Stom Walls MV.6 P. As Segitiga Panjang Stom Wall MV.6 P.;10;2808750
+757;Stom Walls MV.6 P.As Segitiga Pendek Stom Walls MV.6 P.;10;1364250
+758;Stom Walls MV.6 P. Cakaran Kopling Stom Wall MV.6 P.;10;120375
+759;Stom Walls MV.6 P. Drek Pion Stom Wall MV.6 P.;10;1524750
+760;Stom Walls MV.6 P. Feer Bospomp Stom Wall MV.6 P.;10;102399
+761;Stom Walls MV.6 P. Fiber Stom Wall MV.6 P.;10;120375
+762;Stom Walls MV.6 P. Geer Pinion Stom Walls MV.6 P. ;10;1524750
+763;Stom Walls MV.6 P. Hardik kopling Stom Wall MV.6 P.;10;280875
+764;Stom Walls MV.6 P. Kepingan & Pen Duk Kopling Wall MV.6 P.;42;56175
+765;Stom Walls MV.6 P. Kepingan Drek Kopling Stom Wall MV.6 P.;42;56175
+766;Stom Walls MV.6 P. Kepingan Lobang 3 Stom Wall MV.6 P.;10;108500
+767;Stom Walls MV.6 P. Lager Gear Pion Stom Wall MV.6 P.;10;1203750
+768;Stom Walls MV.6 P. Lager Hardik Kopling Stom Wall MV.6 P.;10;396435
+769;Stom Walls MV.6 P. Lager Kopling Stom Wall MV.6 P.;10;152475
+770;Stom Walls MV.6 P. Membran Stom Wall MV.6 P.;10;200625
+771;Stom Walls MV.6 P. Metal Duduk STD Stom Wals MV.6 P.;42;1564875
+772;Stom Walls MV.6 P. Metal Jalan STD Stom Walls MV.6 P.;42;762375
+773;Stom Walls MV.6 P. Pen & Kepingan Drek Kopling Stom Wall MV.6 P.;42;56175
+774;Stom Walls MV.6 P. Piston Stom Walls MV.6 P.;10;601875
+775;Stom Walls MV.6 P. Plunyer Stom Wall MV.6 P.;10;361125
+776;Stom Walls MV.6 P. Rantai Kamprat Wall MV.6 P.;10;2006250
+777;Stom Walls MV.6 P. Segitiga Bintang Stom Walls MV.6 P.;10;722250
+778;Stom Walls MV.6 P. Sill Geer Pinion Stom Wall MV.6 P.;10;56175
+779;Stom Walls MV.6 P. Team Laer Pelatuk Stom Wall MV.6 P.;10;321000
+780;Stom Walls MGB.08 Bureng Stom Walls MGB.08 ;10;1524750
+781;Stom Walls MGB.08 Full Set Stom Walls MGB.08 ;42;1524750
+782;Stom Walls MGB.08 Koppel Stom Walls MGB.08 ;10;383000
+783;Stom Walls MGB.08 Lemer Stom Walls MGB.08 ;42;536000
+784;Stom Walls MGB.08 Nozzle Stom Walls MGB.08 ;10;722250
+785;Stom Walls MGB.08  Piston Stom Walls MGB.08;10;2166750
+786;Stom Walls MGB.08  Plunyer Stom Walls MGB.08;10;361125
+787;Stom Walls MGB.08 Ring Piston Stom Walls MGB.08;42;722250
+788;Stom Walls MGB.08 As Segitiga Stom Wall MGB.08;10;1444500
+789;Stom Walls MGB.08 Baut Bola Body Stom Wall MGB.08;10;20000
+790;Stom Walls MGB.08 Bosmpomp Bandul Stom Wall MGB.08;42;4597350
+791;Stom Walls MGB.08 Fiber Stom Wall MGB.08;10;200625
+792;Stom Walls MGB.08 Gear Pinion Stom Wall MGB.08;10;1524750
+793;Stom Walls MGB.08 Geer Lengkap Stom Wall MGB.08;10;401250
+794;Stom Walls MGB.08 Gigi Angkatan Stom Wall MGB.08;10;722250
+795;Stom Walls MGB.08 Gigi Angkatan Stom Wall MGB.08;10;642000
+796;Stom Walls MGB.08 Hardik Kopling Stom Wall MGB.08;10;280875
+797;Stom Walls MGB.08 Kampas Kopling Stom Wall MGB.08;10;1524750
+798;Stom Walls MGB.08 Karet Body/Eungine Mounting Stom Wall MGB.08;10;240750
+799;Stom Walls MGB.08 Koppel/Cris Koppel Stom Wall MGB.08;10;255400
+800;Stom Walls MGB.08 Lager Duk Kopling Stom Wall MGB.08;10;401250
+801;Stom Walls MGB.08 Lager Gigi Angkatan Stom Wall MGB.08;10;104325
+802;Stom Walls MGB.08 Lager hardik Kopling Stom Wall MGB.08;10;321000
+803;Stom Walls MGB.08 Lem Sekuler Stom Wall MGB.08;10;48150
+804;Stom Walls MGB.08 Membran Stom Wall MGB.08;10;321000
+805;Stom Walls MGB.08  Metal Duduk STD Stom Wals MGB.08;42;1364250
+806;Stom Walls MGB.08 Metal Jalan Duduk STD Stom Walls MGB.08;42;722250
+807;Stom Walls MGB.08 Pen dan Kepingan Stom Wall MGB.08;42;306000
+808;Stom Walls MGB.08 Rantai Kamprat/Fanbel Stom Wall MGB.08;10;2006250
+809;Stom Walls MGB.08 Segitiga Stom Wall MGB.08;10;1284000
+810;Stom Walls MGB.08 Sgitiga Depan Stom Wall MGB.08;10;1253500
+811;Stom Walls MGB.08 Sil Oli Sil Kop Wall MGB.08;10;24075
+812;Stom Walls WK.015 Full Set Stom Walls WK. 015;42;481500
+813;Stom Walls WK.015 Gigi Angkatan Stom Walls WK. 015;10;642000
+814;Stom Walls WK.015 Koppel /Cris Koppel Stom Walls WK. 015;10;353100
+815;Stom Walls WK.015 Lager Gigi Angkatan Stom Walls WK. 015;10;104325
+816;Stom Walls WK.015 Nozzle Stom Walls WK. 015;10;722250
+817;Stom Walls WK.015 Plunyer Stom Walls WK. 015;10;361125
+818;Stom Walls WK.015 Ring Piston Stom Walls WK. 015;10;240750
+819; Accu 120 Amphere ;10;2140000
+820;Laker 6206;10;72225
+821;Laker 6304;10;64200
+822;Laker 6305;10;92250
+823;Laker 22212 NACHI;10;731900
+824;Laker 22212 NTN;10;869100
+825;Laker 22212 TWB;10;531250
+826;Laker 22215 NACHI;10;866700
+827;Laker 22215 NTN/NSK/K040;10;1030400
+828;Laker 62/28 NR;10;88300
+829;Laker 63/28 NR;10;112350
+830;Laker Biting;10;88275
+831;Seal 105130;10;80250
+832;Seal 4060;10;28000
+833;Seal 5080;10;56175
+834;Seal 6085;10;64200
+835;Seal TC 30 x 42 x 8;10;11500
+836;Seal TC 40 x 60 x 10;10;13650
+837;Seal TC 50 x 72 x 12;10;18000
+838;Seal TC 50 x 80 x 10;10;19250
+839;Seal TC 60 x 85 x 13/12;10;22000
+840;Pengecatan Stom Walls Cat Hitam;1;64200
+841;Pengecatan Stom Walls Cat Kuning;1;64200
+842;Pengecatan Stom Walls Cat Merah ;1;64200
+843;Pengecatan Stom Walls Cat Metalik;1;64200
+844;Pengecatan Stom Walls Dempul/Plamur;1;64200
+845;Pengecatan Stom Walls Tinner;1;64200
+846;Oli Gardan;10;29425
+847;Oli Hidrolis;10;29425
+848;Oli Mesin;3;33500
+849;Oli Ronsel;10;29425
+850;Stimped;1;80250
+851;Peralatan Alat Berat Bina Marga Asphalt Mixing Plant;78;
+852;Peralatan Alat Berat Bina Marga Asphalt Finisher;2;
+853;Peralatan Alat Berat Bina Marga Asphalt Sprayer;3;
+854;Peralatan Alat Berat Bina Marga Bulldozer 100-150 Hp;3;
+855;Peralatan Alat Berat Bina Marga Compressor 4000-6500 L\M;79;
+856;Peralatan Alat Berat Bina Marga Concrete Mixer 0.3-0.6 M3;3;
+857;Peralatan Alat Berat Bina Marga Crane 10-15 Ton;2;
+858;Peralatan Alat Berat Bina Marga Dump Truck 3-4 M3;2;
+859;Peralatan Alat Berat Bina Marga Dump Truck;2;
+860;Peralatan Alat Berat Bina Marga Excavator 80-140 Hp;5;
+861;Peralatan Alat Berat Bina Marga Flat Bed Truck 3-4 M3;2;
+862;Peralatan Alat Berat Bina Marga Generator Set;80;
+863;Peralatan Alat Berat Bina Marga Motor Grader >100 Hp;5;
+864;Peralatan Alat Berat Bina Marga Track Loader 75-100 Hp;5;
+865;Peralatan Alat Berat Bina Marga Wheel Loader 1.0-1.6 M3;5;
+866;Peralatan Alat Berat Bina Marga Three Wheel Roller 6-8 T;2;
+867;Peralatan Alat Berat Bina Marga Tandem Roller 6-8 T.;2;
+868;Peralatan Alat Berat Bina Marga Tire Roller 8-10 T.;2;
+869;Peralatan Alat Berat Bina Marga Vibratory Roller 5-8 T.;2;
+870;Peralatan Alat Berat Bina Marga Concrete Vibrator;2;
+871;Peralatan Alat Berat Bina Marga Stone Crusher;78;
+872;Peralatan Alat Berat Bina Marga Water Pump 70-100 Mm;78;
+873;Peralatan Alat Berat Bina Marga Water Tanker 3000-4500 L.;78;
+874;Peralatan Alat Berat Bina Marga Pedestrian Roller;2;
+875;Peralatan Alat Berat Bina Marga Tamper;2;
+876;Peralatan Alat Berat Bina Marga Jack Hammer;2;
+877;Peralatan Alat Berat Bina Marga Fulvi Mixer;2;
+878;Peralatan Alat Berat Bina Marga Concrete Pump;5;
+879;Peralatan Alat Berat Bina Marga Trailer 20 Ton;2;
+880;Peralatan Alat Berat Bina Marga Pile Driver + Hammer;2;
+881;Peralatan Alat Berat Bina Marga Crane On Track 35 Ton;2;
+882;Peralatan Alat Berat Bina Marga Welding Set;77;
+883;Peralatan Alat Berat Bina Marga Bore Pile Machine;6;
+884;Peralatan Alat Berat Bina Marga Asphalt Liquid Mixer;3;
+885;Peralatan Alat Berat Bina Marga Trailler 15 Ton;2;
+886;Peralatan Alat Berat Bina Marga Rock Drill Breaker;6;
+887;Peralatan Alat Berat Bina Marga Cold Milling;6;
+888;Peralatan Alat Berat Bina Marga Cold Recycler;6;
+889;Peralatan Alat Berat Bina Marga Hot Recycler;6;
+890;Peralatan Alat Berat Bina Marga Aggregat (chip) Spreader;6;
+891;Peralatan Alat Berat Bina Marga Asphalt Distribution;3;
+892;Peralatan Alat Berat Bina Marga Split Form Paver;6;
+893;Peralatan Alat Berat Bina Marga Concrete Pan Mixer;3;
+894;Peralatan Alat Berat Bina Marga Concrete Breaker;76;
+895;Peralatan Alat Berat Bina Marga Asphalt Tanker;3;
+896;Peralatan Alat Berat Bina Marga Cement Tanker;3;
+897;Peralatan Alat Berat Bina Marga Concrete Mixer (350);3;
+898;Peralatan Alat Berat Bina Marga Vibrating Rammer;1;
+899;Peralatan Alat Berat Bina Marga Truk Mixer;5;
+900;Peralatan Alat Berat Bina Marga Bore Pile Machine Dia 60;69;
+901;Peralatan Alat Berat Bina Marga Crane On Track 75 - 100Ton;2;
+902;Peralatan Alat Berat Bina Marga Blending Equipment;2;
+903;Peralatan Alat Berat Bina Marga Asphalt Liquid Mixer (kap 20000);3;
+904;Peralatan Alat Berat Bina Marga Chain Saw;3;
+905;Baby Roller;10;78000000
+906;Mesin Gilas Bergetar ( Baby Roller ) MGD-1000;10;218377000
+907;Mesin Gilas Bergetar ( Baby Roller ) MGD-700;10;168038650
+908;Mesin Gilas Statik 3 Roda MG-10;10;667497550
+909;Mesin Gilas Statik 3 Roda MG-12;10;690259400
+910;Mesin Gilas Statik 3 Roda MG-6;10;511423500
+911;Mesin Gilas Statik 3 Roda MG-6M;10;549907050
+912;Mesin Gilas Statik 3 Roda MG-8;10;634680100
+913;Mesin Gilas Tandem Bergetar MGB-1;10;394489500
+914;Mesin Gilas Tandem Statik MGT-2;10;378524500
+915;Mesin Penyembur Aspal MPA-200;10;121870500
+916;Pan Mixer MIX-300;10;152243949,6
+917;Stamper  4,0 Pk;10;15860000
